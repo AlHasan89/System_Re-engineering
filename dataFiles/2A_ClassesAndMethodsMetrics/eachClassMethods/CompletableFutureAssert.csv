@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/CompletableFutureAssert.CompletableFutureAssert,(Ljava/util/concurrent/CompletableFuture;)V,11,1

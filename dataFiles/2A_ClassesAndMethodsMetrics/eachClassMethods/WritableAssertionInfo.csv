@@ -1,0 +1,17 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/WritableAssertionInfo.WritableAssertionInfo,(Lorg/assertj/core/presentation/Representation;)V,23,2
+org/assertj/core/api/WritableAssertionInfo.WritableAssertionInfo,()V,15,1
+org/assertj/core/api/WritableAssertionInfo.overridingErrorMessage,()Ljava/lang/String;,7,1
+org/assertj/core/api/WritableAssertionInfo.overridingErrorMessage,(Ljava/lang/String;)V,10,1
+org/assertj/core/api/WritableAssertionInfo.description,()Lorg/assertj/core/description/Description;,7,1
+org/assertj/core/api/WritableAssertionInfo.descriptionText,()Ljava/lang/String;,17,2
+org/assertj/core/api/WritableAssertionInfo.hasDescription,()Z,18,3
+org/assertj/core/api/WritableAssertionInfo.description,(Ljava/lang/String;[Ljava/lang/Object;)V,14,1
+org/assertj/core/api/WritableAssertionInfo.description,(Lorg/assertj/core/description/Description;)V,11,1
+org/assertj/core/api/WritableAssertionInfo.representation,()Lorg/assertj/core/presentation/Representation;,7,1
+org/assertj/core/api/WritableAssertionInfo.useHexadecimalRepresentation,()V,12,1
+org/assertj/core/api/WritableAssertionInfo.useUnicodeRepresentation,()V,12,1
+org/assertj/core/api/WritableAssertionInfo.useBinaryRepresentation,()V,12,1
+org/assertj/core/api/WritableAssertionInfo.useRepresentation,(Lorg/assertj/core/presentation/Representation;)V,16,1
+org/assertj/core/api/WritableAssertionInfo.mostRelevantDescriptionIn,(Lorg/assertj/core/api/WritableAssertionInfo;Ljava/lang/String;)Ljava/lang/String;,16,2
+org/assertj/core/api/WritableAssertionInfo.toString,()Ljava/lang/String;,41,1

@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/filter/InFilter.InFilter,([Ljava/lang/Object;)V,10,1
+org/assertj/core/api/filter/InFilter.in,([Ljava/lang/Object;)Lorg/assertj/core/api/filter/InFilter;,9,1
+org/assertj/core/api/filter/InFilter.applyOn,(Lorg/assertj/core/api/filter/Filters;)Lorg/assertj/core/api/filter/Filters;,10,1

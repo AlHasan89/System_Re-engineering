@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/BigIntegerComparator.<clinit>,()V,9,1
+org/assertj/core/util/BigIntegerComparator.BigIntegerComparator,()V,7,1
+org/assertj/core/util/BigIntegerComparator.compare,(Ljava/lang/Object;Ljava/lang/Object;)I,9,1

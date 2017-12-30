@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldHaveNoParent.shouldHaveNoParent,(Ljava/io/File;)Lorg/assertj/core/error/ShouldHaveNoParent;,9,1
+org/assertj/core/error/ShouldHaveNoParent.shouldHaveNoParent,(Ljava/nio/file/Path;)Lorg/assertj/core/error/ShouldHaveNoParent;,9,1
+org/assertj/core/error/ShouldHaveNoParent.ShouldHaveNoParent,(Ljava/io/File;)V,21,1
+org/assertj/core/error/ShouldHaveNoParent.ShouldHaveNoParent,(Ljava/nio/file/Path;)V,21,1

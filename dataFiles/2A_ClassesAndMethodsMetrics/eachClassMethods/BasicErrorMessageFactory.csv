@@ -1,0 +1,9 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/BasicErrorMessageFactory.BasicErrorMessageFactory,(Ljava/lang/String;[Ljava/lang/Object;)V,24,1
+org/assertj/core/error/BasicErrorMessageFactory.create,(Lorg/assertj/core/description/Description;Lorg/assertj/core/presentation/Representation;)Ljava/lang/String;,14,1
+org/assertj/core/error/BasicErrorMessageFactory.create,(Lorg/assertj/core/description/Description;)Ljava/lang/String;,15,1
+org/assertj/core/error/BasicErrorMessageFactory.create,()Ljava/lang/String;,15,1
+org/assertj/core/error/BasicErrorMessageFactory.unquotedString,(Ljava/lang/String;)Ljava/lang/CharSequence;,10,1
+org/assertj/core/error/BasicErrorMessageFactory.equals,(Ljava/lang/Object;)Z,59,5
+org/assertj/core/error/BasicErrorMessageFactory.hashCode,()I,30,1
+org/assertj/core/error/BasicErrorMessageFactory.toString,()Ljava/lang/String;,33,1

@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/IgnoringFieldsComparator.IgnoringFieldsComparator,(Ljava/util/Map;Lorg/assertj/core/internal/TypeComparators;[Ljava/lang/String;)V,16,1
+org/assertj/core/internal/IgnoringFieldsComparator.IgnoringFieldsComparator,([Ljava/lang/String;)V,14,1
+org/assertj/core/internal/IgnoringFieldsComparator.getFields,()[Ljava/lang/String;,7,1
+org/assertj/core/internal/IgnoringFieldsComparator.areEqual,(Ljava/lang/Object;Ljava/lang/Object;)Z,28,2
+org/assertj/core/internal/IgnoringFieldsComparator.toString,()Ljava/lang/String;,20,1

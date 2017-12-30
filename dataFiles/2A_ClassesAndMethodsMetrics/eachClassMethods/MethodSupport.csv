@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/introspection/MethodSupport.MethodSupport,()V,7,1
+org/assertj/core/util/introspection/MethodSupport.methodResultFor,(Ljava/lang/Object;Ljava/lang/String;)Ljava/lang/Object;,27,1
+org/assertj/core/util/introspection/MethodSupport.invokeMethod,(Ljava/lang/Object;Ljava/lang/reflect/Method;)Ljava/lang/Object;,22,2
+org/assertj/core/util/introspection/MethodSupport.findMethod,(Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/reflect/Method;,42,2
+org/assertj/core/util/introspection/MethodSupport.prepareMethodNotFoundException,(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Exception;)Ljava/lang/IllegalArgumentException;,26,1
+org/assertj/core/util/introspection/MethodSupport.assertHasReturnType,(Ljava/lang/Class;Ljava/lang/reflect/Method;)V,36,2

@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/Objects.areEqual,(Ljava/lang/Object;Ljava/lang/Object;)Z,34,4
+org/assertj/core/util/Objects.areEqualArrays,(Ljava/lang/Object;Ljava/lang/Object;)Z,84,7
+org/assertj/core/util/Objects.namesOf,([Ljava/lang/Class;)[Ljava/lang/String;,48,3
+org/assertj/core/util/Objects.hashCodeFor,(Ljava/lang/Object;)I,30,4
+org/assertj/core/util/Objects.castIfBelongsToType,(Ljava/lang/Object;Ljava/lang/Class;)Ljava/lang/Object;,22,3
+org/assertj/core/util/Objects.Objects,()V,7,1

@@ -1,0 +1,13 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/Shorts.<clinit>,()V,9,1
+org/assertj/core/internal/Shorts.instance,()Lorg/assertj/core/internal/Shorts;,6,1
+org/assertj/core/internal/Shorts.Shorts,()V,9,1
+org/assertj/core/internal/Shorts.Shorts,(Lorg/assertj/core/internal/ComparisonStrategy;)V,10,1
+org/assertj/core/internal/Shorts.zero,()Ljava/lang/Short;,7,1
+org/assertj/core/internal/Shorts.one,()Ljava/lang/Short;,7,1
+org/assertj/core/internal/Shorts.absDiff,(Ljava/lang/Short;Ljava/lang/Short;)Ljava/lang/Short;,13,1
+org/assertj/core/internal/Shorts.isGreaterThan,(Ljava/lang/Short;Ljava/lang/Short;)Z,15,2
+org/assertj/core/internal/Shorts.one,()Ljava/lang/Number;,7,1
+org/assertj/core/internal/Shorts.isGreaterThan,(Ljava/lang/Number;Ljava/lang/Number;)Z,11,1
+org/assertj/core/internal/Shorts.zero,()Ljava/lang/Number;,7,1
+org/assertj/core/internal/Shorts.absDiff,(Ljava/lang/Number;Ljava/lang/Number;)Ljava/lang/Number;,11,1

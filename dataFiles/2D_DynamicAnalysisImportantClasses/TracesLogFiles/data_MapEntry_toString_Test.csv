@@ -1,0 +1,87 @@
+org.assertj.core.data.MapEntry_toString_Test  ,  should_implement_toString_using_standard_representation  ,  []  ,  1
+org.assertj.core.data.MapEntry  ,  entry  ,  [class java.lang.Object- class java.lang.Object]  ,  2
+org.assertj.core.api.Assertions  ,  assertThat  ,  [class java.lang.Object]  ,  2
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [class java.lang.Object]  ,  3
+org.assertj.core.internal.StandardComparisonStrategy  ,  instance  ,  []  ,  4
+org.assertj.core.util.introspection.PropertySupport  ,  instance  ,  []  ,  4
+org.assertj.core.util.Compatibility$System  ,  lineSeparator  ,  []  ,  4
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  4
+org.assertj.core.util.introspection.FieldSupport  ,  comparison  ,  []  ,  4
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  4
+org.assertj.core.util.Compatibility$System  ,  lineSeparator  ,  []  ,  4
+org.assertj.core.configuration.Services  ,  get  ,  [class java.lang.Class- class java.lang.Object]  ,  4
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  4
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  4
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  5
+org.assertj.core.api.AbstractObjectAssert  ,  defaultTypeComparators  ,  []  ,  4
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  5
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  5
+org.assertj.core.api.AbstractAssert  ,  hasToString  ,  [class java.lang.String]  ,  2
+org.assertj.core.internal.Objects  ,  assertHasToString  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.String]  ,  3
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  4
+org.assertj.core.data.MapEntry  ,  toString  ,  []  ,  4
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  5
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  5
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  6
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  6
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class org.assertj.core.data.MapEntry]  ,  6
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  7
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  8
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.String]  ,  8
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  9
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  10
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  11
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  7
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  8
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  8
+org.assertj.core.presentation.StandardRepresentation  ,  formatArray  ,  [class java.lang.Object]  ,  8
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  9
+org.assertj.core.util.Arrays  ,  isObjectArray  ,  [class java.lang.Object]  ,  9
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  10
+org.assertj.core.util.Arrays  ,  isArrayTypePrimitive  ,  [class java.lang.Object]  ,  10
+org.assertj.core.presentation.StandardRepresentation  ,  smartFormat  ,  [interface org.assertj.core.presentation.Representation- class [Ljava.lang.Object;]  ,  9
+org.assertj.core.presentation.StandardRepresentation  ,  singleLineFormat  ,  [interface org.assertj.core.presentation.Representation- class [Ljava.lang.Object;- class java.lang.String- class java.lang.String- interface java.util.Set]  ,  10
+org.assertj.core.presentation.StandardRepresentation  ,  format  ,  [class [Ljava.lang.Object;- class java.lang.String- class java.lang.String- interface java.util.Set]  ,  11
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  12
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  12
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  13
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.String]  ,  13
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  14
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  15
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  16
+org.assertj.core.presentation.StandardRepresentation  ,  doesDescriptionFitOnSingleLine  ,  [class java.lang.String]  ,  10
+org.assertj.core.data.MapEntry_toString_Test  ,  should_implement_toString  ,  []  ,  1
+org.assertj.core.data.MapEntry  ,  entry  ,  [class java.lang.Object- class java.lang.Object]  ,  2
+org.assertj.core.api.Assertions  ,  assertThat  ,  [class java.lang.Object]  ,  2
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [class java.lang.Object]  ,  3
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  4
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  4
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  4
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  5
+org.assertj.core.api.AbstractObjectAssert  ,  defaultTypeComparators  ,  []  ,  4
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  5
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  5
+org.assertj.core.api.AbstractAssert  ,  hasToString  ,  [class java.lang.String]  ,  2
+org.assertj.core.internal.Objects  ,  assertHasToString  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.String]  ,  3
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  4
+org.assertj.core.data.MapEntry  ,  toString  ,  []  ,  4
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  5
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  5
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  6
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  6
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class org.assertj.core.data.MapEntry]  ,  6
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  7
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  8
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.String]  ,  8
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  9
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  10
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  11
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  7
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  8
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.String]  ,  8
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  9
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  10
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  11

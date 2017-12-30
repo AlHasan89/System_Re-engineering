@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/ComparatorFactory.<clinit>,()V,9,1
+org/assertj/core/api/ComparatorFactory.ComparatorFactory,()V,7,1
+org/assertj/core/api/ComparatorFactory.doubleComparatorWithPrecision,(D)Ljava/util/Comparator;,14,1
+org/assertj/core/api/ComparatorFactory.floatComparatorWithPrecision,(F)Ljava/util/Comparator;,14,1

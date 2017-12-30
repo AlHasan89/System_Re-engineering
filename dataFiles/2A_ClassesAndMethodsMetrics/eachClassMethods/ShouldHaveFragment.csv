@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/uri/ShouldHaveFragment.shouldHaveFragment,(Ljava/net/URI;Ljava/lang/String;)Lorg/assertj/core/error/ErrorMessageFactory;,21,2
+org/assertj/core/error/uri/ShouldHaveFragment.ShouldHaveFragment,(Ljava/net/URI;Ljava/lang/String;)V,27,1
+org/assertj/core/error/uri/ShouldHaveFragment.ShouldHaveFragment,(Ljava/net/URI;)V,21,1

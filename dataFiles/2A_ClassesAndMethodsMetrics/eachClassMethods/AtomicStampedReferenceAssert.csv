@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AtomicStampedReferenceAssert.AtomicStampedReferenceAssert,(Ljava/util/concurrent/atomic/AtomicStampedReference;)V,12,1
+org/assertj/core/api/AtomicStampedReferenceAssert.hasReference,(Ljava/lang/Object;)Lorg/assertj/core/api/AtomicStampedReferenceAssert;,9,1
+org/assertj/core/api/AtomicStampedReferenceAssert.getReference,()Ljava/lang/Object;,9,1
+org/assertj/core/api/AtomicStampedReferenceAssert.hasStamp,(I)Lorg/assertj/core/api/AtomicStampedReferenceAssert;,26,2
+org/assertj/core/api/AtomicStampedReferenceAssert.hasReference,(Ljava/lang/Object;)Lorg/assertj/core/api/AbstractAtomicReferenceAssert;,9,1

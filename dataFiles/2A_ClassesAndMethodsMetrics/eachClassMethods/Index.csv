@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/data/Index.atIndex,(I)Lorg/assertj/core/data/Index;,24,2
+org/assertj/core/data/Index.Index,(I)V,14,1
+org/assertj/core/data/Index.equals,(Ljava/lang/Object;)Z,47,5
+org/assertj/core/data/Index.hashCode,()I,19,1
+org/assertj/core/data/Index.toString,()Ljava/lang/String;,21,1

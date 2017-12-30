@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/Predicates.<clinit>,()V,9,1
+org/assertj/core/internal/Predicates.instance,()Lorg/assertj/core/internal/Predicates;,6,1
+org/assertj/core/internal/Predicates.Predicates,()V,14,1
+org/assertj/core/internal/Predicates.assertIsNotNull,(Ljava/util/function/Predicate;)V,11,1

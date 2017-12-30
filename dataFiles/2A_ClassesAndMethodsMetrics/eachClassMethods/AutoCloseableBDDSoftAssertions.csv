@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AutoCloseableBDDSoftAssertions.AutoCloseableBDDSoftAssertions,()V,7,1
+org/assertj/core/api/AutoCloseableBDDSoftAssertions.close,()V,9,1

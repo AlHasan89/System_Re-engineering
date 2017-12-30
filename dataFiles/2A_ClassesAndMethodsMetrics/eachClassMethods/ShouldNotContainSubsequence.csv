@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldNotContainSubsequence.shouldNotContainSubsequence,(Ljava/lang/Object;Ljava/lang/Object;Lorg/assertj/core/internal/ComparisonStrategy;I)Lorg/assertj/core/error/ErrorMessageFactory;,12,1
+org/assertj/core/error/ShouldNotContainSubsequence.shouldNotContainSubsequence,(Ljava/lang/Object;Ljava/lang/Object;I)Lorg/assertj/core/error/ErrorMessageFactory;,12,1
+org/assertj/core/error/ShouldNotContainSubsequence.ShouldNotContainSubsequence,(Ljava/lang/Object;Ljava/lang/Object;Lorg/assertj/core/internal/ComparisonStrategy;I)V,31,1

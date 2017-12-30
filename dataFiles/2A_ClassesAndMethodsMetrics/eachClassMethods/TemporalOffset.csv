@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/data/TemporalOffset.isBeyondOffset,(Ljava/time/temporal/Temporal;Ljava/time/temporal/Temporal;)Z,2,1
+org/assertj/core/data/TemporalOffset.getBeyondOffsetDifferenceDescription,(Ljava/time/temporal/Temporal;Ljava/time/temporal/Temporal;)Ljava/lang/String;,2,1

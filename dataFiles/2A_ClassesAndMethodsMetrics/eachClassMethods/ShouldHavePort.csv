@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/uri/ShouldHavePort.shouldHavePort,(Ljava/net/URI;I)Lorg/assertj/core/error/ErrorMessageFactory;,22,2
+org/assertj/core/error/uri/ShouldHavePort.ShouldHavePort,(Ljava/net/URI;I)V,27,1
+org/assertj/core/error/uri/ShouldHavePort.ShouldHavePort,(Ljava/net/URI;)V,22,1
+org/assertj/core/error/uri/ShouldHavePort.shouldHavePort,(Ljava/net/URL;I)Lorg/assertj/core/error/ErrorMessageFactory;,22,2
+org/assertj/core/error/uri/ShouldHavePort.ShouldHavePort,(Ljava/net/URL;I)V,27,1
+org/assertj/core/error/uri/ShouldHavePort.ShouldHavePort,(Ljava/net/URL;)V,22,1

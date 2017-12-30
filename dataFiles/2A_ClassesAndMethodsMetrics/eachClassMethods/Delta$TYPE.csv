@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/diff/Delta$TYPE.<clinit>,()V,50,1
+org/assertj/core/util/diff/Delta$TYPE.Delta$TYPE,(Ljava/lang/String;I)V,9,1
+org/assertj/core/util/diff/Delta$TYPE.values,()[Lorg/assertj/core/util/diff/Delta$TYPE;,20,1
+org/assertj/core/util/diff/Delta$TYPE.valueOf,(Ljava/lang/String;)Lorg/assertj/core/util/diff/Delta$TYPE;,9,1

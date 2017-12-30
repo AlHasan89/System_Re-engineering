@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/ExtensionPoints.is,(Lorg/assertj/core/api/Condition;)Lorg/assertj/core/api/ExtensionPoints;,2,1
+org/assertj/core/api/ExtensionPoints.isNot,(Lorg/assertj/core/api/Condition;)Lorg/assertj/core/api/ExtensionPoints;,2,1
+org/assertj/core/api/ExtensionPoints.has,(Lorg/assertj/core/api/Condition;)Lorg/assertj/core/api/ExtensionPoints;,2,1
+org/assertj/core/api/ExtensionPoints.doesNotHave,(Lorg/assertj/core/api/Condition;)Lorg/assertj/core/api/ExtensionPoints;,2,1

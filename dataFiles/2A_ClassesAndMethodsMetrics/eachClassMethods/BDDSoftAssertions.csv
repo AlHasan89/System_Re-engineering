@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/BDDSoftAssertions.BDDSoftAssertions,()V,7,1
+org/assertj/core/api/BDDSoftAssertions.assertAll,()V,25,2

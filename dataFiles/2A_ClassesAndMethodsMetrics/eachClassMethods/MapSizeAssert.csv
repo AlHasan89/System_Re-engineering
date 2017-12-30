@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/MapSizeAssert.MapSizeAssert,(Lorg/assertj/core/api/AbstractMapAssert;Ljava/lang/Integer;)V,16,1
+org/assertj/core/api/MapSizeAssert.returnToMap,()Lorg/assertj/core/api/AbstractMapAssert;,7,1

@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeEqualWithinOffset.shouldBeEqual,(Ljava/lang/Number;Ljava/lang/Number;Lorg/assertj/core/data/Offset;Ljava/lang/Number;)Lorg/assertj/core/error/ErrorMessageFactory;,12,1
+org/assertj/core/error/ShouldBeEqualWithinOffset.ShouldBeEqualWithinOffset,(Ljava/lang/Number;Ljava/lang/Number;Lorg/assertj/core/data/Offset;Ljava/lang/Number;)V,36,1

@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/BinaryDiffResult.BinaryDiffResult,(III)V,28,1
+org/assertj/core/internal/BinaryDiffResult.hasNoDiff,()Z,14,2
+org/assertj/core/internal/BinaryDiffResult.noDiff,()Lorg/assertj/core/internal/BinaryDiffResult;,11,1
+org/assertj/core/internal/BinaryDiffResult.describe,(I)Ljava/lang/String;,23,2

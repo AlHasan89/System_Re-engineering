@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/filter/FilterOperator.FilterOperator,(Ljava/lang/Object;)V,27,2
+org/assertj/core/api/filter/FilterOperator.applyOn,(Lorg/assertj/core/api/filter/Filters;)Lorg/assertj/core/api/filter/Filters;,2,1

@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/LongAssert.LongAssert,(Ljava/lang/Long;)V,11,1
+org/assertj/core/api/LongAssert.LongAssert,(Ljava/util/concurrent/atomic/AtomicLong;)V,20,2

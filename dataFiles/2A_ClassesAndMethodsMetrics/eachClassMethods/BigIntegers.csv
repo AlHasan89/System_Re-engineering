@@ -1,0 +1,13 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/BigIntegers.<clinit>,()V,9,1
+org/assertj/core/internal/BigIntegers.instance,()Lorg/assertj/core/internal/BigIntegers;,6,1
+org/assertj/core/internal/BigIntegers.BigIntegers,()V,9,1
+org/assertj/core/internal/BigIntegers.BigIntegers,(Lorg/assertj/core/internal/ComparisonStrategy;)V,10,1
+org/assertj/core/internal/BigIntegers.zero,()Ljava/math/BigInteger;,6,1
+org/assertj/core/internal/BigIntegers.one,()Ljava/math/BigInteger;,6,1
+org/assertj/core/internal/BigIntegers.absDiff,(Ljava/math/BigInteger;Ljava/math/BigInteger;)Ljava/math/BigInteger;,9,1
+org/assertj/core/internal/BigIntegers.isGreaterThan,(Ljava/math/BigInteger;Ljava/math/BigInteger;)Z,17,2
+org/assertj/core/internal/BigIntegers.one,()Ljava/lang/Number;,7,1
+org/assertj/core/internal/BigIntegers.isGreaterThan,(Ljava/lang/Number;Ljava/lang/Number;)Z,11,1
+org/assertj/core/internal/BigIntegers.zero,()Ljava/lang/Number;,7,1
+org/assertj/core/internal/BigIntegers.absDiff,(Ljava/lang/Number;Ljava/lang/Number;)Ljava/lang/Number;,11,1

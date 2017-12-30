@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldOnlyHaveFields$ErrorType.<clinit>,()V,30,1
+org/assertj/core/error/ShouldOnlyHaveFields$ErrorType.ShouldOnlyHaveFields$ErrorType,(Ljava/lang/String;I)V,9,1
+org/assertj/core/error/ShouldOnlyHaveFields$ErrorType.values,()[Lorg/assertj/core/error/ShouldOnlyHaveFields$ErrorType;,20,1
+org/assertj/core/error/ShouldOnlyHaveFields$ErrorType.valueOf,(Ljava/lang/String;)Lorg/assertj/core/error/ShouldOnlyHaveFields$ErrorType;,9,1

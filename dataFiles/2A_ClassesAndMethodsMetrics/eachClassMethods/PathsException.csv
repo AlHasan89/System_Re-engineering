@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/exception/PathsException.PathsException,(Ljava/lang/String;Ljava/lang/Throwable;)V,11,1

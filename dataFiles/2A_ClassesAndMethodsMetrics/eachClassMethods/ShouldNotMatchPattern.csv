@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldNotMatchPattern.shouldNotMatch,(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldNotMatchPattern.ShouldNotMatchPattern,(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)V,20,1

@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/configuration/ConfigurationProvider.<clinit>,()V,9,1
+org/assertj/core/configuration/ConfigurationProvider.ConfigurationProvider,()V,17,1
+org/assertj/core/configuration/ConfigurationProvider.representation,()Lorg/assertj/core/presentation/Representation;,7,1

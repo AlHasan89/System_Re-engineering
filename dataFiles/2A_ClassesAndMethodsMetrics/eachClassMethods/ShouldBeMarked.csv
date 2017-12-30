@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeMarked.shouldBeMarked,(Ljava/util/concurrent/atomic/AtomicMarkableReference;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldBeMarked.shouldNotBeMarked,(Ljava/util/concurrent/atomic/AtomicMarkableReference;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldBeMarked.ShouldBeMarked,(Ljava/util/concurrent/atomic/AtomicMarkableReference;Z)V,24,2

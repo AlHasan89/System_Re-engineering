@@ -1,0 +1,20 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractOptionalAssert.AbstractOptionalAssert,(Ljava/util/Optional;Ljava/lang/Class;)V,16,1
+org/assertj/core/api/AbstractOptionalAssert.isPresent,()Lorg/assertj/core/api/AbstractOptionalAssert;,12,1
+org/assertj/core/api/AbstractOptionalAssert.isNotEmpty,()Lorg/assertj/core/api/AbstractOptionalAssert;,7,1
+org/assertj/core/api/AbstractOptionalAssert.isEmpty,()Lorg/assertj/core/api/AbstractOptionalAssert;,27,2
+org/assertj/core/api/AbstractOptionalAssert.isNotPresent,()Lorg/assertj/core/api/AbstractOptionalAssert;,7,1
+org/assertj/core/api/AbstractOptionalAssert.contains,(Ljava/lang/Object;)Lorg/assertj/core/api/AbstractOptionalAssert;,51,3
+org/assertj/core/api/AbstractOptionalAssert.hasValueSatisfying,(Ljava/util/function/Consumer;)Lorg/assertj/core/api/AbstractOptionalAssert;,20,1
+org/assertj/core/api/AbstractOptionalAssert.hasValueSatisfying,(Lorg/assertj/core/api/Condition;)Lorg/assertj/core/api/AbstractOptionalAssert;,24,1
+org/assertj/core/api/AbstractOptionalAssert.hasValue,(Ljava/lang/Object;)Lorg/assertj/core/api/AbstractOptionalAssert;,8,1
+org/assertj/core/api/AbstractOptionalAssert.containsInstanceOf,(Ljava/lang/Class;)Lorg/assertj/core/api/AbstractOptionalAssert;,28,2
+org/assertj/core/api/AbstractOptionalAssert.usingFieldByFieldValueComparator,()Lorg/assertj/core/api/AbstractOptionalAssert;,10,1
+org/assertj/core/api/AbstractOptionalAssert.usingValueComparator,(Ljava/util/Comparator;)Lorg/assertj/core/api/AbstractOptionalAssert;,16,1
+org/assertj/core/api/AbstractOptionalAssert.usingDefaultValueComparator,()Lorg/assertj/core/api/AbstractOptionalAssert;,13,1
+org/assertj/core/api/AbstractOptionalAssert.containsSame,(Ljava/lang/Object;)Lorg/assertj/core/api/AbstractOptionalAssert;,46,3
+org/assertj/core/api/AbstractOptionalAssert.flatMap,(Ljava/util/function/Function;)Lorg/assertj/core/api/AbstractOptionalAssert;,16,1
+org/assertj/core/api/AbstractOptionalAssert.map,(Ljava/util/function/Function;)Lorg/assertj/core/api/AbstractOptionalAssert;,16,1
+org/assertj/core/api/AbstractOptionalAssert.get,()Lorg/assertj/core/api/AbstractObjectAssert;,15,1
+org/assertj/core/api/AbstractOptionalAssert.checkNotNull,(Ljava/lang/Object;)V,20,2
+org/assertj/core/api/AbstractOptionalAssert.assertValueIsPresent,()V,23,2

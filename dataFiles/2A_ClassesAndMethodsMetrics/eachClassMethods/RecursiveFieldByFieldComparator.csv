@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/RecursiveFieldByFieldComparator.RecursiveFieldByFieldComparator,(Ljava/util/Map;Lorg/assertj/core/internal/TypeComparators;)V,29,2
+org/assertj/core/internal/RecursiveFieldByFieldComparator.isNullOrEmpty,(Lorg/assertj/core/internal/TypeComparators;)Z,15,3
+org/assertj/core/internal/RecursiveFieldByFieldComparator.compare,(Ljava/lang/Object;Ljava/lang/Object;)I,37,6
+org/assertj/core/internal/RecursiveFieldByFieldComparator.areEqual,(Ljava/lang/Object;Ljava/lang/Object;)Z,22,2
+org/assertj/core/internal/RecursiveFieldByFieldComparator.toString,()Ljava/lang/String;,6,1

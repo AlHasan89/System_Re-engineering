@@ -1,0 +1,8 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldHaveParent.shouldHaveParent,(Ljava/io/File;Ljava/io/File;)Lorg/assertj/core/error/ShouldHaveParent;,28,2
+org/assertj/core/error/ShouldHaveParent.shouldHaveParent,(Ljava/nio/file/Path;Ljava/nio/file/Path;)Lorg/assertj/core/error/ShouldHaveParent;,32,2
+org/assertj/core/error/ShouldHaveParent.shouldHaveParent,(Ljava/nio/file/Path;Ljava/nio/file/Path;Ljava/nio/file/Path;)Lorg/assertj/core/error/ShouldHaveParent;,11,1
+org/assertj/core/error/ShouldHaveParent.ShouldHaveParent,(Ljava/io/File;Ljava/io/File;)V,20,1
+org/assertj/core/error/ShouldHaveParent.ShouldHaveParent,(Ljava/io/File;Ljava/io/File;Ljava/io/File;)V,24,1
+org/assertj/core/error/ShouldHaveParent.ShouldHaveParent,(Ljava/nio/file/Path;Ljava/nio/file/Path;)V,20,1
+org/assertj/core/error/ShouldHaveParent.ShouldHaveParent,(Ljava/nio/file/Path;Ljava/nio/file/Path;Ljava/nio/file/Path;)V,24,1

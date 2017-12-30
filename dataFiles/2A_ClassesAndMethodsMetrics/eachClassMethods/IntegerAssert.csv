@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/IntegerAssert.IntegerAssert,(Ljava/lang/Integer;)V,11,1
+org/assertj/core/api/IntegerAssert.IntegerAssert,(Ljava/util/concurrent/atomic/AtomicInteger;)V,20,2

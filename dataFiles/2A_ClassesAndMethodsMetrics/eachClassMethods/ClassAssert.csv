@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/ClassAssert.ClassAssert,(Ljava/lang/Class;)V,11,1
+org/assertj/core/api/ClassAssert.hasAnnotations,([Ljava/lang/Class;)Lorg/assertj/core/api/ClassAssert;,9,1
+org/assertj/core/api/ClassAssert.hasAnnotations,([Ljava/lang/Class;)Lorg/assertj/core/api/AbstractClassAssert;,8,1

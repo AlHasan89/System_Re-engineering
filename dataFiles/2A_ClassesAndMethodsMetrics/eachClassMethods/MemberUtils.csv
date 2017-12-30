@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/introspection/MemberUtils.MemberUtils,()V,7,1
+org/assertj/core/util/introspection/MemberUtils.setAccessibleWorkaround,(Ljava/lang/reflect/AccessibleObject;)V,47,6
+org/assertj/core/util/introspection/MemberUtils.isPackageAccess,(I)Z,14,2
+org/assertj/core/util/introspection/MemberUtils.isAccessible,(Ljava/lang/reflect/Member;)Z,19,4

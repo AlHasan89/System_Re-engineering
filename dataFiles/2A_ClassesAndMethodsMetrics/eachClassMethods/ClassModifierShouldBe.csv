@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ClassModifierShouldBe.ClassModifierShouldBe,(Ljava/lang/Class;ZLjava/lang/String;)V,42,2
+org/assertj/core/error/ClassModifierShouldBe.shouldBeFinal,(Ljava/lang/Class;)Lorg/assertj/core/error/ErrorMessageFactory;,12,1
+org/assertj/core/error/ClassModifierShouldBe.shouldNotBeFinal,(Ljava/lang/Class;)Lorg/assertj/core/error/ErrorMessageFactory;,12,1
+org/assertj/core/error/ClassModifierShouldBe.shouldBePublic,(Ljava/lang/Class;)Lorg/assertj/core/error/ErrorMessageFactory;,12,1
+org/assertj/core/error/ClassModifierShouldBe.shouldBeProtected,(Ljava/lang/Class;)Lorg/assertj/core/error/ErrorMessageFactory;,12,1

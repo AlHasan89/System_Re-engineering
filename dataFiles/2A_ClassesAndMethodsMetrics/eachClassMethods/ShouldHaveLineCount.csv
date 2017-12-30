@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldHaveLineCount.shouldHaveLinesCount,(Ljava/lang/Object;II)Lorg/assertj/core/error/ErrorMessageFactory;,11,1
+org/assertj/core/error/ShouldHaveLineCount.ShouldHaveLineCount,(Ljava/lang/Object;II)V,33,1

@@ -1,0 +1,10 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/FloatComparator.FloatComparator,(F)V,14,1
+org/assertj/core/util/FloatComparator.getEpsilon,()F,7,1
+org/assertj/core/util/FloatComparator.compareNonNull,(Ljava/lang/Float;Ljava/lang/Float;)I,30,3
+org/assertj/core/util/FloatComparator.closeEnough,(Ljava/lang/Float;Ljava/lang/Float;F)Z,19,2
+org/assertj/core/util/FloatComparator.complexCloseEnough,(FFF)Z,76,7
+org/assertj/core/util/FloatComparator.hashCode,()I,10,1
+org/assertj/core/util/FloatComparator.equals,(Ljava/lang/Object;)Z,47,5
+org/assertj/core/util/FloatComparator.compareNonNull,(Ljava/lang/Object;Ljava/lang/Object;)I,11,1
+org/assertj/core/util/FloatComparator.compare,(Ljava/lang/Object;Ljava/lang/Object;)I,9,1

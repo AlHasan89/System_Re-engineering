@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/DescriptionFormatter.<clinit>,()V,9,1
+org/assertj/core/error/DescriptionFormatter.instance,()Lorg/assertj/core/error/DescriptionFormatter;,6,1
+org/assertj/core/error/DescriptionFormatter.DescriptionFormatter,()V,7,1
+org/assertj/core/error/DescriptionFormatter.format,(Lorg/assertj/core/description/Description;)Ljava/lang/String;,34,3

@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldNotBeBetween.shouldNotBeBetween,(Ljava/util/Date;Ljava/util/Date;Ljava/util/Date;ZZLorg/assertj/core/internal/ComparisonStrategy;)Lorg/assertj/core/error/ErrorMessageFactory;,14,1
+org/assertj/core/error/ShouldNotBeBetween.shouldNotBeBetween,(Ljava/util/Date;Ljava/util/Date;Ljava/util/Date;ZZ)Lorg/assertj/core/error/ErrorMessageFactory;,14,1
+org/assertj/core/error/ShouldNotBeBetween.ShouldNotBeBetween,(Ljava/util/Date;Ljava/util/Date;Ljava/util/Date;ZZLorg/assertj/core/internal/ComparisonStrategy;)V,60,3

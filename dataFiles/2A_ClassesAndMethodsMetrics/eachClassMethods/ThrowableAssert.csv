@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/ThrowableAssert.ThrowableAssert,(Ljava/lang/Throwable;)V,11,1
+org/assertj/core/api/ThrowableAssert.ThrowableAssert,(Ljava/util/concurrent/Callable;)V,12,1
+org/assertj/core/api/ThrowableAssert.buildThrowableAssertFromCallable,(Ljava/util/concurrent/Callable;)Ljava/lang/Throwable;,31,2
+org/assertj/core/api/ThrowableAssert.catchThrowable,(Lorg/assertj/core/api/ThrowableAssert$ThrowingCallable;)Ljava/lang/Throwable;,21,2

@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/iterable/Extractor.extract,(Ljava/lang/Object;)Ljava/lang/Object;,2,1

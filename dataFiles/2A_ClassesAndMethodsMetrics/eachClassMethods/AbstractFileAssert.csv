@@ -1,0 +1,22 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractFileAssert.AbstractFileAssert,(Ljava/io/File;Ljava/lang/Class;)V,21,1
+org/assertj/core/api/AbstractFileAssert.exists,()Lorg/assertj/core/api/AbstractFileAssert;,18,1
+org/assertj/core/api/AbstractFileAssert.doesNotExist,()Lorg/assertj/core/api/AbstractFileAssert;,18,1
+org/assertj/core/api/AbstractFileAssert.isFile,()Lorg/assertj/core/api/AbstractFileAssert;,18,1
+org/assertj/core/api/AbstractFileAssert.isDirectory,()Lorg/assertj/core/api/AbstractFileAssert;,18,1
+org/assertj/core/api/AbstractFileAssert.isAbsolute,()Lorg/assertj/core/api/AbstractFileAssert;,18,1
+org/assertj/core/api/AbstractFileAssert.isRelative,()Lorg/assertj/core/api/AbstractFileAssert;,18,1
+org/assertj/core/api/AbstractFileAssert.hasContentEqualTo,(Ljava/io/File;)Lorg/assertj/core/api/AbstractFileAssert;,8,1
+org/assertj/core/api/AbstractFileAssert.hasSameContentAs,(Ljava/io/File;)Lorg/assertj/core/api/AbstractFileAssert;,22,1
+org/assertj/core/api/AbstractFileAssert.hasSameContentAs,(Ljava/io/File;Ljava/nio/charset/Charset;)Lorg/assertj/core/api/AbstractFileAssert;,22,1
+org/assertj/core/api/AbstractFileAssert.hasBinaryContent,([B)Lorg/assertj/core/api/AbstractFileAssert;,19,1
+org/assertj/core/api/AbstractFileAssert.usingCharset,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractFileAssert;,21,1
+org/assertj/core/api/AbstractFileAssert.usingCharset,(Ljava/nio/charset/Charset;)Lorg/assertj/core/api/AbstractFileAssert;,16,1
+org/assertj/core/api/AbstractFileAssert.hasContent,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractFileAssert;,21,1
+org/assertj/core/api/AbstractFileAssert.canWrite,()Lorg/assertj/core/api/AbstractFileAssert;,18,1
+org/assertj/core/api/AbstractFileAssert.canRead,()Lorg/assertj/core/api/AbstractFileAssert;,18,1
+org/assertj/core/api/AbstractFileAssert.hasParent,(Ljava/io/File;)Lorg/assertj/core/api/AbstractFileAssert;,19,1
+org/assertj/core/api/AbstractFileAssert.hasParent,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractFileAssert;,30,2
+org/assertj/core/api/AbstractFileAssert.hasExtension,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractFileAssert;,19,1
+org/assertj/core/api/AbstractFileAssert.hasName,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractFileAssert;,19,1
+org/assertj/core/api/AbstractFileAssert.hasNoParent,()Lorg/assertj/core/api/AbstractFileAssert;,18,1

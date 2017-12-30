@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeUpperCase.shouldBeUpperCase,(Ljava/lang/Character;)Lorg/assertj/core/error/ErrorMessageFactory;,9,1
+org/assertj/core/error/ShouldBeUpperCase.ShouldBeUpperCase,(Ljava/lang/Character;)V,16,1

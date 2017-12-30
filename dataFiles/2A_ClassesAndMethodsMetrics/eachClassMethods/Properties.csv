@@ -1,0 +1,8 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/groups/Properties.extractProperty,(Ljava/lang/String;Ljava/lang/Class;)Lorg/assertj/core/groups/Properties;,14,1
+org/assertj/core/groups/Properties.extractProperty,(Ljava/lang/String;)Lorg/assertj/core/groups/Properties;,8,1
+org/assertj/core/groups/Properties.checkIsNotNullOrEmpty,(Ljava/lang/String;)V,27,2
+org/assertj/core/groups/Properties.Properties,(Ljava/lang/String;Ljava/lang/Class;)V,24,1
+org/assertj/core/groups/Properties.ofType,(Ljava/lang/Class;)Lorg/assertj/core/groups/Properties;,9,1
+org/assertj/core/groups/Properties.from,(Ljava/lang/Iterable;)Ljava/util/List;,13,1
+org/assertj/core/groups/Properties.from,([Ljava/lang/Object;)Ljava/util/List;,14,1

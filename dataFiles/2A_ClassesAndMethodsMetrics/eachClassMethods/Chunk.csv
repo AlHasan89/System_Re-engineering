@@ -1,0 +1,10 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/diff/Chunk.Chunk,(ILjava/util/List;)V,19,1
+org/assertj/core/util/diff/Chunk.verify,(Ljava/util/List;)V,60,3
+org/assertj/core/util/diff/Chunk.getPosition,()I,7,1
+org/assertj/core/util/diff/Chunk.getLines,()Ljava/util/List;,7,1
+org/assertj/core/util/diff/Chunk.size,()I,8,1
+org/assertj/core/util/diff/Chunk.last,()I,12,1
+org/assertj/core/util/diff/Chunk.hashCode,()I,51,2
+org/assertj/core/util/diff/Chunk.equals,(Ljava/lang/Object;)Z,79,8
+org/assertj/core/util/diff/Chunk.toString,()Ljava/lang/String;,25,1

@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/ListAssert$ListFromStream.ListAssert$ListFromStream,(Ljava/util/stream/BaseStream;)V,14,1
+org/assertj/core/api/ListAssert$ListFromStream.stream,()Ljava/util/stream/Stream;,13,1
+org/assertj/core/api/ListAssert$ListFromStream.initList,()Ljava/util/List;,19,2
+org/assertj/core/api/ListAssert$ListFromStream.size,()I,13,1
+org/assertj/core/api/ListAssert$ListFromStream.get,(I)Ljava/lang/Object;,14,1
+org/assertj/core/api/ListAssert$ListFromStream.access$0,(Lorg/assertj/core/api/ListAssert$ListFromStream;)Ljava/util/stream/BaseStream;,7,1

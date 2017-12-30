@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeInThePast.shouldBeInThePast,(Ljava/util/Date;Lorg/assertj/core/internal/ComparisonStrategy;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldBeInThePast.shouldBeInThePast,(Ljava/util/Date;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldBeInThePast.ShouldBeInThePast,(Ljava/util/Date;Lorg/assertj/core/internal/ComparisonStrategy;)V,20,1

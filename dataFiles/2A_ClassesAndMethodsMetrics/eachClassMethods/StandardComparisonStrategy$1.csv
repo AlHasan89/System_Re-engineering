@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/StandardComparisonStrategy$1.StandardComparisonStrategy$1,(Lorg/assertj/core/internal/StandardComparisonStrategy;)V,12,1
+org/assertj/core/internal/StandardComparisonStrategy$1.compare,(Ljava/lang/Object;Ljava/lang/Object;)I,28,3

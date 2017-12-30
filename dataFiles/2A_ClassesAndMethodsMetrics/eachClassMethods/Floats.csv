@@ -1,0 +1,13 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/Floats.<clinit>,()V,9,1
+org/assertj/core/internal/Floats.instance,()Lorg/assertj/core/internal/Floats;,6,1
+org/assertj/core/internal/Floats.Floats,()V,9,1
+org/assertj/core/internal/Floats.Floats,(Lorg/assertj/core/internal/ComparisonStrategy;)V,10,1
+org/assertj/core/internal/Floats.zero,()Ljava/lang/Float;,7,1
+org/assertj/core/internal/Floats.one,()Ljava/lang/Float;,7,1
+org/assertj/core/internal/Floats.NaN,()Ljava/lang/Float;,7,1
+org/assertj/core/internal/Floats.absDiff,(Ljava/lang/Float;Ljava/lang/Float;)Ljava/lang/Float;,12,1
+org/assertj/core/internal/Floats.one,()Ljava/lang/Number;,7,1
+org/assertj/core/internal/Floats.NaN,()Ljava/lang/Number;,7,1
+org/assertj/core/internal/Floats.zero,()Ljava/lang/Number;,7,1
+org/assertj/core/internal/Floats.absDiff,(Ljava/lang/Number;Ljava/lang/Number;)Ljava/lang/Number;,11,1

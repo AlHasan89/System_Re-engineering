@@ -1,0 +1,12 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/NioFilesWrapper.<clinit>,()V,9,1
+org/assertj/core/internal/NioFilesWrapper.instance,()Lorg/assertj/core/internal/NioFilesWrapper;,6,1
+org/assertj/core/internal/NioFilesWrapper.NioFilesWrapper,()V,7,1
+org/assertj/core/internal/NioFilesWrapper.isRegularFile,(Ljava/nio/file/Path;)Z,9,1
+org/assertj/core/internal/NioFilesWrapper.isSymbolicLink,(Ljava/nio/file/Path;)Z,7,1
+org/assertj/core/internal/NioFilesWrapper.isDirectory,(Ljava/nio/file/Path;)Z,9,1
+org/assertj/core/internal/NioFilesWrapper.exists,(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z,8,1
+org/assertj/core/internal/NioFilesWrapper.notExists,(Ljava/nio/file/Path;[Ljava/nio/file/LinkOption;)Z,8,1
+org/assertj/core/internal/NioFilesWrapper.isReadable,(Ljava/nio/file/Path;)Z,7,1
+org/assertj/core/internal/NioFilesWrapper.isWritable,(Ljava/nio/file/Path;)Z,7,1
+org/assertj/core/internal/NioFilesWrapper.isExecutable,(Ljava/nio/file/Path;)Z,7,1

@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/ExtendedByTypesComparator.ExtendedByTypesComparator,(Lorg/assertj/core/internal/TypeComparators;)V,17,1
+org/assertj/core/internal/ExtendedByTypesComparator.ExtendedByTypesComparator,(Ljava/util/Comparator;Lorg/assertj/core/internal/TypeComparators;)V,19,1
+org/assertj/core/internal/ExtendedByTypesComparator.compare,(Ljava/lang/Object;Ljava/lang/Object;)I,70,8
+org/assertj/core/internal/ExtendedByTypesComparator.getComparator,()Ljava/util/Comparator;,7,1
+org/assertj/core/internal/ExtendedByTypesComparator.toString,()Ljava/lang/String;,33,2

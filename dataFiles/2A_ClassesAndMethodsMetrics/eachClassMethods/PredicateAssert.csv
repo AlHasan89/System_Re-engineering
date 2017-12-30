@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/PredicateAssert.PredicateAssert,(Ljava/util/function/Predicate;)V,11,1
+org/assertj/core/api/PredicateAssert.accepts,([Ljava/lang/Object;)Lorg/assertj/core/api/PredicateAssert;,9,1
+org/assertj/core/api/PredicateAssert.rejects,([Ljava/lang/Object;)Lorg/assertj/core/api/PredicateAssert;,9,1
+org/assertj/core/api/PredicateAssert.rejects,([Ljava/lang/Object;)Lorg/assertj/core/api/AbstractPredicateAssert;,9,1
+org/assertj/core/api/PredicateAssert.accepts,([Ljava/lang/Object;)Lorg/assertj/core/api/AbstractPredicateAssert;,9,1

@@ -1,0 +1,21 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractClassAssert.AbstractClassAssert,(Ljava/lang/Class;Ljava/lang/Class;)V,16,1
+org/assertj/core/api/AbstractClassAssert.isAssignableFrom,([Ljava/lang/Class;)Lorg/assertj/core/api/AbstractClassAssert;,19,1
+org/assertj/core/api/AbstractClassAssert.isNotInterface,()Lorg/assertj/core/api/AbstractClassAssert;,18,1
+org/assertj/core/api/AbstractClassAssert.isInterface,()Lorg/assertj/core/api/AbstractClassAssert;,18,1
+org/assertj/core/api/AbstractClassAssert.isAnnotation,()Lorg/assertj/core/api/AbstractClassAssert;,18,1
+org/assertj/core/api/AbstractClassAssert.isNotAnnotation,()Lorg/assertj/core/api/AbstractClassAssert;,18,1
+org/assertj/core/api/AbstractClassAssert.isFinal,()Lorg/assertj/core/api/AbstractClassAssert;,18,1
+org/assertj/core/api/AbstractClassAssert.isNotFinal,()Lorg/assertj/core/api/AbstractClassAssert;,18,1
+org/assertj/core/api/AbstractClassAssert.isPublic,()Lorg/assertj/core/api/AbstractClassAssert;,18,1
+org/assertj/core/api/AbstractClassAssert.isProtected,()Lorg/assertj/core/api/AbstractClassAssert;,18,1
+org/assertj/core/api/AbstractClassAssert.hasAnnotations,([Ljava/lang/Class;)Lorg/assertj/core/api/AbstractClassAssert;,19,1
+org/assertj/core/api/AbstractClassAssert.hasAnnotation,(Ljava/lang/Class;)Lorg/assertj/core/api/AbstractClassAssert;,24,1
+org/assertj/core/api/AbstractClassAssert.hasFields,([Ljava/lang/String;)Lorg/assertj/core/api/AbstractClassAssert;,8,1
+org/assertj/core/api/AbstractClassAssert.hasPublicFields,([Ljava/lang/String;)Lorg/assertj/core/api/AbstractClassAssert;,19,1
+org/assertj/core/api/AbstractClassAssert.hasOnlyPublicFields,([Ljava/lang/String;)Lorg/assertj/core/api/AbstractClassAssert;,19,1
+org/assertj/core/api/AbstractClassAssert.hasDeclaredFields,([Ljava/lang/String;)Lorg/assertj/core/api/AbstractClassAssert;,19,1
+org/assertj/core/api/AbstractClassAssert.hasOnlyDeclaredFields,([Ljava/lang/String;)Lorg/assertj/core/api/AbstractClassAssert;,19,1
+org/assertj/core/api/AbstractClassAssert.hasMethods,([Ljava/lang/String;)Lorg/assertj/core/api/AbstractClassAssert;,19,1
+org/assertj/core/api/AbstractClassAssert.hasDeclaredMethods,([Ljava/lang/String;)Lorg/assertj/core/api/AbstractClassAssert;,19,1
+org/assertj/core/api/AbstractClassAssert.hasPublicMethods,([Ljava/lang/String;)Lorg/assertj/core/api/AbstractClassAssert;,19,1

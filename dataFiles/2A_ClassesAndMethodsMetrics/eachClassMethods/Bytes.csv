@@ -1,0 +1,13 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/Bytes.<clinit>,()V,9,1
+org/assertj/core/internal/Bytes.instance,()Lorg/assertj/core/internal/Bytes;,6,1
+org/assertj/core/internal/Bytes.Bytes,()V,9,1
+org/assertj/core/internal/Bytes.Bytes,(Lorg/assertj/core/internal/ComparisonStrategy;)V,10,1
+org/assertj/core/internal/Bytes.zero,()Ljava/lang/Byte;,7,1
+org/assertj/core/internal/Bytes.one,()Ljava/lang/Byte;,7,1
+org/assertj/core/internal/Bytes.absDiff,(Ljava/lang/Byte;Ljava/lang/Byte;)Ljava/lang/Byte;,13,1
+org/assertj/core/internal/Bytes.isGreaterThan,(Ljava/lang/Byte;Ljava/lang/Byte;)Z,15,2
+org/assertj/core/internal/Bytes.one,()Ljava/lang/Number;,7,1
+org/assertj/core/internal/Bytes.isGreaterThan,(Ljava/lang/Number;Ljava/lang/Number;)Z,11,1
+org/assertj/core/internal/Bytes.zero,()Ljava/lang/Number;,7,1
+org/assertj/core/internal/Bytes.absDiff,(Ljava/lang/Number;Ljava/lang/Number;)Ljava/lang/Number;,11,1

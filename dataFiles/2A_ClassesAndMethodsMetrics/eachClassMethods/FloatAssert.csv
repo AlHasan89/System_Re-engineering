@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/FloatAssert.FloatAssert,(Ljava/lang/Float;)V,11,1
+org/assertj/core/api/FloatAssert.FloatAssert,(F)V,11,1

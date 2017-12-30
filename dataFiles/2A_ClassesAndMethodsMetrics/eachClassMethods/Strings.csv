@@ -1,0 +1,10 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/Strings.isNullOrEmpty,(Ljava/lang/String;)Z,15,3
+org/assertj/core/util/Strings.quote,(Ljava/lang/String;)Ljava/lang/String;,28,2
+org/assertj/core/util/Strings.quote,(Ljava/lang/Object;)Ljava/lang/Object;,17,2
+org/assertj/core/util/Strings.concat,([Ljava/lang/Object;)Ljava/lang/String;,53,3
+org/assertj/core/util/Strings.formatIfArgs,(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;,27,2
+org/assertj/core/util/Strings.join,([Ljava/lang/String;)Lorg/assertj/core/util/Strings$StringsToJoin;,9,1
+org/assertj/core/util/Strings.join,(Ljava/lang/Iterable;)Lorg/assertj/core/util/Strings$StringsToJoin;,42,2
+org/assertj/core/util/Strings.append,(Ljava/lang/String;)Lorg/assertj/core/util/Strings$StringToAppend;,9,1
+org/assertj/core/util/Strings.Strings,()V,9,1

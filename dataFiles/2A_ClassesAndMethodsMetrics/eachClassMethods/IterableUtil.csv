@@ -1,0 +1,9 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/IterableUtil.isNullOrEmpty,(Ljava/lang/Iterable;)Z,35,5
+org/assertj/core/util/IterableUtil.sizeOf,(Ljava/lang/Iterable;)I,49,3
+org/assertj/core/util/IterableUtil.nonNullElementsIn,(Ljava/lang/Iterable;)Ljava/util/List;,46,4
+org/assertj/core/util/IterableUtil.toArray,(Ljava/lang/Iterable;)[Ljava/lang/Object;,15,2
+org/assertj/core/util/IterableUtil.toArray,(Ljava/lang/Iterable;Ljava/lang/Class;)[Ljava/lang/Object;,27,2
+org/assertj/core/util/IterableUtil.toCollection,(Ljava/lang/Iterable;)Ljava/util/Collection;,17,2
+org/assertj/core/util/IterableUtil.newArray,(Ljava/lang/Class;I)[Ljava/lang/Object;,9,1
+org/assertj/core/util/IterableUtil.IterableUtil,()V,7,1

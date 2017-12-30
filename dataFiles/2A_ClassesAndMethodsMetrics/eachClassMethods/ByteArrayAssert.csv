@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/ByteArrayAssert.ByteArrayAssert,([B)V,11,1

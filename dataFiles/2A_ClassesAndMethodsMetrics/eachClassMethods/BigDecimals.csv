@@ -1,0 +1,13 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/BigDecimals.<clinit>,()V,9,1
+org/assertj/core/internal/BigDecimals.instance,()Lorg/assertj/core/internal/BigDecimals;,6,1
+org/assertj/core/internal/BigDecimals.BigDecimals,()V,9,1
+org/assertj/core/internal/BigDecimals.BigDecimals,(Lorg/assertj/core/internal/ComparisonStrategy;)V,10,1
+org/assertj/core/internal/BigDecimals.zero,()Ljava/math/BigDecimal;,6,1
+org/assertj/core/internal/BigDecimals.one,()Ljava/math/BigDecimal;,6,1
+org/assertj/core/internal/BigDecimals.absDiff,(Ljava/math/BigDecimal;Ljava/math/BigDecimal;)Ljava/math/BigDecimal;,9,1
+org/assertj/core/internal/BigDecimals.isGreaterThan,(Ljava/math/BigDecimal;Ljava/math/BigDecimal;)Z,16,2
+org/assertj/core/internal/BigDecimals.one,()Ljava/lang/Number;,7,1
+org/assertj/core/internal/BigDecimals.isGreaterThan,(Ljava/lang/Number;Ljava/lang/Number;)Z,11,1
+org/assertj/core/internal/BigDecimals.zero,()Ljava/lang/Number;,7,1
+org/assertj/core/internal/BigDecimals.absDiff,(Ljava/lang/Number;Ljava/lang/Number;)Ljava/lang/Number;,11,1

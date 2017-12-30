@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/filter/NotFilter.NotFilter,(Ljava/lang/Object;)V,10,1
+org/assertj/core/api/filter/NotFilter.not,(Ljava/lang/Object;)Lorg/assertj/core/api/filter/NotFilter;,9,1
+org/assertj/core/api/filter/NotFilter.filter,(Ljava/lang/Object;)Z,17,2
+org/assertj/core/api/filter/NotFilter.applyOn,(Lorg/assertj/core/api/filter/Filters;)Lorg/assertj/core/api/filter/Filters;,9,1

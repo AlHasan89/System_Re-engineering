@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeSubstring.shouldBeSubstring,(Ljava/lang/CharSequence;Ljava/lang/CharSequence;Lorg/assertj/core/internal/ComparisonStrategy;)Lorg/assertj/core/error/ErrorMessageFactory;,11,1
+org/assertj/core/error/ShouldBeSubstring.ShouldBeSubstring,(Ljava/lang/CharSequence;Ljava/lang/CharSequence;Lorg/assertj/core/internal/ComparisonStrategy;)V,24,1

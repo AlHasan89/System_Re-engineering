@@ -1,0 +1,20 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/Numbers.Numbers,()V,9,1
+org/assertj/core/internal/Numbers.Numbers,(Lorg/assertj/core/internal/ComparisonStrategy;)V,10,1
+org/assertj/core/internal/Numbers.zero,()Ljava/lang/Number;,2,1
+org/assertj/core/internal/Numbers.one,()Ljava/lang/Number;,2,1
+org/assertj/core/internal/Numbers.assertIsZero,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Number;)V,13,1
+org/assertj/core/internal/Numbers.assertIsNotZero,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Number;)V,13,1
+org/assertj/core/internal/Numbers.assertIsOne,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Number;)V,13,1
+org/assertj/core/internal/Numbers.assertIsNegative,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Number;)V,13,1
+org/assertj/core/internal/Numbers.assertIsPositive,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Number;)V,13,1
+org/assertj/core/internal/Numbers.assertIsNotNegative,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Number;)V,13,1
+org/assertj/core/internal/Numbers.assertIsNotPositive,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Number;)V,13,1
+org/assertj/core/internal/Numbers.assertIsBetween,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Number;Ljava/lang/Number;Ljava/lang/Number;)V,15,1
+org/assertj/core/internal/Numbers.assertIsStrictlyBetween,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Number;Ljava/lang/Number;Ljava/lang/Number;)V,15,1
+org/assertj/core/internal/Numbers.assertIsCloseTo,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Number;Ljava/lang/Number;Lorg/assertj/core/data/Offset;)V,53,3
+org/assertj/core/internal/Numbers.assertIsNotCloseTo,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Number;Ljava/lang/Number;Lorg/assertj/core/data/Offset;)V,51,3
+org/assertj/core/internal/Numbers.assertIsCloseToPercentage,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Number;Ljava/lang/Number;Lorg/assertj/core/data/Percentage;)V,74,5
+org/assertj/core/internal/Numbers.assertIsNotCloseToPercentage,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Number;Ljava/lang/Number;Lorg/assertj/core/data/Percentage;)V,73,5
+org/assertj/core/internal/Numbers.absDiff,(Ljava/lang/Number;Ljava/lang/Number;)Ljava/lang/Number;,2,1
+org/assertj/core/internal/Numbers.isGreaterThan,(Ljava/lang/Number;Ljava/lang/Number;)Z,2,1

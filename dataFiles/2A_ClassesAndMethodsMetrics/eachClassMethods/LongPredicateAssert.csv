@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/LongPredicateAssert.LongPredicateAssert,(Ljava/util/function/LongPredicate;)V,13,1
+org/assertj/core/api/LongPredicateAssert.toPredicate,(Ljava/util/function/LongPredicate;)Ljava/util/function/Predicate;,15,2
+org/assertj/core/api/LongPredicateAssert.accepts,([J)Lorg/assertj/core/api/LongPredicateAssert;,29,2
+org/assertj/core/api/LongPredicateAssert.rejects,([J)Lorg/assertj/core/api/LongPredicateAssert;,29,2

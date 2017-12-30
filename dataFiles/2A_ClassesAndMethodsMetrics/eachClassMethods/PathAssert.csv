@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/PathAssert.PathAssert,(Ljava/nio/file/Path;)V,11,1

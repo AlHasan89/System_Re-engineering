@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldContainEntry.shouldContainEntry,(Ljava/util/Map;Lorg/assertj/core/api/Condition;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldContainEntry.shouldContainEntry,(Ljava/util/Map;Lorg/assertj/core/api/Condition;Lorg/assertj/core/api/Condition;)Lorg/assertj/core/error/ErrorMessageFactory;,11,1
+org/assertj/core/error/ShouldContainEntry.ShouldContainEntry,(Ljava/util/Map;Lorg/assertj/core/api/Condition;)V,22,1
+org/assertj/core/error/ShouldContainEntry.ShouldContainEntry,(Ljava/util/Map;Lorg/assertj/core/api/Condition;Lorg/assertj/core/api/Condition;)V,26,1

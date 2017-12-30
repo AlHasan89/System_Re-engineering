@@ -1,0 +1,26 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractComparableAssert.AbstractComparableAssert,(Ljava/lang/Comparable;Ljava/lang/Class;)V,16,1
+org/assertj/core/api/AbstractComparableAssert.isEqualByComparingTo,(Ljava/lang/Comparable;)Lorg/assertj/core/api/AbstractComparableAssert;,19,1
+org/assertj/core/api/AbstractComparableAssert.isNotEqualByComparingTo,(Ljava/lang/Comparable;)Lorg/assertj/core/api/AbstractComparableAssert;,19,1
+org/assertj/core/api/AbstractComparableAssert.isLessThan,(Ljava/lang/Comparable;)Lorg/assertj/core/api/AbstractComparableAssert;,19,1
+org/assertj/core/api/AbstractComparableAssert.isLessThanOrEqualTo,(Ljava/lang/Comparable;)Lorg/assertj/core/api/AbstractComparableAssert;,19,1
+org/assertj/core/api/AbstractComparableAssert.isGreaterThan,(Ljava/lang/Comparable;)Lorg/assertj/core/api/AbstractComparableAssert;,19,1
+org/assertj/core/api/AbstractComparableAssert.isGreaterThanOrEqualTo,(Ljava/lang/Comparable;)Lorg/assertj/core/api/AbstractComparableAssert;,19,1
+org/assertj/core/api/AbstractComparableAssert.isBetween,(Ljava/lang/Comparable;Ljava/lang/Comparable;)Lorg/assertj/core/api/AbstractComparableAssert;,22,1
+org/assertj/core/api/AbstractComparableAssert.isStrictlyBetween,(Ljava/lang/Comparable;Ljava/lang/Comparable;)Lorg/assertj/core/api/AbstractComparableAssert;,22,1
+org/assertj/core/api/AbstractComparableAssert.usingComparator,(Ljava/util/Comparator;)Lorg/assertj/core/api/AbstractComparableAssert;,25,1
+org/assertj/core/api/AbstractComparableAssert.usingDefaultComparator,()Lorg/assertj/core/api/AbstractComparableAssert;,18,1
+org/assertj/core/api/AbstractComparableAssert.inHexadecimal,()Lorg/assertj/core/api/AbstractComparableAssert;,8,1
+org/assertj/core/api/AbstractComparableAssert.inBinary,()Lorg/assertj/core/api/AbstractComparableAssert;,8,1
+org/assertj/core/api/AbstractComparableAssert.inBinary,()Lorg/assertj/core/api/AbstractAssert;,7,1
+org/assertj/core/api/AbstractComparableAssert.inHexadecimal,()Lorg/assertj/core/api/AbstractAssert;,7,1
+org/assertj/core/api/AbstractComparableAssert.isLessThan,(Ljava/lang/Comparable;)Lorg/assertj/core/api/ComparableAssert;,9,1
+org/assertj/core/api/AbstractComparableAssert.isGreaterThan,(Ljava/lang/Comparable;)Lorg/assertj/core/api/ComparableAssert;,9,1
+org/assertj/core/api/AbstractComparableAssert.isGreaterThanOrEqualTo,(Ljava/lang/Comparable;)Lorg/assertj/core/api/ComparableAssert;,9,1
+org/assertj/core/api/AbstractComparableAssert.usingComparator,(Ljava/util/Comparator;)Lorg/assertj/core/api/AbstractAssert;,9,1
+org/assertj/core/api/AbstractComparableAssert.isBetween,(Ljava/lang/Comparable;Ljava/lang/Comparable;)Lorg/assertj/core/api/ComparableAssert;,11,1
+org/assertj/core/api/AbstractComparableAssert.isStrictlyBetween,(Ljava/lang/Comparable;Ljava/lang/Comparable;)Lorg/assertj/core/api/ComparableAssert;,11,1
+org/assertj/core/api/AbstractComparableAssert.isEqualByComparingTo,(Ljava/lang/Comparable;)Lorg/assertj/core/api/ComparableAssert;,9,1
+org/assertj/core/api/AbstractComparableAssert.isLessThanOrEqualTo,(Ljava/lang/Comparable;)Lorg/assertj/core/api/ComparableAssert;,9,1
+org/assertj/core/api/AbstractComparableAssert.isNotEqualByComparingTo,(Ljava/lang/Comparable;)Lorg/assertj/core/api/ComparableAssert;,9,1
+org/assertj/core/api/AbstractComparableAssert.usingDefaultComparator,()Lorg/assertj/core/api/AbstractAssert;,7,1

@@ -1,0 +1,13 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/Doubles.<clinit>,()V,9,1
+org/assertj/core/internal/Doubles.instance,()Lorg/assertj/core/internal/Doubles;,6,1
+org/assertj/core/internal/Doubles.Doubles,()V,9,1
+org/assertj/core/internal/Doubles.Doubles,(Lorg/assertj/core/internal/ComparisonStrategy;)V,10,1
+org/assertj/core/internal/Doubles.zero,()Ljava/lang/Double;,7,1
+org/assertj/core/internal/Doubles.one,()Ljava/lang/Double;,7,1
+org/assertj/core/internal/Doubles.NaN,()Ljava/lang/Double;,7,1
+org/assertj/core/internal/Doubles.absDiff,(Ljava/lang/Double;Ljava/lang/Double;)Ljava/lang/Double;,12,1
+org/assertj/core/internal/Doubles.one,()Ljava/lang/Number;,7,1
+org/assertj/core/internal/Doubles.NaN,()Ljava/lang/Number;,7,1
+org/assertj/core/internal/Doubles.zero,()Ljava/lang/Number;,7,1
+org/assertj/core/internal/Doubles.absDiff,(Ljava/lang/Number;Ljava/lang/Number;)Ljava/lang/Number;,11,1

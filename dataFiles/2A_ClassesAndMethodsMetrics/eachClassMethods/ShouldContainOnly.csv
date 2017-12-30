@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldContainOnly.shouldContainOnly,(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Iterable;Ljava/lang/Iterable;Lorg/assertj/core/internal/ComparisonStrategy;)Lorg/assertj/core/error/ErrorMessageFactory;,47,3
+org/assertj/core/error/ShouldContainOnly.shouldContainOnly,(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Iterable;Ljava/lang/Iterable;)Lorg/assertj/core/error/ErrorMessageFactory;,11,1
+org/assertj/core/error/ShouldContainOnly.ShouldContainOnly,(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Iterable;Ljava/lang/Iterable;Lorg/assertj/core/internal/ComparisonStrategy;)V,36,1
+org/assertj/core/error/ShouldContainOnly.ShouldContainOnly,(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Iterable;Lorg/assertj/core/error/ShouldContainOnly$ErrorType;Lorg/assertj/core/internal/ComparisonStrategy;)V,56,2

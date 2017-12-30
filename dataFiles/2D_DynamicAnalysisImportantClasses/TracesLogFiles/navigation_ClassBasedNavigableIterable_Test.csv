@@ -1,0 +1,980 @@
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  1
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  1
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  init  ,  []  ,  1
+org.assertj.core.test.VehicleFactory  ,  getVehicles  ,  []  ,  2
+org.assertj.core.navigation.ClassBasedNavigableIterable_Test  ,  buildNavigableAssert  ,  []  ,  2
+org.assertj.core.api.Assertions  ,  assertThat  ,  [interface java.lang.Iterable- class java.lang.Class]  ,  3
+org.assertj.core.api.AssertionsForInterfaceTypes  ,  assertThat  ,  [interface java.lang.Iterable- class java.lang.Class]  ,  4
+org.assertj.core.internal.StandardComparisonStrategy  ,  instance  ,  []  ,  5
+org.assertj.core.util.introspection.PropertySupport  ,  instance  ,  []  ,  5
+org.assertj.core.util.Compatibility$System  ,  lineSeparator  ,  []  ,  5
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  5
+org.assertj.core.util.introspection.FieldSupport  ,  comparison  ,  []  ,  5
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  5
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  5
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  5
+org.assertj.core.util.Compatibility$System  ,  lineSeparator  ,  []  ,  5
+org.assertj.core.configuration.Services  ,  get  ,  [class java.lang.Class- class java.lang.Object]  ,  5
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  5
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  5
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  6
+org.assertj.core.internal.StandardComparisonStrategy  ,  instance  ,  []  ,  5
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  5
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  5
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  5
+org.assertj.core.internal.Predicates  ,  instance  ,  []  ,  5
+org.assertj.core.internal.Iterables  ,  instance  ,  []  ,  5
+org.assertj.core.api.AbstractIterableAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  2
+org.assertj.core.api.AbstractAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  3
+org.assertj.core.api.AbstractIterableAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  4
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  5
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  6
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  7
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  8
+org.assertj.core.navigation.ClassBasedNavigableIterable_Test  ,  do_not_swallow_reflection_problem  ,  []  ,  1
+org.assertj.core.test.ExpectedException  ,  expectWithMessageContaining  ,  [class java.lang.Class- class [Ljava.lang.String;]  ,  2
+org.assertj.core.test.ExpectedException  ,  expect  ,  [class java.lang.Class]  ,  3
+org.assertj.core.test.ExpectedException  ,  expectMessageContaining  ,  [class [Ljava.lang.String;]  ,  3
+org.assertj.core.api.Assertions  ,  assertThat  ,  [interface java.lang.Iterable- class java.lang.Class]  ,  2
+org.assertj.core.api.AssertionsForInterfaceTypes  ,  assertThat  ,  [interface java.lang.Iterable- class java.lang.Class]  ,  3
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  4
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  4
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  4
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  5
+org.assertj.core.internal.Iterables  ,  instance  ,  []  ,  4
+org.assertj.core.api.ClassBasedNavigableIterableAssert  ,  toAssert  ,  [class java.lang.Object- class java.lang.String]  ,  2
+org.assertj.core.api.ClassBasedNavigableIterableAssert  ,  buildAssert  ,  [class java.lang.Object- class java.lang.String- class java.lang.Class]  ,  3
+org.assertj.core.test.VehicleFactory$Car  ,  toString  ,  []  ,  4
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  4
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  4
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  init  ,  []  ,  4
+org.assertj.core.test.VehicleFactory  ,  getVehicles  ,  []  ,  5
+org.assertj.core.navigation.ClassBasedNavigableIterable_Test  ,  buildNavigableAssert  ,  []  ,  5
+org.assertj.core.api.Assertions  ,  assertThat  ,  [interface java.lang.Iterable- class java.lang.Class]  ,  6
+org.assertj.core.api.AssertionsForInterfaceTypes  ,  assertThat  ,  [interface java.lang.Iterable- class java.lang.Class]  ,  7
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  8
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  8
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  8
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  8
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  9
+org.assertj.core.internal.Iterables  ,  instance  ,  []  ,  8
+org.assertj.core.api.AbstractIterableAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  5
+org.assertj.core.api.AbstractAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  6
+org.assertj.core.api.AbstractIterableAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  7
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  8
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  9
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  10
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  11
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  should_allow_to_assert_navigated_elements  ,  []  ,  4
+org.assertj.core.api.AbstractIterableAssert  ,  first  ,  []  ,  5
+org.assertj.core.api.AbstractIterableAssert  ,  isNotEmpty  ,  []  ,  6
+org.assertj.core.internal.Iterables  ,  assertNotEmpty  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  7
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  8
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  9
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  9
+org.assertj.core.util.IterableUtil  ,  isNullOrEmpty  ,  [interface java.lang.Iterable]  ,  8
+org.assertj.core.api.AbstractIterableAssert  ,  navigationDescription  ,  [class java.lang.String]  ,  6
+org.assertj.core.api.AbstractAssert  ,  descriptionText  ,  []  ,  7
+org.assertj.core.api.WritableAssertionInfo  ,  descriptionText  ,  []  ,  8
+org.assertj.core.description.TextDescription  ,  value  ,  []  ,  9
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  10
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  11
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  7
+org.assertj.core.api.ClassBasedNavigableIterableAssert  ,  toAssert  ,  [class java.lang.Object- class java.lang.String]  ,  6
+org.assertj.core.api.ClassBasedNavigableIterableAssert  ,  buildAssert  ,  [class java.lang.Object- class java.lang.String- class java.lang.Class]  ,  7
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  8
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  8
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  8
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  8
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  9
+org.assertj.core.api.AbstractAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  8
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  9
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  10
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  11
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  12
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  getVehicle  ,  [int]  ,  5
+org.assertj.core.test.VehicleFactory$Car  ,  getName  ,  []  ,  5
+org.assertj.core.test.VehicleAssert  ,  hasName  ,  [class java.lang.String]  ,  5
+org.assertj.core.api.AbstractAssert  ,  isNotNull  ,  []  ,  6
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  7
+org.assertj.core.test.VehicleFactory$Car  ,  getName  ,  []  ,  6
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  getVehicle  ,  [int]  ,  5
+org.assertj.core.api.AbstractAssert  ,  isEqualTo  ,  [class java.lang.Object]  ,  5
+org.assertj.core.internal.Objects  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object]  ,  6
+org.assertj.core.internal.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  7
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  8
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  9
+org.assertj.core.api.AbstractIterableAssert  ,  last  ,  []  ,  5
+org.assertj.core.api.AbstractIterableAssert  ,  isNotEmpty  ,  []  ,  6
+org.assertj.core.internal.Iterables  ,  assertNotEmpty  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  7
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  8
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  9
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  9
+org.assertj.core.util.IterableUtil  ,  isNullOrEmpty  ,  [interface java.lang.Iterable]  ,  8
+org.assertj.core.api.AbstractIterableAssert  ,  lastElement  ,  []  ,  6
+org.assertj.core.api.AbstractIterableAssert  ,  navigationDescription  ,  [class java.lang.String]  ,  6
+org.assertj.core.api.AbstractAssert  ,  descriptionText  ,  []  ,  7
+org.assertj.core.api.WritableAssertionInfo  ,  descriptionText  ,  []  ,  8
+org.assertj.core.description.TextDescription  ,  value  ,  []  ,  9
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  10
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  11
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  7
+org.assertj.core.api.ClassBasedNavigableIterableAssert  ,  toAssert  ,  [class java.lang.Object- class java.lang.String]  ,  6
+org.assertj.core.api.ClassBasedNavigableIterableAssert  ,  buildAssert  ,  [class java.lang.Object- class java.lang.String- class java.lang.Class]  ,  7
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  8
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  8
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  8
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  8
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  9
+org.assertj.core.api.AbstractAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  8
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  9
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  10
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  11
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  12
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  getVehicle  ,  [int]  ,  5
+org.assertj.core.api.AbstractAssert  ,  isEqualTo  ,  [class java.lang.Object]  ,  5
+org.assertj.core.internal.Objects  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object]  ,  6
+org.assertj.core.internal.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  7
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  8
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  9
+org.assertj.core.api.AbstractIterableAssert  ,  element  ,  [int]  ,  5
+org.assertj.core.api.AbstractIterableAssert  ,  isNotEmpty  ,  []  ,  6
+org.assertj.core.internal.Iterables  ,  assertNotEmpty  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  7
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  8
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  9
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  9
+org.assertj.core.util.IterableUtil  ,  isNullOrEmpty  ,  [interface java.lang.Iterable]  ,  8
+org.assertj.core.api.Assertions  ,  assertThat  ,  [int]  ,  6
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [int]  ,  7
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  8
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  8
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  8
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  8
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  9
+org.assertj.core.api.AbstractObjectAssert  ,  defaultTypeComparators  ,  []  ,  8
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  9
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  9
+org.assertj.core.internal.StandardComparisonStrategy  ,  instance  ,  []  ,  8
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  8
+org.assertj.core.internal.Comparables  ,  instance  ,  []  ,  8
+org.assertj.core.internal.StandardComparisonStrategy  ,  instance  ,  []  ,  8
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  8
+org.assertj.core.internal.Integers  ,  instance  ,  []  ,  8
+org.assertj.core.api.AbstractIterableAssert  ,  navigationDescription  ,  [class java.lang.String]  ,  6
+org.assertj.core.api.AbstractAssert  ,  descriptionText  ,  []  ,  7
+org.assertj.core.api.WritableAssertionInfo  ,  descriptionText  ,  []  ,  8
+org.assertj.core.description.TextDescription  ,  value  ,  []  ,  9
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  10
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  11
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  7
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  6
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  7
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  8
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  9
+org.assertj.core.util.IterableUtil  ,  sizeOf  ,  [interface java.lang.Iterable]  ,  6
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  7
+org.assertj.core.api.AbstractIntegerAssert  ,  isBetween  ,  [class java.lang.Integer- class java.lang.Integer]  ,  6
+org.assertj.core.internal.Numbers  ,  assertIsBetween  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Number- class java.lang.Number- class java.lang.Number]  ,  7
+org.assertj.core.internal.Comparables  ,  assertIsBetween  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Comparable- interface java.lang.Comparable- interface java.lang.Comparable- boolean- boolean]  ,  8
+org.assertj.core.internal.Comparables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  9
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  10
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  10
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  9
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  9
+org.assertj.core.internal.AbstractComparisonStrategy  ,  isLessThanOrEqualTo  ,  [class java.lang.Object- class java.lang.Object]  ,  9
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  10
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  11
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  12
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  13
+org.assertj.core.internal.StandardComparisonStrategy  ,  isLessThan  ,  [class java.lang.Object- class java.lang.Object]  ,  10
+org.assertj.core.internal.StandardComparisonStrategy  ,  checkArgumentIsComparable  ,  [class java.lang.Object]  ,  11
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  12
+org.assertj.core.internal.StandardComparisonStrategy  ,  isStandard  ,  []  ,  9
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  9
+org.assertj.core.internal.Comparables  ,  isGreaterThan  ,  [class java.lang.Object- class java.lang.Object]  ,  9
+org.assertj.core.internal.StandardComparisonStrategy  ,  isGreaterThan  ,  [class java.lang.Object- class java.lang.Object]  ,  10
+org.assertj.core.internal.StandardComparisonStrategy  ,  checkArgumentIsComparable  ,  [class java.lang.Object]  ,  11
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  12
+org.assertj.core.internal.Comparables  ,  isGreaterThan  ,  [class java.lang.Object- class java.lang.Object]  ,  9
+org.assertj.core.internal.StandardComparisonStrategy  ,  isGreaterThan  ,  [class java.lang.Object- class java.lang.Object]  ,  10
+org.assertj.core.internal.StandardComparisonStrategy  ,  checkArgumentIsComparable  ,  [class java.lang.Object]  ,  11
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  12
+org.assertj.core.api.AbstractIterableAssert  ,  navigationDescription  ,  [class java.lang.String]  ,  6
+org.assertj.core.api.AbstractAssert  ,  descriptionText  ,  []  ,  7
+org.assertj.core.api.WritableAssertionInfo  ,  descriptionText  ,  []  ,  8
+org.assertj.core.description.TextDescription  ,  value  ,  []  ,  9
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  10
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  11
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  7
+org.assertj.core.api.ClassBasedNavigableIterableAssert  ,  toAssert  ,  [class java.lang.Object- class java.lang.String]  ,  6
+org.assertj.core.api.ClassBasedNavigableIterableAssert  ,  buildAssert  ,  [class java.lang.Object- class java.lang.String- class java.lang.Class]  ,  7
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  8
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  8
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  8
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  8
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  9
+org.assertj.core.api.AbstractAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  8
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  9
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  10
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  11
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  12
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  getVehicle  ,  [int]  ,  5
+org.assertj.core.api.AbstractAssert  ,  isEqualTo  ,  [class java.lang.Object]  ,  5
+org.assertj.core.internal.Objects  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object]  ,  6
+org.assertj.core.internal.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  7
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  8
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  9
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  4
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  4
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  init  ,  []  ,  4
+org.assertj.core.test.VehicleFactory  ,  getVehicles  ,  []  ,  5
+org.assertj.core.navigation.ClassBasedNavigableIterable_Test  ,  buildNavigableAssert  ,  []  ,  5
+org.assertj.core.api.Assertions  ,  assertThat  ,  [interface java.lang.Iterable- class java.lang.Class]  ,  6
+org.assertj.core.api.AssertionsForInterfaceTypes  ,  assertThat  ,  [interface java.lang.Iterable- class java.lang.Class]  ,  7
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  8
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  8
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  8
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  8
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  9
+org.assertj.core.internal.Iterables  ,  instance  ,  []  ,  8
+org.assertj.core.api.AbstractIterableAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  5
+org.assertj.core.api.AbstractAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  6
+org.assertj.core.api.AbstractIterableAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  7
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  8
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  9
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  10
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  11
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  element_navigating_failing_test_index_greater_size  ,  []  ,  4
+org.assertj.core.test.ExpectedException  ,  expectAssertionErrorWithMessageContaining  ,  [class [Ljava.lang.String;]  ,  5
+org.assertj.core.test.ExpectedException  ,  expectWithMessageContaining  ,  [class java.lang.Class- class [Ljava.lang.String;]  ,  6
+org.assertj.core.test.ExpectedException  ,  expect  ,  [class java.lang.Class]  ,  7
+org.assertj.core.test.ExpectedException  ,  expectMessageContaining  ,  [class [Ljava.lang.String;]  ,  7
+org.assertj.core.api.AbstractIterableAssert  ,  element  ,  [int]  ,  5
+org.assertj.core.api.AbstractIterableAssert  ,  isNotEmpty  ,  []  ,  6
+org.assertj.core.internal.Iterables  ,  assertNotEmpty  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  7
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  8
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  9
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  9
+org.assertj.core.util.IterableUtil  ,  isNullOrEmpty  ,  [interface java.lang.Iterable]  ,  8
+org.assertj.core.api.Assertions  ,  assertThat  ,  [int]  ,  6
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [int]  ,  7
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  8
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  8
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  8
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  8
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  9
+org.assertj.core.api.AbstractObjectAssert  ,  defaultTypeComparators  ,  []  ,  8
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  9
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  9
+org.assertj.core.internal.Comparables  ,  instance  ,  []  ,  8
+org.assertj.core.internal.Integers  ,  instance  ,  []  ,  8
+org.assertj.core.api.AbstractIterableAssert  ,  navigationDescription  ,  [class java.lang.String]  ,  6
+org.assertj.core.api.AbstractAssert  ,  descriptionText  ,  []  ,  7
+org.assertj.core.api.WritableAssertionInfo  ,  descriptionText  ,  []  ,  8
+org.assertj.core.description.TextDescription  ,  value  ,  []  ,  9
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  10
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  11
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  7
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  6
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  7
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  8
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  9
+org.assertj.core.util.IterableUtil  ,  sizeOf  ,  [interface java.lang.Iterable]  ,  6
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  7
+org.assertj.core.api.AbstractIntegerAssert  ,  isBetween  ,  [class java.lang.Integer- class java.lang.Integer]  ,  6
+org.assertj.core.internal.Numbers  ,  assertIsBetween  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Number- class java.lang.Number- class java.lang.Number]  ,  7
+org.assertj.core.internal.Comparables  ,  assertIsBetween  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Comparable- interface java.lang.Comparable- interface java.lang.Comparable- boolean- boolean]  ,  8
+org.assertj.core.internal.Comparables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  9
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  10
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  10
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  9
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  9
+org.assertj.core.internal.AbstractComparisonStrategy  ,  isLessThanOrEqualTo  ,  [class java.lang.Object- class java.lang.Object]  ,  9
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  10
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  11
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  12
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  13
+org.assertj.core.internal.StandardComparisonStrategy  ,  isLessThan  ,  [class java.lang.Object- class java.lang.Object]  ,  10
+org.assertj.core.internal.StandardComparisonStrategy  ,  checkArgumentIsComparable  ,  [class java.lang.Object]  ,  11
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  12
+org.assertj.core.internal.StandardComparisonStrategy  ,  isStandard  ,  []  ,  9
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  9
+org.assertj.core.internal.Comparables  ,  isGreaterThan  ,  [class java.lang.Object- class java.lang.Object]  ,  9
+org.assertj.core.internal.StandardComparisonStrategy  ,  isGreaterThan  ,  [class java.lang.Object- class java.lang.Object]  ,  10
+org.assertj.core.internal.StandardComparisonStrategy  ,  checkArgumentIsComparable  ,  [class java.lang.Object]  ,  11
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  12
+org.assertj.core.internal.Comparables  ,  isGreaterThan  ,  [class java.lang.Object- class java.lang.Object]  ,  9
+org.assertj.core.internal.StandardComparisonStrategy  ,  isGreaterThan  ,  [class java.lang.Object- class java.lang.Object]  ,  10
+org.assertj.core.internal.StandardComparisonStrategy  ,  checkArgumentIsComparable  ,  [class java.lang.Object]  ,  11
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  12
+org.assertj.core.error.ShouldBeBetween  ,  shouldBeBetween  ,  [interface java.lang.Comparable- interface java.lang.Comparable- interface java.lang.Comparable- boolean- boolean- interface org.assertj.core.internal.ComparisonStrategy]  ,  9
+org.assertj.core.error.DescriptionFormatter  ,  instance  ,  []  ,  10
+org.assertj.core.error.MessageFormatter  ,  instance  ,  []  ,  10
+org.assertj.core.internal.Failures  ,  failure  ,  [interface org.assertj.core.api.AssertionInfo- interface org.assertj.core.error.ErrorMessageFactory]  ,  9
+org.assertj.core.internal.Failures  ,  failureIfErrorMessageIsOverridden  ,  [interface org.assertj.core.api.AssertionInfo]  ,  10
+org.assertj.core.api.WritableAssertionInfo  ,  overridingErrorMessage  ,  []  ,  11
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  11
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  []  ,  10
+org.assertj.core.api.WritableAssertionInfo  ,  representation  ,  []  ,  10
+org.assertj.core.error.BasicErrorMessageFactory  ,  create  ,  [class org.assertj.core.description.Description- interface org.assertj.core.presentation.Representation]  ,  10
+org.assertj.core.error.MessageFormatter  ,  format  ,  [class org.assertj.core.description.Description- interface org.assertj.core.presentation.Representation- class java.lang.String- class [Ljava.lang.Object;]  ,  11
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  12
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  12
+org.assertj.core.error.DescriptionFormatter  ,  format  ,  [class org.assertj.core.description.Description]  ,  12
+org.assertj.core.description.TextDescription  ,  value  ,  []  ,  13
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  14
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  15
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  13
+org.assertj.core.error.MessageFormatter  ,  format  ,  [interface org.assertj.core.presentation.Representation- class [Ljava.lang.Object;]  ,  12
+org.assertj.core.error.MessageFormatter  ,  asText  ,  [interface org.assertj.core.presentation.Representation- class java.lang.Object]  ,  13
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  14
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  15
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Number]  ,  15
+org.assertj.core.error.MessageFormatter  ,  asText  ,  [interface org.assertj.core.presentation.Representation- class java.lang.Object]  ,  13
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  14
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  15
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Number]  ,  15
+org.assertj.core.error.MessageFormatter  ,  asText  ,  [interface org.assertj.core.presentation.Representation- class java.lang.Object]  ,  13
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  14
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  15
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Number]  ,  15
+org.assertj.core.error.MessageFormatter  ,  asText  ,  [interface org.assertj.core.presentation.Representation- class java.lang.Object]  ,  13
+org.assertj.core.internal.StandardComparisonStrategy  ,  asText  ,  []  ,  14
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  12
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  13
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  14
+org.assertj.core.internal.Failures  ,  removeAssertJRelatedElementsFromStackTraceIfNeeded  ,  [class java.lang.AssertionError]  ,  10
+org.assertj.core.util.Throwables  ,  removeAssertJRelatedElementsFromStackTrace  ,  [class java.lang.Throwable]  ,  11
+org.assertj.core.util.Lists  ,  newArrayList  ,  [class [Ljava.lang.Object;]  ,  12
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  13
+org.assertj.core.internal.Failures  ,  printThreadDumpIfNeeded  ,  []  ,  10
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  9
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  9
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  init  ,  []  ,  9
+org.assertj.core.test.VehicleFactory  ,  getVehicles  ,  []  ,  10
+org.assertj.core.navigation.ClassBasedNavigableIterable_Test  ,  buildNavigableAssert  ,  []  ,  10
+org.assertj.core.api.Assertions  ,  assertThat  ,  [interface java.lang.Iterable- class java.lang.Class]  ,  11
+org.assertj.core.api.AssertionsForInterfaceTypes  ,  assertThat  ,  [interface java.lang.Iterable- class java.lang.Class]  ,  12
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  13
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  13
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  13
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  13
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  14
+org.assertj.core.internal.Iterables  ,  instance  ,  []  ,  13
+org.assertj.core.api.AbstractIterableAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  10
+org.assertj.core.api.AbstractAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  11
+org.assertj.core.api.AbstractIterableAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  12
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  13
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  14
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  15
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  16
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  first_element_navigating_failing_test  ,  []  ,  9
+org.assertj.core.test.ExpectedException  ,  expectAssertionErrorWithMessageContaining  ,  [class [Ljava.lang.String;]  ,  10
+org.assertj.core.test.ExpectedException  ,  expectWithMessageContaining  ,  [class java.lang.Class- class [Ljava.lang.String;]  ,  11
+org.assertj.core.test.ExpectedException  ,  expect  ,  [class java.lang.Class]  ,  12
+org.assertj.core.test.ExpectedException  ,  expectMessageContaining  ,  [class [Ljava.lang.String;]  ,  12
+org.assertj.core.api.AbstractIterableAssert  ,  first  ,  []  ,  10
+org.assertj.core.api.AbstractIterableAssert  ,  isNotEmpty  ,  []  ,  11
+org.assertj.core.internal.Iterables  ,  assertNotEmpty  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  12
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  13
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  14
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  14
+org.assertj.core.util.IterableUtil  ,  isNullOrEmpty  ,  [interface java.lang.Iterable]  ,  13
+org.assertj.core.api.AbstractIterableAssert  ,  navigationDescription  ,  [class java.lang.String]  ,  11
+org.assertj.core.api.AbstractAssert  ,  descriptionText  ,  []  ,  12
+org.assertj.core.api.WritableAssertionInfo  ,  descriptionText  ,  []  ,  13
+org.assertj.core.description.TextDescription  ,  value  ,  []  ,  14
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  15
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  16
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  12
+org.assertj.core.api.ClassBasedNavigableIterableAssert  ,  toAssert  ,  [class java.lang.Object- class java.lang.String]  ,  11
+org.assertj.core.api.ClassBasedNavigableIterableAssert  ,  buildAssert  ,  [class java.lang.Object- class java.lang.String- class java.lang.Class]  ,  12
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  13
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  13
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  13
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  13
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  14
+org.assertj.core.api.AbstractAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  13
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  14
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  15
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  16
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  17
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  getVehicle  ,  [int]  ,  10
+org.assertj.core.api.AbstractAssert  ,  isEqualTo  ,  [class java.lang.Object]  ,  10
+org.assertj.core.internal.Objects  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object]  ,  11
+org.assertj.core.internal.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  12
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  13
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  14
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  15
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  16
+org.assertj.core.api.WritableAssertionInfo  ,  representation  ,  []  ,  12
+org.assertj.core.util.Arrays  ,  array  ,  [class [Ljava.lang.Object;]  ,  12
+org.assertj.core.util.Arrays  ,  array  ,  [class [Ljava.lang.Object;]  ,  12
+org.assertj.core.error.ShouldBeEqual  ,  shouldBeEqual  ,  [class java.lang.Object- class java.lang.Object- interface org.assertj.core.internal.ComparisonStrategy- interface org.assertj.core.presentation.Representation]  ,  12
+org.assertj.core.error.MessageFormatter  ,  instance  ,  []  ,  13
+org.assertj.core.error.DescriptionFormatter  ,  instance  ,  []  ,  13
+org.assertj.core.internal.Failures  ,  failure  ,  [interface org.assertj.core.api.AssertionInfo- interface org.assertj.core.error.AssertionErrorFactory]  ,  12
+org.assertj.core.internal.Failures  ,  failureIfErrorMessageIsOverridden  ,  [interface org.assertj.core.api.AssertionInfo]  ,  13
+org.assertj.core.api.WritableAssertionInfo  ,  overridingErrorMessage  ,  []  ,  14
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  14
+org.assertj.core.internal.Failures  ,  printThreadDumpIfNeeded  ,  []  ,  13
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  []  ,  13
+org.assertj.core.api.WritableAssertionInfo  ,  representation  ,  []  ,  13
+org.assertj.core.error.ShouldBeEqual  ,  newAssertionError  ,  [class org.assertj.core.description.Description- interface org.assertj.core.presentation.Representation]  ,  13
+org.assertj.core.internal.StandardComparisonStrategy  ,  isStandard  ,  []  ,  14
+org.assertj.core.error.ShouldBeEqual  ,  actualAndExpectedHaveSameStringRepresentation  ,  []  ,  14
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  15
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  16
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  16
+org.assertj.core.presentation.StandardRepresentation  ,  fallbackToStringOf  ,  [class java.lang.Object]  ,  16
+org.assertj.core.test.VehicleFactory$Car  ,  toString  ,  []  ,  17
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  15
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  16
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  16
+org.assertj.core.presentation.StandardRepresentation  ,  fallbackToStringOf  ,  [class java.lang.Object]  ,  16
+org.assertj.core.test.VehicleFactory$Car  ,  toString  ,  []  ,  17
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  15
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  16
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  17
+org.assertj.core.error.ShouldBeEqual  ,  comparisonFailure  ,  [class org.assertj.core.description.Description]  ,  14
+org.assertj.core.error.DescriptionFormatter  ,  format  ,  [class org.assertj.core.description.Description]  ,  15
+org.assertj.core.description.TextDescription  ,  value  ,  []  ,  16
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  17
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  18
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  16
+org.assertj.core.error.ShouldBeEqual  ,  newComparisonFailure  ,  [class java.lang.String]  ,  15
+org.assertj.core.error.ShouldBeEqual  ,  msgArgs  ,  [class java.lang.String]  ,  16
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  17
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  18
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  18
+org.assertj.core.presentation.StandardRepresentation  ,  fallbackToStringOf  ,  [class java.lang.Object]  ,  18
+org.assertj.core.test.VehicleFactory$Car  ,  toString  ,  []  ,  19
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  17
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  18
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  18
+org.assertj.core.presentation.StandardRepresentation  ,  fallbackToStringOf  ,  [class java.lang.Object]  ,  18
+org.assertj.core.test.VehicleFactory$Car  ,  toString  ,  []  ,  19
+org.assertj.core.util.Arrays  ,  array  ,  [class [Ljava.lang.Object;]  ,  17
+org.assertj.core.error.ConstructorInvoker  ,  newInstance  ,  [class java.lang.String- class [Ljava.lang.Class;- class [Ljava.lang.Object;]  ,  16
+org.assertj.core.error.ConstructorInvoker  ,  setAccessible  ,  [class java.lang.reflect.AccessibleObject- boolean]  ,  17
+org.assertj.core.error.ConstructorInvoker$SetAccessibleValueAction  ,  run  ,  []  ,  18
+org.assertj.core.error.ConstructorInvoker  ,  setAccessible  ,  [class java.lang.reflect.AccessibleObject- boolean]  ,  17
+org.assertj.core.error.ConstructorInvoker$SetAccessibleValueAction  ,  run  ,  []  ,  18
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  15
+org.assertj.core.internal.Failures  ,  removeAssertJRelatedElementsFromStackTraceIfNeeded  ,  [class java.lang.AssertionError]  ,  15
+org.assertj.core.util.Throwables  ,  removeAssertJRelatedElementsFromStackTrace  ,  [class java.lang.Throwable]  ,  16
+org.assertj.core.util.Lists  ,  newArrayList  ,  [class [Ljava.lang.Object;]  ,  17
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  18
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  12
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  12
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  init  ,  []  ,  12
+org.assertj.core.test.VehicleFactory  ,  getVehicles  ,  []  ,  13
+org.assertj.core.navigation.ClassBasedNavigableIterable_Test  ,  buildNavigableAssert  ,  []  ,  13
+org.assertj.core.api.Assertions  ,  assertThat  ,  [interface java.lang.Iterable- class java.lang.Class]  ,  14
+org.assertj.core.api.AssertionsForInterfaceTypes  ,  assertThat  ,  [interface java.lang.Iterable- class java.lang.Class]  ,  15
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  16
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  16
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  16
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  16
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  17
+org.assertj.core.internal.Iterables  ,  instance  ,  []  ,  16
+org.assertj.core.api.AbstractIterableAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  13
+org.assertj.core.api.AbstractAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  14
+org.assertj.core.api.AbstractIterableAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  15
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  16
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  17
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  18
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  19
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  should_honor_iterable_assertions  ,  []  ,  12
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  getVehicle  ,  [int]  ,  13
+org.assertj.core.api.AbstractIterableAssert  ,  contains  ,  [class [Ljava.lang.Object;]  ,  13
+org.assertj.core.internal.Iterables  ,  assertContains  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable- class [Ljava.lang.Object;]  ,  14
+org.assertj.core.internal.Iterables  ,  commonCheckThatIterableAssertionSucceeds  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable- class [Ljava.lang.Object;]  ,  15
+org.assertj.core.internal.Iterables  ,  checkNotNullIterables  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable- class [Ljava.lang.Object;]  ,  16
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  17
+org.assertj.core.internal.CommonValidations  ,  checkIsNotNull  ,  [class [Ljava.lang.Object;]  ,  17
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  17
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  18
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  18
+org.assertj.core.internal.CommonValidations  ,  failIfEmptySinceActualIsNotEmpty  ,  [class [Ljava.lang.Object;]  ,  16
+org.assertj.core.internal.Iterables  ,  assertIterableContainsGivenValues  ,  [interface java.lang.Iterable- class [Ljava.lang.Object;- interface org.assertj.core.api.AssertionInfo]  ,  15
+org.assertj.core.internal.Iterables  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  16
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  17
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  18
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  21
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  18
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  getVehicle  ,  [int]  ,  13
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  getVehicle  ,  [int]  ,  13
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  getVehicle  ,  [int]  ,  13
+org.assertj.core.api.AbstractIterableAssert  ,  containsOnly  ,  [class [Ljava.lang.Object;]  ,  13
+org.assertj.core.internal.Iterables  ,  assertContainsOnly  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable- class [Ljava.lang.Object;]  ,  14
+org.assertj.core.internal.Iterables  ,  commonCheckThatIterableAssertionSucceeds  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable- class [Ljava.lang.Object;]  ,  15
+org.assertj.core.internal.Iterables  ,  checkNotNullIterables  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable- class [Ljava.lang.Object;]  ,  16
+org.assertj.core.internal.CommonValidations  ,  checkIsNotNull  ,  [class [Ljava.lang.Object;]  ,  17
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  17
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  18
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  18
+org.assertj.core.internal.CommonValidations  ,  failIfEmptySinceActualIsNotEmpty  ,  [class [Ljava.lang.Object;]  ,  16
+org.assertj.core.util.Lists  ,  newArrayList  ,  [interface java.lang.Iterable]  ,  15
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  16
+org.assertj.core.internal.IterableDiff  ,  diff  ,  [interface java.lang.Iterable- interface java.lang.Iterable- interface org.assertj.core.internal.ComparisonStrategy]  ,  15
+org.assertj.core.internal.IterableDiff  ,  unexpectedElements  ,  [interface java.lang.Iterable- interface java.lang.Iterable]  ,  16
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  17
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  18
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  21
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  22
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  21
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  22
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  17
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  18
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  17
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  18
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  21
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  22
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.internal.IterableDiff  ,  missingElements  ,  [interface java.lang.Iterable- interface java.lang.Iterable]  ,  16
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  17
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  18
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  21
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  22
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  17
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  18
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  21
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  22
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  21
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  22
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  17
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  18
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.internal.IterableDiff  ,  differencesFound  ,  []  ,  15
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  getVehicle  ,  [int]  ,  13
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  getVehicle  ,  [int]  ,  13
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  getVehicle  ,  [int]  ,  13
+org.assertj.core.api.AbstractIterableAssert  ,  containsExactly  ,  [class [Ljava.lang.Object;]  ,  13
+org.assertj.core.internal.Iterables  ,  assertContainsExactly  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable- class [Ljava.lang.Object;]  ,  14
+org.assertj.core.internal.CommonValidations  ,  checkIsNotNull  ,  [class [Ljava.lang.Object;]  ,  15
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  15
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  16
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  16
+org.assertj.core.util.IterableUtil  ,  sizeOf  ,  [interface java.lang.Iterable]  ,  15
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  16
+org.assertj.core.internal.Iterables  ,  assertHasSameSizeAs  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable- class java.lang.Object]  ,  15
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  16
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  17
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  17
+org.assertj.core.internal.StandardComparisonStrategy  ,  instance  ,  []  ,  16
+org.assertj.core.internal.Arrays  ,  assertIsArray  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  16
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  17
+org.assertj.core.util.IterableUtil  ,  sizeOf  ,  [interface java.lang.Iterable]  ,  16
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  17
+org.assertj.core.internal.CommonValidations  ,  hasSameSizeAsCheck  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object- int]  ,  16
+org.assertj.core.internal.CommonValidations  ,  checkOtherIsNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  17
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  18
+org.assertj.core.internal.CommonValidations  ,  checkSameSizes  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- int- int]  ,  17
+org.assertj.core.util.Lists  ,  newArrayList  ,  [interface java.lang.Iterable]  ,  15
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  16
+org.assertj.core.internal.IterableDiff  ,  diff  ,  [interface java.lang.Iterable- interface java.lang.Iterable- interface org.assertj.core.internal.ComparisonStrategy]  ,  15
+org.assertj.core.internal.IterableDiff  ,  unexpectedElements  ,  [interface java.lang.Iterable- interface java.lang.Iterable]  ,  16
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  17
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  18
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  17
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  18
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  21
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  22
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  17
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  18
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  21
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  22
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  21
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  22
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.internal.IterableDiff  ,  missingElements  ,  [interface java.lang.Iterable- interface java.lang.Iterable]  ,  16
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  17
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  18
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  17
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  18
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  21
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  22
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  17
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  18
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  21
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  22
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  21
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  22
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.internal.IterableDiff  ,  differencesFound  ,  []  ,  15
+org.assertj.core.internal.Iterables  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  15
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  16
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  17
+org.assertj.core.internal.Iterables  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  15
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  16
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  17
+org.assertj.core.internal.Iterables  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  15
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  16
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  17
+org.assertj.core.api.AbstractIterableAssert  ,  doesNotContain  ,  [class [Ljava.lang.Object;]  ,  13
+org.assertj.core.internal.Iterables  ,  assertDoesNotContain  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable- class [Ljava.lang.Object;]  ,  14
+org.assertj.core.internal.CommonValidations  ,  checkIsNotNullAndNotEmpty  ,  [class [Ljava.lang.Object;]  ,  15
+org.assertj.core.internal.CommonValidations  ,  checkIsNotNull  ,  [class [Ljava.lang.Object;]  ,  16
+org.assertj.core.internal.CommonValidations  ,  checkIsNotEmpty  ,  [class [Ljava.lang.Object;]  ,  16
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  15
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  16
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  16
+org.assertj.core.internal.Iterables  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  15
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  16
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  17
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  18
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  20
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  17
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  18
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  20
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  17
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  18
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  20
+org.assertj.core.internal.Iterables  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  15
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  16
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  17
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  18
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  20
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  17
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  18
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  20
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  17
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  18
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  20
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  12
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  12
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  init  ,  []  ,  12
+org.assertj.core.test.VehicleFactory  ,  getVehicles  ,  []  ,  13
+org.assertj.core.navigation.ClassBasedNavigableIterable_Test  ,  buildNavigableAssert  ,  []  ,  13
+org.assertj.core.api.Assertions  ,  assertThat  ,  [interface java.lang.Iterable- class java.lang.Class]  ,  14
+org.assertj.core.api.AssertionsForInterfaceTypes  ,  assertThat  ,  [interface java.lang.Iterable- class java.lang.Class]  ,  15
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  16
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  16
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  16
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  16
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  17
+org.assertj.core.internal.Iterables  ,  instance  ,  []  ,  16
+org.assertj.core.api.AbstractIterableAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  13
+org.assertj.core.api.AbstractAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  14
+org.assertj.core.api.AbstractIterableAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  15
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  16
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  17
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  18
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  19
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  element_navigating_failing_test_actual_not_equal_to_given  ,  []  ,  12
+org.assertj.core.test.ExpectedException  ,  expectAssertionErrorWithMessageContaining  ,  [class [Ljava.lang.String;]  ,  13
+org.assertj.core.test.ExpectedException  ,  expectWithMessageContaining  ,  [class java.lang.Class- class [Ljava.lang.String;]  ,  14
+org.assertj.core.test.ExpectedException  ,  expect  ,  [class java.lang.Class]  ,  15
+org.assertj.core.test.ExpectedException  ,  expectMessageContaining  ,  [class [Ljava.lang.String;]  ,  15
+org.assertj.core.api.AbstractIterableAssert  ,  element  ,  [int]  ,  13
+org.assertj.core.api.AbstractIterableAssert  ,  isNotEmpty  ,  []  ,  14
+org.assertj.core.internal.Iterables  ,  assertNotEmpty  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  15
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  16
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  17
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  17
+org.assertj.core.util.IterableUtil  ,  isNullOrEmpty  ,  [interface java.lang.Iterable]  ,  16
+org.assertj.core.api.Assertions  ,  assertThat  ,  [int]  ,  14
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [int]  ,  15
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  16
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  16
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  16
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  16
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  17
+org.assertj.core.api.AbstractObjectAssert  ,  defaultTypeComparators  ,  []  ,  16
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  17
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  17
+org.assertj.core.internal.Comparables  ,  instance  ,  []  ,  16
+org.assertj.core.internal.Integers  ,  instance  ,  []  ,  16
+org.assertj.core.api.AbstractIterableAssert  ,  navigationDescription  ,  [class java.lang.String]  ,  14
+org.assertj.core.api.AbstractAssert  ,  descriptionText  ,  []  ,  15
+org.assertj.core.api.WritableAssertionInfo  ,  descriptionText  ,  []  ,  16
+org.assertj.core.description.TextDescription  ,  value  ,  []  ,  17
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  18
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  19
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  15
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  14
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  15
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  16
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  17
+org.assertj.core.util.IterableUtil  ,  sizeOf  ,  [interface java.lang.Iterable]  ,  14
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  15
+org.assertj.core.api.AbstractIntegerAssert  ,  isBetween  ,  [class java.lang.Integer- class java.lang.Integer]  ,  14
+org.assertj.core.internal.Numbers  ,  assertIsBetween  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Number- class java.lang.Number- class java.lang.Number]  ,  15
+org.assertj.core.internal.Comparables  ,  assertIsBetween  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Comparable- interface java.lang.Comparable- interface java.lang.Comparable- boolean- boolean]  ,  16
+org.assertj.core.internal.Comparables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  17
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  18
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  18
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  17
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  17
+org.assertj.core.internal.AbstractComparisonStrategy  ,  isLessThanOrEqualTo  ,  [class java.lang.Object- class java.lang.Object]  ,  17
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  18
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  21
+org.assertj.core.internal.StandardComparisonStrategy  ,  isLessThan  ,  [class java.lang.Object- class java.lang.Object]  ,  18
+org.assertj.core.internal.StandardComparisonStrategy  ,  checkArgumentIsComparable  ,  [class java.lang.Object]  ,  19
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  20
+org.assertj.core.internal.StandardComparisonStrategy  ,  isStandard  ,  []  ,  17
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  17
+org.assertj.core.internal.Comparables  ,  isGreaterThan  ,  [class java.lang.Object- class java.lang.Object]  ,  17
+org.assertj.core.internal.StandardComparisonStrategy  ,  isGreaterThan  ,  [class java.lang.Object- class java.lang.Object]  ,  18
+org.assertj.core.internal.StandardComparisonStrategy  ,  checkArgumentIsComparable  ,  [class java.lang.Object]  ,  19
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  20
+org.assertj.core.internal.Comparables  ,  isGreaterThan  ,  [class java.lang.Object- class java.lang.Object]  ,  17
+org.assertj.core.internal.StandardComparisonStrategy  ,  isGreaterThan  ,  [class java.lang.Object- class java.lang.Object]  ,  18
+org.assertj.core.internal.StandardComparisonStrategy  ,  checkArgumentIsComparable  ,  [class java.lang.Object]  ,  19
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  20
+org.assertj.core.api.AbstractIterableAssert  ,  navigationDescription  ,  [class java.lang.String]  ,  14
+org.assertj.core.api.AbstractAssert  ,  descriptionText  ,  []  ,  15
+org.assertj.core.api.WritableAssertionInfo  ,  descriptionText  ,  []  ,  16
+org.assertj.core.description.TextDescription  ,  value  ,  []  ,  17
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  18
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  19
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  15
+org.assertj.core.api.ClassBasedNavigableIterableAssert  ,  toAssert  ,  [class java.lang.Object- class java.lang.String]  ,  14
+org.assertj.core.api.ClassBasedNavigableIterableAssert  ,  buildAssert  ,  [class java.lang.Object- class java.lang.String- class java.lang.Class]  ,  15
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  16
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  16
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  16
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  16
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  17
+org.assertj.core.api.AbstractAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  16
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  17
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  18
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  19
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  20
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  getVehicle  ,  [int]  ,  13
+org.assertj.core.api.AbstractAssert  ,  isEqualTo  ,  [class java.lang.Object]  ,  13
+org.assertj.core.internal.Objects  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object]  ,  14
+org.assertj.core.internal.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  15
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  16
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  17
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  18
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  19
+org.assertj.core.api.WritableAssertionInfo  ,  representation  ,  []  ,  15
+org.assertj.core.error.ShouldBeEqual  ,  shouldBeEqual  ,  [class java.lang.Object- class java.lang.Object- interface org.assertj.core.internal.ComparisonStrategy- interface org.assertj.core.presentation.Representation]  ,  15
+org.assertj.core.error.MessageFormatter  ,  instance  ,  []  ,  16
+org.assertj.core.error.DescriptionFormatter  ,  instance  ,  []  ,  16
+org.assertj.core.internal.Failures  ,  failure  ,  [interface org.assertj.core.api.AssertionInfo- interface org.assertj.core.error.AssertionErrorFactory]  ,  15
+org.assertj.core.internal.Failures  ,  failureIfErrorMessageIsOverridden  ,  [interface org.assertj.core.api.AssertionInfo]  ,  16
+org.assertj.core.api.WritableAssertionInfo  ,  overridingErrorMessage  ,  []  ,  17
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  17
+org.assertj.core.internal.Failures  ,  printThreadDumpIfNeeded  ,  []  ,  16
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  []  ,  16
+org.assertj.core.api.WritableAssertionInfo  ,  representation  ,  []  ,  16
+org.assertj.core.error.ShouldBeEqual  ,  newAssertionError  ,  [class org.assertj.core.description.Description- interface org.assertj.core.presentation.Representation]  ,  16
+org.assertj.core.internal.StandardComparisonStrategy  ,  isStandard  ,  []  ,  17
+org.assertj.core.error.ShouldBeEqual  ,  actualAndExpectedHaveSameStringRepresentation  ,  []  ,  17
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  18
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  19
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  19
+org.assertj.core.presentation.StandardRepresentation  ,  fallbackToStringOf  ,  [class java.lang.Object]  ,  19
+org.assertj.core.test.VehicleFactory$Car  ,  toString  ,  []  ,  20
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  18
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  19
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  19
+org.assertj.core.presentation.StandardRepresentation  ,  fallbackToStringOf  ,  [class java.lang.Object]  ,  19
+org.assertj.core.test.VehicleFactory$Car  ,  toString  ,  []  ,  20
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  18
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  20
+org.assertj.core.error.ShouldBeEqual  ,  comparisonFailure  ,  [class org.assertj.core.description.Description]  ,  17
+org.assertj.core.error.DescriptionFormatter  ,  format  ,  [class org.assertj.core.description.Description]  ,  18
+org.assertj.core.description.TextDescription  ,  value  ,  []  ,  19
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  20
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  21
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  19
+org.assertj.core.error.ShouldBeEqual  ,  newComparisonFailure  ,  [class java.lang.String]  ,  18
+org.assertj.core.error.ShouldBeEqual  ,  msgArgs  ,  [class java.lang.String]  ,  19
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  20
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  21
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  21
+org.assertj.core.presentation.StandardRepresentation  ,  fallbackToStringOf  ,  [class java.lang.Object]  ,  21
+org.assertj.core.test.VehicleFactory$Car  ,  toString  ,  []  ,  22
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  20
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  21
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  21
+org.assertj.core.presentation.StandardRepresentation  ,  fallbackToStringOf  ,  [class java.lang.Object]  ,  21
+org.assertj.core.test.VehicleFactory$Car  ,  toString  ,  []  ,  22
+org.assertj.core.util.Arrays  ,  array  ,  [class [Ljava.lang.Object;]  ,  20
+org.assertj.core.error.ConstructorInvoker  ,  newInstance  ,  [class java.lang.String- class [Ljava.lang.Class;- class [Ljava.lang.Object;]  ,  19
+org.assertj.core.error.ConstructorInvoker  ,  setAccessible  ,  [class java.lang.reflect.AccessibleObject- boolean]  ,  20
+org.assertj.core.error.ConstructorInvoker$SetAccessibleValueAction  ,  run  ,  []  ,  21
+org.assertj.core.error.ConstructorInvoker  ,  setAccessible  ,  [class java.lang.reflect.AccessibleObject- boolean]  ,  20
+org.assertj.core.error.ConstructorInvoker$SetAccessibleValueAction  ,  run  ,  []  ,  21
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  18
+org.assertj.core.internal.Failures  ,  removeAssertJRelatedElementsFromStackTraceIfNeeded  ,  [class java.lang.AssertionError]  ,  18
+org.assertj.core.util.Throwables  ,  removeAssertJRelatedElementsFromStackTrace  ,  [class java.lang.Throwable]  ,  19
+org.assertj.core.util.Lists  ,  newArrayList  ,  [class [Ljava.lang.Object;]  ,  20
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  21
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  15
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  15
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  init  ,  []  ,  15
+org.assertj.core.test.VehicleFactory  ,  getVehicles  ,  []  ,  16
+org.assertj.core.navigation.ClassBasedNavigableIterable_Test  ,  buildNavigableAssert  ,  []  ,  16
+org.assertj.core.api.Assertions  ,  assertThat  ,  [interface java.lang.Iterable- class java.lang.Class]  ,  17
+org.assertj.core.api.AssertionsForInterfaceTypes  ,  assertThat  ,  [interface java.lang.Iterable- class java.lang.Class]  ,  18
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  19
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  19
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  19
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  19
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  20
+org.assertj.core.internal.Iterables  ,  instance  ,  []  ,  19
+org.assertj.core.api.AbstractIterableAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  16
+org.assertj.core.api.AbstractAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  17
+org.assertj.core.api.AbstractIterableAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  18
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  19
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  20
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  21
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  22
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  last_element_navigating_failing_test  ,  []  ,  15
+org.assertj.core.test.ExpectedException  ,  expectAssertionErrorWithMessageContaining  ,  [class [Ljava.lang.String;]  ,  16
+org.assertj.core.test.ExpectedException  ,  expectWithMessageContaining  ,  [class java.lang.Class- class [Ljava.lang.String;]  ,  17
+org.assertj.core.test.ExpectedException  ,  expect  ,  [class java.lang.Class]  ,  18
+org.assertj.core.test.ExpectedException  ,  expectMessageContaining  ,  [class [Ljava.lang.String;]  ,  18
+org.assertj.core.api.AbstractIterableAssert  ,  last  ,  []  ,  16
+org.assertj.core.api.AbstractIterableAssert  ,  isNotEmpty  ,  []  ,  17
+org.assertj.core.internal.Iterables  ,  assertNotEmpty  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  18
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  19
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  20
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  20
+org.assertj.core.util.IterableUtil  ,  isNullOrEmpty  ,  [interface java.lang.Iterable]  ,  19
+org.assertj.core.api.AbstractIterableAssert  ,  lastElement  ,  []  ,  17
+org.assertj.core.api.AbstractIterableAssert  ,  navigationDescription  ,  [class java.lang.String]  ,  17
+org.assertj.core.api.AbstractAssert  ,  descriptionText  ,  []  ,  18
+org.assertj.core.api.WritableAssertionInfo  ,  descriptionText  ,  []  ,  19
+org.assertj.core.description.TextDescription  ,  value  ,  []  ,  20
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  21
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  22
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  18
+org.assertj.core.api.ClassBasedNavigableIterableAssert  ,  toAssert  ,  [class java.lang.Object- class java.lang.String]  ,  17
+org.assertj.core.api.ClassBasedNavigableIterableAssert  ,  buildAssert  ,  [class java.lang.Object- class java.lang.String- class java.lang.Class]  ,  18
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  19
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  19
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  19
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  19
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  20
+org.assertj.core.api.AbstractAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  19
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  20
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  21
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  22
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  23
+org.assertj.core.navigation.GenericNavigableAssert_Test  ,  getVehicle  ,  [int]  ,  16
+org.assertj.core.api.AbstractAssert  ,  isEqualTo  ,  [class java.lang.Object]  ,  16
+org.assertj.core.internal.Objects  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object]  ,  17
+org.assertj.core.internal.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  18
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  19
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  20
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  21
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  22
+org.assertj.core.api.WritableAssertionInfo  ,  representation  ,  []  ,  18
+org.assertj.core.error.ShouldBeEqual  ,  shouldBeEqual  ,  [class java.lang.Object- class java.lang.Object- interface org.assertj.core.internal.ComparisonStrategy- interface org.assertj.core.presentation.Representation]  ,  18
+org.assertj.core.error.MessageFormatter  ,  instance  ,  []  ,  19
+org.assertj.core.error.DescriptionFormatter  ,  instance  ,  []  ,  19
+org.assertj.core.internal.Failures  ,  failure  ,  [interface org.assertj.core.api.AssertionInfo- interface org.assertj.core.error.AssertionErrorFactory]  ,  18
+org.assertj.core.internal.Failures  ,  failureIfErrorMessageIsOverridden  ,  [interface org.assertj.core.api.AssertionInfo]  ,  19
+org.assertj.core.api.WritableAssertionInfo  ,  overridingErrorMessage  ,  []  ,  20
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  20
+org.assertj.core.internal.Failures  ,  printThreadDumpIfNeeded  ,  []  ,  19
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  []  ,  19
+org.assertj.core.api.WritableAssertionInfo  ,  representation  ,  []  ,  19
+org.assertj.core.error.ShouldBeEqual  ,  newAssertionError  ,  [class org.assertj.core.description.Description- interface org.assertj.core.presentation.Representation]  ,  19
+org.assertj.core.internal.StandardComparisonStrategy  ,  isStandard  ,  []  ,  20
+org.assertj.core.error.ShouldBeEqual  ,  actualAndExpectedHaveSameStringRepresentation  ,  []  ,  20
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  21
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  22
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  22
+org.assertj.core.presentation.StandardRepresentation  ,  fallbackToStringOf  ,  [class java.lang.Object]  ,  22
+org.assertj.core.test.VehicleFactory$Car  ,  toString  ,  []  ,  23
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  21
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  22
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  22
+org.assertj.core.presentation.StandardRepresentation  ,  fallbackToStringOf  ,  [class java.lang.Object]  ,  22
+org.assertj.core.test.VehicleFactory$Car  ,  toString  ,  []  ,  23
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  21
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  22
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  23
+org.assertj.core.error.ShouldBeEqual  ,  comparisonFailure  ,  [class org.assertj.core.description.Description]  ,  20
+org.assertj.core.error.DescriptionFormatter  ,  format  ,  [class org.assertj.core.description.Description]  ,  21
+org.assertj.core.description.TextDescription  ,  value  ,  []  ,  22
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  23
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  24
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  22
+org.assertj.core.error.ShouldBeEqual  ,  newComparisonFailure  ,  [class java.lang.String]  ,  21
+org.assertj.core.error.ShouldBeEqual  ,  msgArgs  ,  [class java.lang.String]  ,  22
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  23
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  24
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  24
+org.assertj.core.presentation.StandardRepresentation  ,  fallbackToStringOf  ,  [class java.lang.Object]  ,  24
+org.assertj.core.test.VehicleFactory$Car  ,  toString  ,  []  ,  25
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  23
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  24
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  24
+org.assertj.core.presentation.StandardRepresentation  ,  fallbackToStringOf  ,  [class java.lang.Object]  ,  24
+org.assertj.core.test.VehicleFactory$Car  ,  toString  ,  []  ,  25
+org.assertj.core.util.Arrays  ,  array  ,  [class [Ljava.lang.Object;]  ,  23
+org.assertj.core.error.ConstructorInvoker  ,  newInstance  ,  [class java.lang.String- class [Ljava.lang.Class;- class [Ljava.lang.Object;]  ,  22
+org.assertj.core.error.ConstructorInvoker  ,  setAccessible  ,  [class java.lang.reflect.AccessibleObject- boolean]  ,  23
+org.assertj.core.error.ConstructorInvoker$SetAccessibleValueAction  ,  run  ,  []  ,  24
+org.assertj.core.error.ConstructorInvoker  ,  setAccessible  ,  [class java.lang.reflect.AccessibleObject- boolean]  ,  23
+org.assertj.core.error.ConstructorInvoker$SetAccessibleValueAction  ,  run  ,  []  ,  24
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  21
+org.assertj.core.internal.Failures  ,  removeAssertJRelatedElementsFromStackTraceIfNeeded  ,  [class java.lang.AssertionError]  ,  21
+org.assertj.core.util.Throwables  ,  removeAssertJRelatedElementsFromStackTrace  ,  [class java.lang.Throwable]  ,  22
+org.assertj.core.util.Lists  ,  newArrayList  ,  [class [Ljava.lang.Object;]  ,  23
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  24

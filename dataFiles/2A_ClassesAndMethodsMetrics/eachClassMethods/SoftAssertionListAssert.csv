@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/SoftAssertionListAssert.SoftAssertionListAssert,(Ljava/util/List;)V,14,1
+org/assertj/core/api/SoftAssertionListAssert.newListAssertInstance,(Ljava/util/List;)Lorg/assertj/core/api/AbstractListAssert;,9,1

@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AtomicIntegerFieldUpdaterAssert.AtomicIntegerFieldUpdaterAssert,(Ljava/util/concurrent/atomic/AtomicIntegerFieldUpdater;)V,12,1
+org/assertj/core/api/AtomicIntegerFieldUpdaterAssert.hasValue,(Ljava/lang/Integer;Ljava/lang/Object;)Lorg/assertj/core/api/AtomicIntegerFieldUpdaterAssert;,10,1
+org/assertj/core/api/AtomicIntegerFieldUpdaterAssert.getActualValue,(Ljava/lang/Object;)Ljava/lang/Integer;,11,1
+org/assertj/core/api/AtomicIntegerFieldUpdaterAssert.hasValue,(Ljava/lang/Object;Ljava/lang/Object;)Lorg/assertj/core/api/AbstractAtomicFieldUpdaterAssert;,11,1
+org/assertj/core/api/AtomicIntegerFieldUpdaterAssert.getActualValue,(Ljava/lang/Object;)Ljava/lang/Object;,9,1

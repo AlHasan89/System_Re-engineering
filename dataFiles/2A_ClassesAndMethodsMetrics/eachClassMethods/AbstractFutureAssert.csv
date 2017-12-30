@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractFutureAssert.AbstractFutureAssert,(Ljava/util/concurrent/Future;Ljava/lang/Class;)V,16,1
+org/assertj/core/api/AbstractFutureAssert.isCancelled,()Lorg/assertj/core/api/AbstractFutureAssert;,18,1
+org/assertj/core/api/AbstractFutureAssert.isNotCancelled,()Lorg/assertj/core/api/AbstractFutureAssert;,18,1
+org/assertj/core/api/AbstractFutureAssert.isDone,()Lorg/assertj/core/api/AbstractFutureAssert;,18,1
+org/assertj/core/api/AbstractFutureAssert.isNotDone,()Lorg/assertj/core/api/AbstractFutureAssert;,18,1

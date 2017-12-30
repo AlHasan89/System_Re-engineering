@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/ComparatorFactory$2.ComparatorFactory$2,(Lorg/assertj/core/api/ComparatorFactory;F)V,15,1
+org/assertj/core/api/ComparatorFactory$2.compare,(Ljava/lang/Float;Ljava/lang/Float;)I,35,3
+org/assertj/core/api/ComparatorFactory$2.toString,()Ljava/lang/String;,13,1
+org/assertj/core/api/ComparatorFactory$2.compare,(Ljava/lang/Object;Ljava/lang/Object;)I,11,1

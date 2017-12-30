@@ -1,0 +1,10 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/introspection/PropertyOrFieldSupport.<clinit>,()V,23,1
+org/assertj/core/util/introspection/PropertyOrFieldSupport.PropertyOrFieldSupport,()V,19,1
+org/assertj/core/util/introspection/PropertyOrFieldSupport.PropertyOrFieldSupport,(Lorg/assertj/core/util/introspection/PropertySupport;Lorg/assertj/core/util/introspection/FieldSupport;)V,19,1
+org/assertj/core/util/introspection/PropertyOrFieldSupport.setAllowUsingPrivateFields,(Z)V,11,1
+org/assertj/core/util/introspection/PropertyOrFieldSupport.getValueOf,(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;,91,6
+org/assertj/core/util/introspection/PropertyOrFieldSupport.getSimpleValue,(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/Object;,65,2
+org/assertj/core/util/introspection/PropertyOrFieldSupport.popNameFrom,(Ljava/lang/String;)Ljava/lang/String;,20,2
+org/assertj/core/util/introspection/PropertyOrFieldSupport.nextNameFrom,(Ljava/lang/String;)Ljava/lang/String;,21,2
+org/assertj/core/util/introspection/PropertyOrFieldSupport.isNested,(Ljava/lang/String;)Z,28,4

@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/Booleans.<clinit>,()V,9,1
+org/assertj/core/internal/Booleans.instance,()Lorg/assertj/core/internal/Booleans;,6,1
+org/assertj/core/internal/Booleans.Booleans,()V,14,1
+org/assertj/core/internal/Booleans.assertEqual,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Boolean;Z)V,28,2
+org/assertj/core/internal/Booleans.assertNotEqual,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Boolean;Z)V,26,2
+org/assertj/core/internal/Booleans.assertNotNull,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Boolean;)V,11,1

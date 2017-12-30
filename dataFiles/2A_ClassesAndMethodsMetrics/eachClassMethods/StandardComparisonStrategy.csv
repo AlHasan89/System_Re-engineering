@@ -1,0 +1,18 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/StandardComparisonStrategy.<clinit>,()V,9,1
+org/assertj/core/internal/StandardComparisonStrategy.instance,()Lorg/assertj/core/internal/StandardComparisonStrategy;,6,1
+org/assertj/core/internal/StandardComparisonStrategy.StandardComparisonStrategy,()V,9,1
+org/assertj/core/internal/StandardComparisonStrategy.newSetUsingComparisonStrategy,()Ljava/util/Set;,12,1
+org/assertj/core/internal/StandardComparisonStrategy.asText,()Ljava/lang/String;,6,1
+org/assertj/core/internal/StandardComparisonStrategy.areEqual,(Ljava/lang/Object;Ljava/lang/Object;)Z,8,1
+org/assertj/core/internal/StandardComparisonStrategy.iterableContains,(Ljava/lang/Iterable;Ljava/lang/Object;)Z,43,4
+org/assertj/core/internal/StandardComparisonStrategy.iterableRemoves,(Ljava/lang/Iterable;Ljava/lang/Object;)V,40,4
+org/assertj/core/internal/StandardComparisonStrategy.iterablesRemoveFirst,(Ljava/lang/Iterable;Ljava/lang/Object;)V,43,4
+org/assertj/core/internal/StandardComparisonStrategy.duplicatesFrom,(Ljava/lang/Iterable;)Ljava/lang/Iterable;,8,1
+org/assertj/core/internal/StandardComparisonStrategy.stringStartsWith,(Ljava/lang/String;Ljava/lang/String;)Z,8,1
+org/assertj/core/internal/StandardComparisonStrategy.stringEndsWith,(Ljava/lang/String;Ljava/lang/String;)Z,8,1
+org/assertj/core/internal/StandardComparisonStrategy.stringContains,(Ljava/lang/String;Ljava/lang/String;)Z,8,1
+org/assertj/core/internal/StandardComparisonStrategy.isGreaterThan,(Ljava/lang/Object;Ljava/lang/Object;)Z,22,2
+org/assertj/core/internal/StandardComparisonStrategy.isLessThan,(Ljava/lang/Object;Ljava/lang/Object;)Z,22,2
+org/assertj/core/internal/StandardComparisonStrategy.checkArgumentIsComparable,(Ljava/lang/Object;)V,17,1
+org/assertj/core/internal/StandardComparisonStrategy.isStandard,()Z,6,1

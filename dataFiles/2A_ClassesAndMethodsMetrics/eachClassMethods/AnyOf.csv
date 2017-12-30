@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/condition/AnyOf.anyOf,([Lorg/assertj/core/api/Condition;)Lorg/assertj/core/api/Condition;,9,1
+org/assertj/core/condition/AnyOf.anyOf,(Ljava/lang/Iterable;)Lorg/assertj/core/api/Condition;,9,1
+org/assertj/core/condition/AnyOf.AnyOf,([Lorg/assertj/core/api/Condition;)V,10,1
+org/assertj/core/condition/AnyOf.AnyOf,(Ljava/lang/Iterable;)V,10,1
+org/assertj/core/condition/AnyOf.matches,(Ljava/lang/Object;)Z,33,3
+org/assertj/core/condition/AnyOf.toString,()Ljava/lang/String;,14,1

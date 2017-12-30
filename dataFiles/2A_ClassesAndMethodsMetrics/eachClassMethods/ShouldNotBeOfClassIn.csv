@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldNotBeOfClassIn.shouldNotBeOfClassIn,(Ljava/lang/Object;Ljava/lang/Object;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldNotBeOfClassIn.ShouldNotBeOfClassIn,(Ljava/lang/Object;Ljava/lang/Object;)V,25,1

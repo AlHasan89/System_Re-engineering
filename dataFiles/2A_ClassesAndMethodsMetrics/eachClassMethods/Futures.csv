@@ -1,0 +1,9 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/Futures.<clinit>,()V,9,1
+org/assertj/core/internal/Futures.Futures,()V,14,1
+org/assertj/core/internal/Futures.instance,()Lorg/assertj/core/internal/Futures;,6,1
+org/assertj/core/internal/Futures.assertIsCancelled,(Lorg/assertj/core/api/AssertionInfo;Ljava/util/concurrent/Future;)V,26,2
+org/assertj/core/internal/Futures.assertIsNotCancelled,(Lorg/assertj/core/api/AssertionInfo;Ljava/util/concurrent/Future;)V,26,2
+org/assertj/core/internal/Futures.assertIsDone,(Lorg/assertj/core/api/AssertionInfo;Ljava/util/concurrent/Future;)V,26,2
+org/assertj/core/internal/Futures.assertIsNotDone,(Lorg/assertj/core/api/AssertionInfo;Ljava/util/concurrent/Future;)V,26,2
+org/assertj/core/internal/Futures.assertNotNull,(Lorg/assertj/core/api/AssertionInfo;Ljava/util/concurrent/Future;)V,11,1

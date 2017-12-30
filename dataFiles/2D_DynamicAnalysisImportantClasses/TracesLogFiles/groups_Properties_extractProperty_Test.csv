@@ -1,0 +1,175 @@
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  1
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  1
+org.assertj.core.groups.Properties_extractProperty_Test  ,  extractProperty_string_Test  ,  []  ,  1
+org.assertj.core.groups.Properties  ,  extractProperty  ,  [class java.lang.String]  ,  2
+org.assertj.core.groups.Properties  ,  extractProperty  ,  [class java.lang.String- class java.lang.Class]  ,  3
+org.assertj.core.groups.Properties  ,  checkIsNotNullOrEmpty  ,  [class java.lang.String]  ,  4
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  5
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  5
+org.assertj.core.util.introspection.PropertySupport  ,  instance  ,  []  ,  4
+org.assertj.core.groups.Properties  ,  from  ,  [class [Ljava.lang.Object;]  ,  2
+org.assertj.core.util.ArrayWrapperList  ,  wrap  ,  [class java.lang.Object]  ,  3
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  4
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValues  ,  [class java.lang.String- class java.lang.Class- interface java.lang.Iterable]  ,  3
+org.assertj.core.util.IterableUtil  ,  isNullOrEmpty  ,  [interface java.lang.Iterable]  ,  4
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  5
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  5
+org.assertj.core.util.introspection.PropertySupport  ,  isNestedProperty  ,  [class java.lang.String]  ,  4
+org.assertj.core.util.introspection.PropertySupport  ,  simplePropertyValues  ,  [class java.lang.String- class java.lang.Class- interface java.lang.Iterable]  ,  4
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  5
+org.assertj.core.util.ArrayWrapperList  ,  get  ,  [int]  ,  5
+org.assertj.core.util.ArrayWrapperList  ,  checkIsInRange  ,  [int]  ,  6
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  7
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  7
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  5
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  6
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  7
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  8
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  9
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  7
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  7
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  8
+org.assertj.core.groups.Properties_extractProperty_Test$TestItem  ,  getName  ,  []  ,  7
+org.assertj.core.groups.Properties_extractProperty_Test$TestItem  ,  getName  ,  []  ,  6
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  5
+org.assertj.core.util.ArrayWrapperList  ,  get  ,  [int]  ,  5
+org.assertj.core.util.ArrayWrapperList  ,  checkIsInRange  ,  [int]  ,  6
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  7
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  7
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  5
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  6
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  7
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  8
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  9
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  7
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  7
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  8
+org.assertj.core.groups.Properties_extractProperty_Test$TestItem  ,  getName  ,  []  ,  7
+org.assertj.core.groups.Properties_extractProperty_Test$TestItem  ,  getName  ,  []  ,  6
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  5
+org.assertj.core.api.Assertions  ,  assertThat  ,  [boolean]  ,  2
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [boolean]  ,  3
+org.assertj.core.internal.StandardComparisonStrategy  ,  instance  ,  []  ,  4
+org.assertj.core.util.introspection.PropertySupport  ,  instance  ,  []  ,  4
+org.assertj.core.util.Compatibility$System  ,  lineSeparator  ,  []  ,  4
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  4
+org.assertj.core.util.introspection.FieldSupport  ,  comparison  ,  []  ,  4
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  4
+org.assertj.core.util.Compatibility$System  ,  lineSeparator  ,  []  ,  4
+org.assertj.core.configuration.Services  ,  get  ,  [class java.lang.Class- class java.lang.Object]  ,  4
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  4
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  4
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  5
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Booleans  ,  instance  ,  []  ,  4
+org.assertj.core.api.AbstractBooleanAssert  ,  isTrue  ,  []  ,  2
+org.assertj.core.api.AbstractBooleanAssert  ,  isEqualTo  ,  [boolean]  ,  3
+org.assertj.core.internal.Booleans  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Boolean- boolean]  ,  4
+org.assertj.core.internal.Booleans  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Boolean]  ,  5
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  6
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  6
+org.assertj.core.groups.Properties  ,  extractProperty  ,  [class java.lang.String- class java.lang.Class]  ,  2
+org.assertj.core.groups.Properties  ,  checkIsNotNullOrEmpty  ,  [class java.lang.String]  ,  3
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  4
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  4
+org.assertj.core.util.introspection.PropertySupport  ,  instance  ,  []  ,  3
+org.assertj.core.groups.Properties  ,  from  ,  [class [Ljava.lang.Object;]  ,  2
+org.assertj.core.util.ArrayWrapperList  ,  wrap  ,  [class java.lang.Object]  ,  3
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  4
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValues  ,  [class java.lang.String- class java.lang.Class- interface java.lang.Iterable]  ,  3
+org.assertj.core.util.IterableUtil  ,  isNullOrEmpty  ,  [interface java.lang.Iterable]  ,  4
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  5
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  5
+org.assertj.core.util.introspection.PropertySupport  ,  isNestedProperty  ,  [class java.lang.String]  ,  4
+org.assertj.core.util.introspection.PropertySupport  ,  simplePropertyValues  ,  [class java.lang.String- class java.lang.Class- interface java.lang.Iterable]  ,  4
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  5
+org.assertj.core.util.ArrayWrapperList  ,  get  ,  [int]  ,  5
+org.assertj.core.util.ArrayWrapperList  ,  checkIsInRange  ,  [int]  ,  6
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  7
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  7
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  5
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  6
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  7
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  8
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  9
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  7
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  7
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  8
+org.assertj.core.groups.Properties_extractProperty_Test$TestItem  ,  getName  ,  []  ,  7
+org.assertj.core.groups.Properties_extractProperty_Test$TestItem  ,  getName  ,  []  ,  6
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  5
+org.assertj.core.util.ArrayWrapperList  ,  get  ,  [int]  ,  5
+org.assertj.core.util.ArrayWrapperList  ,  checkIsInRange  ,  [int]  ,  6
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  7
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  7
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  5
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  6
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  7
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  8
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  9
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  7
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  7
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  8
+org.assertj.core.groups.Properties_extractProperty_Test$TestItem  ,  getName  ,  []  ,  7
+org.assertj.core.groups.Properties_extractProperty_Test$TestItem  ,  getName  ,  []  ,  6
+org.assertj.core.util.ArrayWrapperList  ,  size  ,  []  ,  5
+org.assertj.core.api.Assertions  ,  assertThat  ,  [boolean]  ,  2
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [boolean]  ,  3
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  4
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  4
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  4
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  5
+org.assertj.core.internal.Booleans  ,  instance  ,  []  ,  4
+org.assertj.core.api.AbstractBooleanAssert  ,  isTrue  ,  []  ,  2
+org.assertj.core.api.AbstractBooleanAssert  ,  isEqualTo  ,  [boolean]  ,  3
+org.assertj.core.internal.Booleans  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Boolean- boolean]  ,  4
+org.assertj.core.internal.Booleans  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Boolean]  ,  5
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  6
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  6
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  1
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  1
+org.assertj.core.groups.Properties_extractProperty_Test  ,  should_create_a_new_Properties  ,  []  ,  1
+org.assertj.core.groups.Properties  ,  extractProperty  ,  [class java.lang.String- class java.lang.Class]  ,  2
+org.assertj.core.groups.Properties  ,  checkIsNotNullOrEmpty  ,  [class java.lang.String]  ,  3
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  4
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  4
+org.assertj.core.util.introspection.PropertySupport  ,  instance  ,  []  ,  3
+org.assertj.core.api.Assertions  ,  assertThat  ,  [class java.lang.String]  ,  2
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [class java.lang.String]  ,  3
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  4
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  4
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  4
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  5
+org.assertj.core.internal.StandardComparisonStrategy  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Strings  ,  instance  ,  []  ,  4
+org.assertj.core.api.AbstractAssert  ,  isEqualTo  ,  [class java.lang.Object]  ,  2
+org.assertj.core.internal.Objects  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object]  ,  3
+org.assertj.core.internal.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  4
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  5
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  6
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  1
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  1
+org.assertj.core.groups.Properties_extractProperty_Test  ,  should_throw_error_if_property_name_is_empty  ,  []  ,  1
+org.assertj.core.test.ExpectedException  ,  expectIllegalArgumentException  ,  [class java.lang.String]  ,  2
+org.assertj.core.test.ExpectedException  ,  expect  ,  [class java.lang.Class- class java.lang.String]  ,  3
+org.assertj.core.test.ExpectedException  ,  expect  ,  [class java.lang.Class]  ,  4
+org.assertj.core.test.ExpectedException  ,  expectMessage  ,  [class java.lang.String]  ,  4
+org.assertj.core.groups.Properties  ,  extractProperty  ,  [class java.lang.String- class java.lang.Class]  ,  2
+org.assertj.core.groups.Properties  ,  checkIsNotNullOrEmpty  ,  [class java.lang.String]  ,  3
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  4
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  4
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  5
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  5
+org.assertj.core.groups.Properties_extractProperty_Test  ,  should_throw_error_if_property_name_is_null  ,  []  ,  5
+org.assertj.core.test.ExpectedException  ,  expectNullPointerException  ,  [class java.lang.String]  ,  6
+org.assertj.core.test.ExpectedException  ,  expect  ,  [class java.lang.Class- class java.lang.String]  ,  7
+org.assertj.core.test.ExpectedException  ,  expect  ,  [class java.lang.Class]  ,  8
+org.assertj.core.test.ExpectedException  ,  expectMessage  ,  [class java.lang.String]  ,  8
+org.assertj.core.groups.Properties  ,  extractProperty  ,  [class java.lang.String- class java.lang.Class]  ,  6
+org.assertj.core.groups.Properties  ,  checkIsNotNullOrEmpty  ,  [class java.lang.String]  ,  7
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  8

@@ -1,0 +1,15 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/presentation/HexadecimalRepresentation.<clinit>,()V,11,1
+org/assertj/core/presentation/HexadecimalRepresentation.HexadecimalRepresentation,()V,7,1
+org/assertj/core/presentation/HexadecimalRepresentation.toStringOf,(Ljava/lang/Object;)Ljava/lang/String;,53,5
+org/assertj/core/presentation/HexadecimalRepresentation.toStringOf,(Ljava/lang/Number;)Ljava/lang/String;,73,7
+org/assertj/core/presentation/HexadecimalRepresentation.toStringOf,(Ljava/lang/Byte;)Ljava/lang/String;,8,1
+org/assertj/core/presentation/HexadecimalRepresentation.toStringOf,(Ljava/lang/Short;)Ljava/lang/String;,8,1
+org/assertj/core/presentation/HexadecimalRepresentation.toStringOf,(Ljava/lang/Integer;)Ljava/lang/String;,8,1
+org/assertj/core/presentation/HexadecimalRepresentation.toStringOf,(Ljava/lang/Long;)Ljava/lang/String;,8,1
+org/assertj/core/presentation/HexadecimalRepresentation.toStringOf,(Ljava/lang/Float;)Ljava/lang/String;,11,1
+org/assertj/core/presentation/HexadecimalRepresentation.toStringOf,(Ljava/lang/Double;)Ljava/lang/String;,11,1
+org/assertj/core/presentation/HexadecimalRepresentation.toStringOf,(Ljava/lang/Character;)Ljava/lang/String;,25,1
+org/assertj/core/presentation/HexadecimalRepresentation.toStringOf,(Lorg/assertj/core/presentation/Representation;Ljava/lang/String;)Ljava/lang/String;,23,1
+org/assertj/core/presentation/HexadecimalRepresentation.toGroupedHex,(Ljava/lang/Number;I)Ljava/lang/String;,15,1
+org/assertj/core/presentation/HexadecimalRepresentation.toHex,(Ljava/lang/Number;I)Ljava/lang/String;,23,1

@@ -1,0 +1,1127 @@
+org.assertj.core.test.Name  ,  setFirst  ,  [class java.lang.String]  ,  1
+org.assertj.core.test.Employee  ,  setName  ,  [class org.assertj.core.test.Name]  ,  1
+org.assertj.core.test.Employee  ,  setAge  ,  [int]  ,  1
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  1
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  1
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  should_extract_property_field_combinations  ,  []  ,  1
+org.assertj.core.test.Name  ,  setFirst  ,  [class java.lang.String]  ,  2
+org.assertj.core.test.Name  ,  setLast  ,  [class java.lang.String]  ,  2
+org.assertj.core.test.Employee  ,  setName  ,  [class org.assertj.core.test.Name]  ,  2
+org.assertj.core.test.Employee  ,  setAge  ,  [int]  ,  2
+org.assertj.core.test.Name  ,  setFirst  ,  [class java.lang.String]  ,  2
+org.assertj.core.test.Name  ,  setLast  ,  [class java.lang.String]  ,  2
+org.assertj.core.test.Employee  ,  setName  ,  [class org.assertj.core.test.Name]  ,  2
+org.assertj.core.test.Employee  ,  setAge  ,  [int]  ,  2
+org.assertj.core.test.Name  ,  setFirst  ,  [class java.lang.String]  ,  2
+org.assertj.core.test.Name  ,  setLast  ,  [class java.lang.String]  ,  2
+org.assertj.core.extractor.Extractors  ,  byName  ,  [class java.lang.String]  ,  2
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  2
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  3
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  3
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  3
+org.assertj.core.util.introspection.PropertySupport  ,  instance  ,  []  ,  3
+org.assertj.core.util.introspection.FieldSupport  ,  extraction  ,  []  ,  3
+org.assertj.core.util.introspection.PropertySupport  ,  instance  ,  []  ,  3
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getValueOf  ,  [class java.lang.String- class java.lang.Object]  ,  3
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  4
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  4
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  4
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  4
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  popNameFrom  ,  [class java.lang.String]  ,  4
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  5
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getSimpleValue  ,  [class java.lang.String- class java.lang.Object]  ,  4
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValueOf  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  5
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  6
+org.assertj.core.util.introspection.PropertySupport  ,  isNestedProperty  ,  [class java.lang.String]  ,  6
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  6
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  7
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  8
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  9
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  10
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  8
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  8
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  9
+org.assertj.core.test.Employee  ,  getMe  ,  []  ,  8
+org.assertj.core.test.Employee  ,  getMe  ,  []  ,  7
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  nextNameFrom  ,  [class java.lang.String]  ,  4
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  5
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getValueOf  ,  [class java.lang.String- class java.lang.Object]  ,  4
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  5
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  5
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  5
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  5
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  popNameFrom  ,  [class java.lang.String]  ,  5
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  6
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getSimpleValue  ,  [class java.lang.String- class java.lang.Object]  ,  5
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValueOf  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  6
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  7
+org.assertj.core.util.introspection.PropertySupport  ,  isNestedProperty  ,  [class java.lang.String]  ,  7
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  7
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  8
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  9
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  10
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  11
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  9
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  9
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  10
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  10
+org.assertj.core.util.introspection.Introspection  ,  propertyNotFoundErrorMessage  ,  [class java.lang.String- class java.lang.Object]  ,  9
+org.assertj.core.util.Strings  ,  quote  ,  [class java.lang.String]  ,  10
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  11
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  12
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  13
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  10
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  11
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  11
+org.assertj.core.util.introspection.FieldSupport  ,  fieldValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  9
+org.assertj.core.util.introspection.FieldSupport  ,  isNestedField  ,  [class java.lang.String]  ,  10
+org.assertj.core.util.introspection.FieldSupport  ,  readSimpleField  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  10
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.Object- class java.lang.String- boolean]  ,  11
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  12
+org.assertj.core.util.introspection.FieldUtils  ,  getField  ,  [class java.lang.Class- class java.lang.String- boolean]  ,  12
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  13
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  13
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  12
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.reflect.Field- class java.lang.Object]  ,  12
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.reflect.Field- class java.lang.Object- boolean]  ,  13
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  14
+org.assertj.core.util.introspection.MemberUtils  ,  setAccessibleWorkaround  ,  [class java.lang.reflect.AccessibleObject]  ,  14
+org.assertj.core.util.introspection.MemberUtils  ,  isPackageAccess  ,  [int]  ,  15
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  nextNameFrom  ,  [class java.lang.String]  ,  8
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  9
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getValueOf  ,  [class java.lang.String- class java.lang.Object]  ,  8
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  9
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  9
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  9
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  9
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  popNameFrom  ,  [class java.lang.String]  ,  9
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  10
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getSimpleValue  ,  [class java.lang.String- class java.lang.Object]  ,  9
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValueOf  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  10
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  11
+org.assertj.core.util.introspection.PropertySupport  ,  isNestedProperty  ,  [class java.lang.String]  ,  11
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  11
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  12
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  13
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  14
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  15
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  13
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  13
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  14
+org.assertj.core.test.Employee  ,  getMe  ,  []  ,  13
+org.assertj.core.test.Employee  ,  getMe  ,  []  ,  12
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  nextNameFrom  ,  [class java.lang.String]  ,  9
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  10
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getValueOf  ,  [class java.lang.String- class java.lang.Object]  ,  9
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  10
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  10
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  10
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  10
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  popNameFrom  ,  [class java.lang.String]  ,  10
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  11
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getSimpleValue  ,  [class java.lang.String- class java.lang.Object]  ,  10
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValueOf  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  11
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  12
+org.assertj.core.util.introspection.PropertySupport  ,  isNestedProperty  ,  [class java.lang.String]  ,  12
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  12
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  13
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  14
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  15
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  16
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  14
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  14
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  15
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  15
+org.assertj.core.util.introspection.Introspection  ,  propertyNotFoundErrorMessage  ,  [class java.lang.String- class java.lang.Object]  ,  14
+org.assertj.core.util.Strings  ,  quote  ,  [class java.lang.String]  ,  15
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  16
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  17
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  18
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  15
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  16
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  16
+org.assertj.core.util.introspection.FieldSupport  ,  fieldValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  14
+org.assertj.core.util.introspection.FieldSupport  ,  isNestedField  ,  [class java.lang.String]  ,  15
+org.assertj.core.util.introspection.FieldSupport  ,  readSimpleField  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  15
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.Object- class java.lang.String- boolean]  ,  16
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  17
+org.assertj.core.util.introspection.FieldUtils  ,  getField  ,  [class java.lang.Class- class java.lang.String- boolean]  ,  17
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  18
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  18
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  17
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.reflect.Field- class java.lang.Object]  ,  17
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.reflect.Field- class java.lang.Object- boolean]  ,  18
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  19
+org.assertj.core.util.introspection.MemberUtils  ,  setAccessibleWorkaround  ,  [class java.lang.reflect.AccessibleObject]  ,  19
+org.assertj.core.util.introspection.MemberUtils  ,  isPackageAccess  ,  [int]  ,  20
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  nextNameFrom  ,  [class java.lang.String]  ,  13
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  14
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getValueOf  ,  [class java.lang.String- class java.lang.Object]  ,  13
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  14
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  14
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  14
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  14
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  popNameFrom  ,  [class java.lang.String]  ,  14
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  15
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getSimpleValue  ,  [class java.lang.String- class java.lang.Object]  ,  14
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValueOf  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  15
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  16
+org.assertj.core.util.introspection.PropertySupport  ,  isNestedProperty  ,  [class java.lang.String]  ,  16
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  16
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  17
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  18
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  19
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  20
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  18
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  18
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  19
+org.assertj.core.test.Employee  ,  getMe  ,  []  ,  18
+org.assertj.core.test.Employee  ,  getMe  ,  []  ,  17
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  nextNameFrom  ,  [class java.lang.String]  ,  14
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  15
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getValueOf  ,  [class java.lang.String- class java.lang.Object]  ,  14
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  15
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  15
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  15
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  15
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  popNameFrom  ,  [class java.lang.String]  ,  15
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  16
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getSimpleValue  ,  [class java.lang.String- class java.lang.Object]  ,  15
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValueOf  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  16
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  17
+org.assertj.core.util.introspection.PropertySupport  ,  isNestedProperty  ,  [class java.lang.String]  ,  17
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  17
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  18
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  19
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  20
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  21
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  19
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  19
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  20
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  20
+org.assertj.core.util.introspection.Introspection  ,  propertyNotFoundErrorMessage  ,  [class java.lang.String- class java.lang.Object]  ,  19
+org.assertj.core.util.Strings  ,  quote  ,  [class java.lang.String]  ,  20
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  21
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  22
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  23
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  20
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  21
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  21
+org.assertj.core.util.introspection.FieldSupport  ,  fieldValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  19
+org.assertj.core.util.introspection.FieldSupport  ,  isNestedField  ,  [class java.lang.String]  ,  20
+org.assertj.core.util.introspection.FieldSupport  ,  readSimpleField  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  20
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.Object- class java.lang.String- boolean]  ,  21
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  22
+org.assertj.core.util.introspection.FieldUtils  ,  getField  ,  [class java.lang.Class- class java.lang.String- boolean]  ,  22
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  23
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  23
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  22
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.reflect.Field- class java.lang.Object]  ,  22
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.reflect.Field- class java.lang.Object- boolean]  ,  23
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  24
+org.assertj.core.util.introspection.MemberUtils  ,  setAccessibleWorkaround  ,  [class java.lang.reflect.AccessibleObject]  ,  24
+org.assertj.core.util.introspection.MemberUtils  ,  isPackageAccess  ,  [int]  ,  25
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  nextNameFrom  ,  [class java.lang.String]  ,  18
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  19
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getValueOf  ,  [class java.lang.String- class java.lang.Object]  ,  18
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  19
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  19
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  19
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  19
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  popNameFrom  ,  [class java.lang.String]  ,  19
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  20
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getSimpleValue  ,  [class java.lang.String- class java.lang.Object]  ,  19
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValueOf  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  20
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  21
+org.assertj.core.util.introspection.PropertySupport  ,  isNestedProperty  ,  [class java.lang.String]  ,  21
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  21
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  22
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  23
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  24
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  25
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  23
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  23
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  24
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  24
+org.assertj.core.util.introspection.Introspection  ,  propertyNotFoundErrorMessage  ,  [class java.lang.String- class java.lang.Object]  ,  23
+org.assertj.core.util.Strings  ,  quote  ,  [class java.lang.String]  ,  24
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  25
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  26
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  27
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  24
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  25
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  25
+org.assertj.core.util.introspection.FieldSupport  ,  fieldValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  23
+org.assertj.core.util.introspection.FieldSupport  ,  isNestedField  ,  [class java.lang.String]  ,  24
+org.assertj.core.util.introspection.FieldSupport  ,  readSimpleField  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  24
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.Object- class java.lang.String- boolean]  ,  25
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  26
+org.assertj.core.util.introspection.FieldUtils  ,  getField  ,  [class java.lang.Class- class java.lang.String- boolean]  ,  26
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  27
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  27
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  26
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.reflect.Field- class java.lang.Object]  ,  26
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.reflect.Field- class java.lang.Object- boolean]  ,  27
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  28
+org.assertj.core.util.introspection.MemberUtils  ,  setAccessibleWorkaround  ,  [class java.lang.reflect.AccessibleObject]  ,  28
+org.assertj.core.util.introspection.MemberUtils  ,  isPackageAccess  ,  [int]  ,  29
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  nextNameFrom  ,  [class java.lang.String]  ,  22
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  23
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getValueOf  ,  [class java.lang.String- class java.lang.Object]  ,  22
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  23
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  23
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  23
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  23
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getSimpleValue  ,  [class java.lang.String- class java.lang.Object]  ,  23
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValueOf  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  24
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  25
+org.assertj.core.util.introspection.PropertySupport  ,  isNestedProperty  ,  [class java.lang.String]  ,  25
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  25
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  26
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  27
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  28
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  29
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  27
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  27
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  28
+org.assertj.core.test.Name  ,  getName  ,  []  ,  27
+org.assertj.core.test.Name  ,  getFirst  ,  []  ,  28
+org.assertj.core.test.Name  ,  getLast  ,  []  ,  28
+org.assertj.core.test.Name  ,  getName  ,  []  ,  26
+org.assertj.core.test.Name  ,  getFirst  ,  []  ,  27
+org.assertj.core.test.Name  ,  getLast  ,  []  ,  27
+org.assertj.core.api.Assertions  ,  assertThat  ,  [class java.lang.Object]  ,  14
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [class java.lang.Object]  ,  15
+org.assertj.core.internal.StandardComparisonStrategy  ,  instance  ,  []  ,  16
+org.assertj.core.util.introspection.PropertySupport  ,  instance  ,  []  ,  16
+org.assertj.core.util.Compatibility$System  ,  lineSeparator  ,  []  ,  16
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  16
+org.assertj.core.util.introspection.FieldSupport  ,  comparison  ,  []  ,  16
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  16
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  16
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  16
+org.assertj.core.util.Compatibility$System  ,  lineSeparator  ,  []  ,  16
+org.assertj.core.configuration.Services  ,  get  ,  [class java.lang.Class- class java.lang.Object]  ,  16
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  16
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  16
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  17
+org.assertj.core.api.AbstractObjectAssert  ,  defaultTypeComparators  ,  []  ,  16
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  17
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  17
+org.assertj.core.api.AbstractAssert  ,  isEqualTo  ,  [class java.lang.Object]  ,  14
+org.assertj.core.internal.Objects  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object]  ,  15
+org.assertj.core.internal.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  16
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  17
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  18
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  13
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  13
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  should_throw_exception_if_property_cannot_be_extracted_due_to_runtime_exception_during_property_access  ,  []  ,  13
+org.assertj.core.test.ExpectedException  ,  expectIntrospectionError  ,  []  ,  14
+org.assertj.core.test.ExpectedException  ,  expect  ,  [class java.lang.Class]  ,  15
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  adultExtractor  ,  []  ,  14
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  14
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  15
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  15
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  15
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getValueOf  ,  [class java.lang.String- class java.lang.Object]  ,  15
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  16
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  16
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  16
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  16
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getSimpleValue  ,  [class java.lang.String- class java.lang.Object]  ,  16
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValueOf  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  17
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  18
+org.assertj.core.util.introspection.PropertySupport  ,  isNestedProperty  ,  [class java.lang.String]  ,  18
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  18
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  19
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  20
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  21
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  22
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  20
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  20
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  21
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  21
+org.assertj.core.extractor.ByNameSingleExtractorTest$BrokenEmployee  ,  isAdult  ,  []  ,  20
+org.assertj.core.util.introspection.Introspection  ,  propertyNotFoundErrorMessage  ,  [class java.lang.String- class java.lang.Object]  ,  21
+org.assertj.core.util.Strings  ,  quote  ,  [class java.lang.String]  ,  22
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  23
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  24
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  25
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  22
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  23
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  23
+org.assertj.core.util.introspection.FieldSupport  ,  fieldValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  21
+org.assertj.core.util.introspection.FieldSupport  ,  isNestedField  ,  [class java.lang.String]  ,  22
+org.assertj.core.util.introspection.FieldSupport  ,  readSimpleField  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  22
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.Object- class java.lang.String- boolean]  ,  23
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  24
+org.assertj.core.util.introspection.FieldUtils  ,  getField  ,  [class java.lang.Class- class java.lang.String- boolean]  ,  24
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  25
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  25
+org.assertj.core.util.introspection.ClassUtils  ,  getAllInterfaces  ,  [class java.lang.Class]  ,  25
+org.assertj.core.util.introspection.ClassUtils  ,  getAllInterfaces  ,  [class java.lang.Class- class java.util.HashSet]  ,  26
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  24
+org.assertj.core.test.Employee  ,  toString  ,  []  ,  25
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  25
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  25
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  should_throw_exception_when_given_name_is_empty  ,  []  ,  25
+org.assertj.core.test.ExpectedException  ,  expectIllegalArgumentException  ,  [class java.lang.String]  ,  26
+org.assertj.core.test.ExpectedException  ,  expect  ,  [class java.lang.Class- class java.lang.String]  ,  27
+org.assertj.core.test.ExpectedException  ,  expect  ,  [class java.lang.Class]  ,  28
+org.assertj.core.test.ExpectedException  ,  expectMessage  ,  [class java.lang.String]  ,  28
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  26
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  27
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  27
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  28
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  28
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  should_throw_error_when_no_property_nor_public_field_match_given_name  ,  []  ,  28
+org.assertj.core.test.ExpectedException  ,  expectIntrospectionError  ,  []  ,  29
+org.assertj.core.test.ExpectedException  ,  expect  ,  [class java.lang.Class]  ,  30
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  29
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  30
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  30
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  30
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getValueOf  ,  [class java.lang.String- class java.lang.Object]  ,  30
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  31
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  31
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  31
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  31
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getSimpleValue  ,  [class java.lang.String- class java.lang.Object]  ,  31
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValueOf  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  32
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  33
+org.assertj.core.util.introspection.PropertySupport  ,  isNestedProperty  ,  [class java.lang.String]  ,  33
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  33
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  34
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  35
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  36
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  37
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  35
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  35
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  36
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  36
+org.assertj.core.util.introspection.Introspection  ,  propertyNotFoundErrorMessage  ,  [class java.lang.String- class java.lang.Object]  ,  35
+org.assertj.core.util.Strings  ,  quote  ,  [class java.lang.String]  ,  36
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  37
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  38
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  39
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  36
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  37
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  37
+org.assertj.core.util.introspection.FieldSupport  ,  fieldValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  35
+org.assertj.core.util.introspection.FieldSupport  ,  isNestedField  ,  [class java.lang.String]  ,  36
+org.assertj.core.util.introspection.FieldSupport  ,  readSimpleField  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  36
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.Object- class java.lang.String- boolean]  ,  37
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  38
+org.assertj.core.util.introspection.FieldUtils  ,  getField  ,  [class java.lang.Class- class java.lang.String- boolean]  ,  38
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  39
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  39
+org.assertj.core.util.introspection.ClassUtils  ,  getAllInterfaces  ,  [class java.lang.Class]  ,  39
+org.assertj.core.util.introspection.ClassUtils  ,  getAllInterfaces  ,  [class java.lang.Class- class java.util.HashSet]  ,  40
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  38
+org.assertj.core.test.Employee  ,  toString  ,  []  ,  39
+org.assertj.core.test.Name  ,  toString  ,  []  ,  40
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  39
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  39
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  should_extract_pure_property_values  ,  []  ,  39
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  adultExtractor  ,  []  ,  40
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  40
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  41
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  41
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  41
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getValueOf  ,  [class java.lang.String- class java.lang.Object]  ,  41
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  42
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  42
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  42
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  42
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getSimpleValue  ,  [class java.lang.String- class java.lang.Object]  ,  42
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValueOf  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  43
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  44
+org.assertj.core.util.introspection.PropertySupport  ,  isNestedProperty  ,  [class java.lang.String]  ,  44
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  44
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  45
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  46
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  47
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  48
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  46
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  46
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  47
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  47
+org.assertj.core.test.Employee  ,  isAdult  ,  []  ,  46
+org.assertj.core.test.Employee  ,  isAdult  ,  []  ,  45
+org.assertj.core.api.Assertions  ,  assertThat  ,  [class java.lang.Object]  ,  40
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [class java.lang.Object]  ,  41
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  42
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  42
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  42
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  42
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  43
+org.assertj.core.api.AbstractObjectAssert  ,  defaultTypeComparators  ,  []  ,  42
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  43
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  43
+org.assertj.core.api.AbstractAssert  ,  isEqualTo  ,  [class java.lang.Object]  ,  40
+org.assertj.core.internal.Objects  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object]  ,  41
+org.assertj.core.internal.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  42
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  43
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  44
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  39
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  39
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  should_extract_field_values_even_if_property_does_not_exist  ,  []  ,  39
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  idExtractor  ,  []  ,  40
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  40
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  41
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  41
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  41
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getValueOf  ,  [class java.lang.String- class java.lang.Object]  ,  41
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  42
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  42
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  42
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  42
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getSimpleValue  ,  [class java.lang.String- class java.lang.Object]  ,  42
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValueOf  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  43
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  44
+org.assertj.core.util.introspection.PropertySupport  ,  isNestedProperty  ,  [class java.lang.String]  ,  44
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  44
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  45
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  46
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  47
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  48
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  46
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  46
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  47
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  47
+org.assertj.core.util.introspection.Introspection  ,  propertyNotFoundErrorMessage  ,  [class java.lang.String- class java.lang.Object]  ,  46
+org.assertj.core.util.Strings  ,  quote  ,  [class java.lang.String]  ,  47
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  48
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  50
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  47
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  48
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  48
+org.assertj.core.util.introspection.FieldSupport  ,  fieldValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  46
+org.assertj.core.util.introspection.FieldSupport  ,  isNestedField  ,  [class java.lang.String]  ,  47
+org.assertj.core.util.introspection.FieldSupport  ,  readSimpleField  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  47
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.Object- class java.lang.String- boolean]  ,  48
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.introspection.FieldUtils  ,  getField  ,  [class java.lang.Class- class java.lang.String- boolean]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  50
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  50
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.reflect.Field- class java.lang.Object]  ,  49
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.reflect.Field- class java.lang.Object- boolean]  ,  50
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  51
+org.assertj.core.util.introspection.MemberUtils  ,  setAccessibleWorkaround  ,  [class java.lang.reflect.AccessibleObject]  ,  51
+org.assertj.core.util.introspection.MemberUtils  ,  isPackageAccess  ,  [int]  ,  52
+org.assertj.core.api.Assertions  ,  assertThat  ,  [class java.lang.Object]  ,  43
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [class java.lang.Object]  ,  44
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  45
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  45
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  45
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  45
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  46
+org.assertj.core.api.AbstractObjectAssert  ,  defaultTypeComparators  ,  []  ,  45
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  46
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  46
+org.assertj.core.api.AbstractAssert  ,  isEqualTo  ,  [class java.lang.Object]  ,  43
+org.assertj.core.internal.Objects  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object]  ,  44
+org.assertj.core.internal.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  45
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  46
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  47
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  42
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  42
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  should_throw_exception_when_given_name_is_null  ,  []  ,  42
+org.assertj.core.test.ExpectedException  ,  expectIllegalArgumentException  ,  [class java.lang.String]  ,  43
+org.assertj.core.test.ExpectedException  ,  expect  ,  [class java.lang.Class- class java.lang.String]  ,  44
+org.assertj.core.test.ExpectedException  ,  expect  ,  [class java.lang.Class]  ,  45
+org.assertj.core.test.ExpectedException  ,  expectMessage  ,  [class java.lang.String]  ,  45
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  43
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  44
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  45
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  45
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  should_extract_single_value_from_maps_by_key  ,  []  ,  45
+org.assertj.core.test.Name  ,  setFirst  ,  [class java.lang.String]  ,  46
+org.assertj.core.test.Employee  ,  setName  ,  [class org.assertj.core.test.Name]  ,  46
+org.assertj.core.test.Employee  ,  setAge  ,  [int]  ,  46
+org.assertj.core.test.Name  ,  setFirst  ,  [class java.lang.String]  ,  46
+org.assertj.core.test.Employee  ,  setName  ,  [class org.assertj.core.test.Name]  ,  46
+org.assertj.core.test.Employee  ,  setAge  ,  [int]  ,  46
+org.assertj.core.api.Assertions  ,  assertThat  ,  [interface java.util.List]  ,  46
+org.assertj.core.api.AssertionsForInterfaceTypes  ,  assertThat  ,  [interface java.util.List]  ,  47
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  48
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  48
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  48
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  49
+org.assertj.core.internal.StandardComparisonStrategy  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Predicates  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Iterables  ,  instance  ,  []  ,  48
+org.assertj.core.internal.StandardComparisonStrategy  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Lists  ,  instance  ,  []  ,  48
+org.assertj.core.api.AbstractIterableAssert  ,  extracting  ,  [class java.lang.String]  ,  46
+org.assertj.core.extractor.Extractors  ,  byName  ,  [class java.lang.String]  ,  47
+org.assertj.core.groups.FieldsOrPropertiesExtractor  ,  extract  ,  [interface java.lang.Iterable- interface org.assertj.core.api.iterable.Extractor]  ,  47
+org.assertj.core.groups.FieldsOrPropertiesExtractor  ,  checkObjectToExtractFromIsNotNull  ,  [class java.lang.Object]  ,  48
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  48
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  48
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  48
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.extractor.Extractors  ,  extractedDescriptionOf  ,  [class [Ljava.lang.String;]  ,  47
+org.assertj.core.util.Strings  ,  join  ,  [class [Ljava.lang.String;]  ,  48
+org.assertj.core.util.Strings$StringsToJoin  ,  with  ,  [class java.lang.String]  ,  48
+org.assertj.core.util.Strings$StringsToJoin  ,  with  ,  [class java.lang.String- class java.lang.String]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  50
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  50
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  51
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  []  ,  47
+org.assertj.core.description.Description  ,  mostRelevantDescription  ,  [class org.assertj.core.description.Description- class java.lang.String]  ,  47
+org.assertj.core.api.AbstractIterableAssert  ,  newListAssertInstance  ,  [interface java.util.List]  ,  47
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  48
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  48
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  48
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  49
+org.assertj.core.internal.Iterables  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Lists  ,  instance  ,  []  ,  48
+org.assertj.core.api.AbstractListAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  47
+org.assertj.core.api.AbstractIterableAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  48
+org.assertj.core.api.AbstractAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.api.AbstractListAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  50
+org.assertj.core.api.AbstractIterableAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  51
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  52
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  53
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  54
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  55
+org.assertj.core.api.ListAssert  ,  containsExactly  ,  [class [Ljava.lang.Object;]  ,  46
+org.assertj.core.api.AbstractIterableAssert  ,  containsExactly  ,  [class [Ljava.lang.Object;]  ,  47
+org.assertj.core.internal.Iterables  ,  assertContainsExactly  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable- class [Ljava.lang.Object;]  ,  48
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  49
+org.assertj.core.internal.CommonValidations  ,  checkIsNotNull  ,  [class [Ljava.lang.Object;]  ,  49
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  49
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  50
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  50
+org.assertj.core.util.IterableUtil  ,  sizeOf  ,  [interface java.lang.Iterable]  ,  49
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  50
+org.assertj.core.internal.Iterables  ,  assertHasSameSizeAs  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable- class java.lang.Object]  ,  49
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  50
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  51
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  51
+org.assertj.core.internal.StandardComparisonStrategy  ,  instance  ,  []  ,  50
+org.assertj.core.internal.Arrays  ,  assertIsArray  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  50
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  51
+org.assertj.core.util.IterableUtil  ,  sizeOf  ,  [interface java.lang.Iterable]  ,  50
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  51
+org.assertj.core.internal.CommonValidations  ,  hasSameSizeAsCheck  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object- int]  ,  50
+org.assertj.core.internal.CommonValidations  ,  checkOtherIsNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  51
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  52
+org.assertj.core.internal.CommonValidations  ,  checkSameSizes  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- int- int]  ,  51
+org.assertj.core.util.Lists  ,  newArrayList  ,  [interface java.lang.Iterable]  ,  49
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  50
+org.assertj.core.internal.IterableDiff  ,  diff  ,  [interface java.lang.Iterable- interface java.lang.Iterable- interface org.assertj.core.internal.ComparisonStrategy]  ,  49
+org.assertj.core.internal.IterableDiff  ,  unexpectedElements  ,  [interface java.lang.Iterable- interface java.lang.Iterable]  ,  50
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  51
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  51
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  55
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  56
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.internal.IterableDiff  ,  missingElements  ,  [interface java.lang.Iterable- interface java.lang.Iterable]  ,  50
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  51
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  51
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  55
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  56
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.internal.IterableDiff  ,  differencesFound  ,  []  ,  49
+org.assertj.core.internal.Iterables  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  49
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  50
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  51
+org.assertj.core.internal.Iterables  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  49
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  50
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  51
+org.assertj.core.api.Assertions  ,  assertThat  ,  [interface java.util.List]  ,  46
+org.assertj.core.api.AssertionsForInterfaceTypes  ,  assertThat  ,  [interface java.util.List]  ,  47
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  48
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  48
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  48
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  49
+org.assertj.core.internal.Iterables  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Lists  ,  instance  ,  []  ,  48
+org.assertj.core.api.AbstractIterableAssert  ,  extracting  ,  [class java.lang.String- class java.lang.Class]  ,  46
+org.assertj.core.extractor.Extractors  ,  byName  ,  [class java.lang.String]  ,  47
+org.assertj.core.groups.FieldsOrPropertiesExtractor  ,  extract  ,  [interface java.lang.Iterable- interface org.assertj.core.api.iterable.Extractor]  ,  47
+org.assertj.core.groups.FieldsOrPropertiesExtractor  ,  checkObjectToExtractFromIsNotNull  ,  [class java.lang.Object]  ,  48
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  48
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  48
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  48
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.extractor.Extractors  ,  extractedDescriptionOf  ,  [class [Ljava.lang.String;]  ,  47
+org.assertj.core.util.Strings  ,  join  ,  [class [Ljava.lang.String;]  ,  48
+org.assertj.core.util.Strings$StringsToJoin  ,  with  ,  [class java.lang.String]  ,  48
+org.assertj.core.util.Strings$StringsToJoin  ,  with  ,  [class java.lang.String- class java.lang.String]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  50
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  50
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  51
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  []  ,  47
+org.assertj.core.description.Description  ,  mostRelevantDescription  ,  [class org.assertj.core.description.Description- class java.lang.String]  ,  47
+org.assertj.core.api.AbstractIterableAssert  ,  newListAssertInstance  ,  [interface java.util.List]  ,  47
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  48
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  48
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  48
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  49
+org.assertj.core.internal.Iterables  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Lists  ,  instance  ,  []  ,  48
+org.assertj.core.api.AbstractListAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  47
+org.assertj.core.api.AbstractIterableAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  48
+org.assertj.core.api.AbstractAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.api.AbstractListAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  50
+org.assertj.core.api.AbstractIterableAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  51
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  52
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  53
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  54
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  55
+org.assertj.core.api.ListAssert  ,  containsExactly  ,  [class [Ljava.lang.Object;]  ,  46
+org.assertj.core.api.AbstractIterableAssert  ,  containsExactly  ,  [class [Ljava.lang.Object;]  ,  47
+org.assertj.core.internal.Iterables  ,  assertContainsExactly  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable- class [Ljava.lang.Object;]  ,  48
+org.assertj.core.internal.CommonValidations  ,  checkIsNotNull  ,  [class [Ljava.lang.Object;]  ,  49
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  49
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  50
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  50
+org.assertj.core.util.IterableUtil  ,  sizeOf  ,  [interface java.lang.Iterable]  ,  49
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  50
+org.assertj.core.internal.Iterables  ,  assertHasSameSizeAs  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable- class java.lang.Object]  ,  49
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  50
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  51
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  51
+org.assertj.core.internal.Arrays  ,  assertIsArray  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  50
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  51
+org.assertj.core.util.IterableUtil  ,  sizeOf  ,  [interface java.lang.Iterable]  ,  50
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  51
+org.assertj.core.internal.CommonValidations  ,  hasSameSizeAsCheck  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object- int]  ,  50
+org.assertj.core.internal.CommonValidations  ,  checkOtherIsNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  51
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  52
+org.assertj.core.internal.CommonValidations  ,  checkSameSizes  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- int- int]  ,  51
+org.assertj.core.util.Lists  ,  newArrayList  ,  [interface java.lang.Iterable]  ,  49
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  50
+org.assertj.core.internal.IterableDiff  ,  diff  ,  [interface java.lang.Iterable- interface java.lang.Iterable- interface org.assertj.core.internal.ComparisonStrategy]  ,  49
+org.assertj.core.internal.IterableDiff  ,  unexpectedElements  ,  [interface java.lang.Iterable- interface java.lang.Iterable]  ,  50
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  51
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  51
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  55
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  56
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.internal.IterableDiff  ,  missingElements  ,  [interface java.lang.Iterable- interface java.lang.Iterable]  ,  50
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  51
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  51
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.util.Objects  ,  areEqualArrays  ,  [class java.lang.Object- class java.lang.Object]  ,  55
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  56
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.internal.IterableDiff  ,  differencesFound  ,  []  ,  49
+org.assertj.core.internal.Iterables  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  49
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  50
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  51
+org.assertj.core.internal.Iterables  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  49
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  50
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  51
+org.assertj.core.api.Assertions  ,  assertThat  ,  [interface java.util.List]  ,  46
+org.assertj.core.api.AssertionsForInterfaceTypes  ,  assertThat  ,  [interface java.util.List]  ,  47
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  48
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  48
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  48
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  49
+org.assertj.core.internal.Iterables  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Lists  ,  instance  ,  []  ,  48
+org.assertj.core.api.AbstractIterableAssert  ,  extracting  ,  [class java.lang.String]  ,  46
+org.assertj.core.extractor.Extractors  ,  byName  ,  [class java.lang.String]  ,  47
+org.assertj.core.groups.FieldsOrPropertiesExtractor  ,  extract  ,  [interface java.lang.Iterable- interface org.assertj.core.api.iterable.Extractor]  ,  47
+org.assertj.core.groups.FieldsOrPropertiesExtractor  ,  checkObjectToExtractFromIsNotNull  ,  [class java.lang.Object]  ,  48
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  48
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  48
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  48
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.extractor.Extractors  ,  extractedDescriptionOf  ,  [class [Ljava.lang.String;]  ,  47
+org.assertj.core.util.Strings  ,  join  ,  [class [Ljava.lang.String;]  ,  48
+org.assertj.core.util.Strings$StringsToJoin  ,  with  ,  [class java.lang.String]  ,  48
+org.assertj.core.util.Strings$StringsToJoin  ,  with  ,  [class java.lang.String- class java.lang.String]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  50
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  50
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  51
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  []  ,  47
+org.assertj.core.description.Description  ,  mostRelevantDescription  ,  [class org.assertj.core.description.Description- class java.lang.String]  ,  47
+org.assertj.core.api.AbstractIterableAssert  ,  newListAssertInstance  ,  [interface java.util.List]  ,  47
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  48
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  48
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  48
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  49
+org.assertj.core.internal.Iterables  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Lists  ,  instance  ,  []  ,  48
+org.assertj.core.api.AbstractListAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  47
+org.assertj.core.api.AbstractIterableAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  48
+org.assertj.core.api.AbstractAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.api.AbstractListAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  50
+org.assertj.core.api.AbstractIterableAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  51
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  52
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  53
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  54
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  55
+org.assertj.core.api.ListAssert  ,  containsExactly  ,  [class [Ljava.lang.Object;]  ,  46
+org.assertj.core.api.AbstractIterableAssert  ,  containsExactly  ,  [class [Ljava.lang.Object;]  ,  47
+org.assertj.core.internal.Iterables  ,  assertContainsExactly  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable- class [Ljava.lang.Object;]  ,  48
+org.assertj.core.internal.CommonValidations  ,  checkIsNotNull  ,  [class [Ljava.lang.Object;]  ,  49
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  49
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  50
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  50
+org.assertj.core.util.IterableUtil  ,  sizeOf  ,  [interface java.lang.Iterable]  ,  49
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  50
+org.assertj.core.internal.Iterables  ,  assertHasSameSizeAs  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable- class java.lang.Object]  ,  49
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  50
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  51
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  51
+org.assertj.core.internal.Arrays  ,  assertIsArray  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  50
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  51
+org.assertj.core.util.IterableUtil  ,  sizeOf  ,  [interface java.lang.Iterable]  ,  50
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  51
+org.assertj.core.internal.CommonValidations  ,  hasSameSizeAsCheck  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object- int]  ,  50
+org.assertj.core.internal.CommonValidations  ,  checkOtherIsNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  51
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  52
+org.assertj.core.internal.CommonValidations  ,  checkSameSizes  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- int- int]  ,  51
+org.assertj.core.util.Lists  ,  newArrayList  ,  [interface java.lang.Iterable]  ,  49
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  50
+org.assertj.core.internal.IterableDiff  ,  diff  ,  [interface java.lang.Iterable- interface java.lang.Iterable- interface org.assertj.core.internal.ComparisonStrategy]  ,  49
+org.assertj.core.internal.IterableDiff  ,  unexpectedElements  ,  [interface java.lang.Iterable- interface java.lang.Iterable]  ,  50
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  51
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  51
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.internal.IterableDiff  ,  missingElements  ,  [interface java.lang.Iterable- interface java.lang.Iterable]  ,  50
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  51
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  51
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.internal.IterableDiff  ,  differencesFound  ,  []  ,  49
+org.assertj.core.internal.Iterables  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  49
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  50
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  51
+org.assertj.core.internal.Iterables  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  49
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  50
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  51
+org.assertj.core.api.Assertions  ,  assertThat  ,  [interface java.util.List]  ,  46
+org.assertj.core.api.AssertionsForInterfaceTypes  ,  assertThat  ,  [interface java.util.List]  ,  47
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  48
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  48
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  48
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  49
+org.assertj.core.internal.Iterables  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Lists  ,  instance  ,  []  ,  48
+org.assertj.core.api.AbstractIterableAssert  ,  extracting  ,  [class java.lang.String]  ,  46
+org.assertj.core.extractor.Extractors  ,  byName  ,  [class java.lang.String]  ,  47
+org.assertj.core.groups.FieldsOrPropertiesExtractor  ,  extract  ,  [interface java.lang.Iterable- interface org.assertj.core.api.iterable.Extractor]  ,  47
+org.assertj.core.groups.FieldsOrPropertiesExtractor  ,  checkObjectToExtractFromIsNotNull  ,  [class java.lang.Object]  ,  48
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  48
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  48
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  48
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.extractor.Extractors  ,  extractedDescriptionOf  ,  [class [Ljava.lang.String;]  ,  47
+org.assertj.core.util.Strings  ,  join  ,  [class [Ljava.lang.String;]  ,  48
+org.assertj.core.util.Strings$StringsToJoin  ,  with  ,  [class java.lang.String]  ,  48
+org.assertj.core.util.Strings$StringsToJoin  ,  with  ,  [class java.lang.String- class java.lang.String]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  50
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  50
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  51
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  []  ,  47
+org.assertj.core.description.Description  ,  mostRelevantDescription  ,  [class org.assertj.core.description.Description- class java.lang.String]  ,  47
+org.assertj.core.api.AbstractIterableAssert  ,  newListAssertInstance  ,  [interface java.util.List]  ,  47
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  48
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  48
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  48
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  49
+org.assertj.core.internal.Iterables  ,  instance  ,  []  ,  48
+org.assertj.core.internal.Lists  ,  instance  ,  []  ,  48
+org.assertj.core.api.AbstractListAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  47
+org.assertj.core.api.AbstractIterableAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  48
+org.assertj.core.api.AbstractAssert  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  49
+org.assertj.core.api.AbstractListAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  50
+org.assertj.core.api.AbstractIterableAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  51
+org.assertj.core.api.AbstractAssert  ,  describedAs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  52
+org.assertj.core.api.WritableAssertionInfo  ,  description  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  53
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  54
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  55
+org.assertj.core.api.ListAssert  ,  containsExactly  ,  [class [Ljava.lang.Object;]  ,  46
+org.assertj.core.api.AbstractIterableAssert  ,  containsExactly  ,  [class [Ljava.lang.Object;]  ,  47
+org.assertj.core.internal.Iterables  ,  assertContainsExactly  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable- class [Ljava.lang.Object;]  ,  48
+org.assertj.core.internal.CommonValidations  ,  checkIsNotNull  ,  [class [Ljava.lang.Object;]  ,  49
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  49
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  50
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  50
+org.assertj.core.util.IterableUtil  ,  sizeOf  ,  [interface java.lang.Iterable]  ,  49
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  50
+org.assertj.core.internal.Iterables  ,  assertHasSameSizeAs  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable- class java.lang.Object]  ,  49
+org.assertj.core.internal.Iterables  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- interface java.lang.Iterable]  ,  50
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  51
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  51
+org.assertj.core.internal.Arrays  ,  assertIsArray  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  50
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  51
+org.assertj.core.util.IterableUtil  ,  sizeOf  ,  [interface java.lang.Iterable]  ,  50
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  51
+org.assertj.core.internal.CommonValidations  ,  hasSameSizeAsCheck  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object- int]  ,  50
+org.assertj.core.internal.CommonValidations  ,  checkOtherIsNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  51
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  52
+org.assertj.core.internal.CommonValidations  ,  checkSameSizes  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- int- int]  ,  51
+org.assertj.core.util.Lists  ,  newArrayList  ,  [interface java.lang.Iterable]  ,  49
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  50
+org.assertj.core.internal.IterableDiff  ,  diff  ,  [interface java.lang.Iterable- interface java.lang.Iterable- interface org.assertj.core.internal.ComparisonStrategy]  ,  49
+org.assertj.core.internal.IterableDiff  ,  unexpectedElements  ,  [interface java.lang.Iterable- interface java.lang.Iterable]  ,  50
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  51
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  51
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.internal.IterableDiff  ,  missingElements  ,  [interface java.lang.Iterable- interface java.lang.Iterable]  ,  50
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  51
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.internal.IterableDiff  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  51
+org.assertj.core.internal.StandardComparisonStrategy  ,  iterableContains  ,  [interface java.lang.Iterable- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.internal.IterableDiff  ,  differencesFound  ,  []  ,  49
+org.assertj.core.internal.Iterables  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  49
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  50
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  51
+org.assertj.core.internal.Iterables  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  49
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  50
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  51
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  45
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  45
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  should_fallback_to_field_if_exception_has_been_thrown_on_property_access  ,  []  ,  45
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  nameExtractor  ,  []  ,  46
+org.assertj.core.test.Name  ,  setFirst  ,  [class java.lang.String]  ,  46
+org.assertj.core.test.Employee  ,  setName  ,  [class org.assertj.core.test.Name]  ,  46
+org.assertj.core.test.Employee  ,  setAge  ,  [int]  ,  46
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  46
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  47
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  47
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  47
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getValueOf  ,  [class java.lang.String- class java.lang.Object]  ,  47
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  48
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  48
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  48
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  48
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getSimpleValue  ,  [class java.lang.String- class java.lang.Object]  ,  48
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValueOf  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  49
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  50
+org.assertj.core.util.introspection.PropertySupport  ,  isNestedProperty  ,  [class java.lang.String]  ,  50
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  50
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  51
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  52
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  53
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  54
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  52
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  52
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  53
+org.assertj.core.extractor.ByNameSingleExtractorTest$EmployeeWithBrokenName  ,  getName  ,  []  ,  52
+org.assertj.core.util.introspection.Introspection  ,  propertyNotFoundErrorMessage  ,  [class java.lang.String- class java.lang.Object]  ,  53
+org.assertj.core.util.Strings  ,  quote  ,  [class java.lang.String]  ,  54
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  55
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  56
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  57
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  54
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  55
+org.assertj.core.util.introspection.FieldSupport  ,  fieldValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  53
+org.assertj.core.util.introspection.FieldSupport  ,  isNestedField  ,  [class java.lang.String]  ,  54
+org.assertj.core.util.introspection.FieldSupport  ,  readSimpleField  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  54
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.Object- class java.lang.String- boolean]  ,  55
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  56
+org.assertj.core.util.introspection.FieldUtils  ,  getField  ,  [class java.lang.Class- class java.lang.String- boolean]  ,  56
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  57
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  57
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  56
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.reflect.Field- class java.lang.Object]  ,  56
+org.assertj.core.util.introspection.FieldUtils  ,  readField  ,  [class java.lang.reflect.Field- class java.lang.Object- boolean]  ,  57
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  58
+org.assertj.core.util.introspection.MemberUtils  ,  setAccessibleWorkaround  ,  [class java.lang.reflect.AccessibleObject]  ,  58
+org.assertj.core.util.introspection.MemberUtils  ,  isPackageAccess  ,  [int]  ,  59
+org.assertj.core.api.Assertions  ,  assertThat  ,  [class java.lang.Object]  ,  50
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [class java.lang.Object]  ,  51
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  52
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  52
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  52
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  52
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  53
+org.assertj.core.api.AbstractObjectAssert  ,  defaultTypeComparators  ,  []  ,  52
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  53
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  53
+org.assertj.core.test.Name  ,  setFirst  ,  [class java.lang.String]  ,  50
+org.assertj.core.api.AbstractAssert  ,  isEqualTo  ,  [class java.lang.Object]  ,  50
+org.assertj.core.internal.Objects  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object]  ,  51
+org.assertj.core.internal.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.test.Name  ,  equals  ,  [class java.lang.Object]  ,  55
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  49
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  49
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  should_prefer_properties_over_fields  ,  []  ,  49
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  nameExtractor  ,  []  ,  50
+org.assertj.core.test.Name  ,  setFirst  ,  [class java.lang.String]  ,  50
+org.assertj.core.test.Employee  ,  setName  ,  [class org.assertj.core.test.Name]  ,  50
+org.assertj.core.test.Employee  ,  setAge  ,  [int]  ,  50
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  50
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  51
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  51
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  51
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getValueOf  ,  [class java.lang.String- class java.lang.Object]  ,  51
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  52
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  52
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  52
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  52
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getSimpleValue  ,  [class java.lang.String- class java.lang.Object]  ,  52
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValueOf  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  53
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  54
+org.assertj.core.util.introspection.PropertySupport  ,  isNestedProperty  ,  [class java.lang.String]  ,  54
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  54
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  55
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  56
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  57
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  58
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  56
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  56
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  57
+org.assertj.core.extractor.ByNameSingleExtractorTest$EmployeeWithOverriddenName  ,  getName  ,  []  ,  56
+org.assertj.core.test.Name  ,  setFirst  ,  [class java.lang.String]  ,  57
+org.assertj.core.extractor.ByNameSingleExtractorTest$EmployeeWithOverriddenName  ,  getName  ,  []  ,  55
+org.assertj.core.test.Name  ,  setFirst  ,  [class java.lang.String]  ,  56
+org.assertj.core.api.Assertions  ,  assertThat  ,  [class java.lang.Object]  ,  50
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [class java.lang.Object]  ,  51
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  52
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  52
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  52
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  52
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  53
+org.assertj.core.api.AbstractObjectAssert  ,  defaultTypeComparators  ,  []  ,  52
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  53
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  53
+org.assertj.core.test.Name  ,  setFirst  ,  [class java.lang.String]  ,  50
+org.assertj.core.api.AbstractAssert  ,  isEqualTo  ,  [class java.lang.Object]  ,  50
+org.assertj.core.internal.Objects  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object]  ,  51
+org.assertj.core.internal.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  52
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  53
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.test.Name  ,  equals  ,  [class java.lang.Object]  ,  55
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  49
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  49
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  should_throw_exception_if_no_object_is_given  ,  []  ,  49
+org.assertj.core.test.ExpectedException  ,  expectIllegalArgumentException  ,  []  ,  50
+org.assertj.core.test.ExpectedException  ,  expect  ,  [class java.lang.Class]  ,  51
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  idExtractor  ,  []  ,  50
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  50
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  51
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  51
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  51
+org.assertj.core.test.ExpectedException  ,  none  ,  []  ,  52
+org.assertj.core.test.ExpectedException  ,  apply  ,  [class org.junit.runners.model.Statement- class org.junit.runner.Description]  ,  52
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  should_extract_property_values_when_no_public_field_match_given_name  ,  []  ,  52
+org.assertj.core.extractor.ByNameSingleExtractorTest  ,  ageExtractor  ,  []  ,  53
+org.assertj.core.extractor.ByNameSingleExtractor  ,  extract  ,  [class java.lang.Object]  ,  53
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  54
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  54
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  54
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getValueOf  ,  [class java.lang.String- class java.lang.Object]  ,  54
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  55
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  55
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  55
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  isNested  ,  [class java.lang.String]  ,  55
+org.assertj.core.util.introspection.PropertyOrFieldSupport  ,  getSimpleValue  ,  [class java.lang.String- class java.lang.Object]  ,  55
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValueOf  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  56
+org.assertj.core.util.Preconditions  ,  checkArgument  ,  [boolean- class java.lang.String- class [Ljava.lang.Object;]  ,  57
+org.assertj.core.util.introspection.PropertySupport  ,  isNestedProperty  ,  [class java.lang.String]  ,  57
+org.assertj.core.util.introspection.PropertySupport  ,  propertyValue  ,  [class java.lang.String- class java.lang.Class- class java.lang.Object]  ,  57
+org.assertj.core.util.introspection.Introspection  ,  getPropertyGetter  ,  [class java.lang.String- class java.lang.Object]  ,  58
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence]  ,  59
+org.assertj.core.util.Preconditions  ,  checkNotNullOrEmpty  ,  [interface java.lang.CharSequence- class java.lang.String]  ,  60
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  61
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  59
+org.assertj.core.util.introspection.Introspection  ,  findGetter  ,  [class java.lang.String- class java.lang.Object]  ,  59
+org.assertj.core.util.introspection.Introspection  ,  findMethod  ,  [class java.lang.String- class java.lang.Object]  ,  60
+org.assertj.core.test.Employee  ,  getAge  ,  []  ,  59
+org.assertj.core.test.Employee  ,  getAge  ,  []  ,  58
+org.assertj.core.api.Assertions  ,  assertThat  ,  [class java.lang.Object]  ,  53
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [class java.lang.Object]  ,  54
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  55
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  55
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  55
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  55
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  56
+org.assertj.core.api.AbstractObjectAssert  ,  defaultTypeComparators  ,  []  ,  55
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  56
+org.assertj.core.internal.TypeComparators  ,  put  ,  [class java.lang.Class- interface java.util.Comparator]  ,  56
+org.assertj.core.api.AbstractAssert  ,  isEqualTo  ,  [class java.lang.Object]  ,  53
+org.assertj.core.internal.Objects  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object]  ,  54
+org.assertj.core.internal.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  55
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  56
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  57

@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/configuration/Services.Services,()V,7,1
+org/assertj/core/configuration/Services.get,(Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;,59,3

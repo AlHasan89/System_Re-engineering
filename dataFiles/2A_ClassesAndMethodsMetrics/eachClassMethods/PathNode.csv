@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/diff/myers/PathNode.PathNode,(IILorg/assertj/core/util/diff/myers/PathNode;)V,24,1
+org/assertj/core/util/diff/myers/PathNode.isSnake,()Z,2,1
+org/assertj/core/util/diff/myers/PathNode.isBootstrap,()Z,16,3
+org/assertj/core/util/diff/myers/PathNode.previousSnake,()Lorg/assertj/core/util/diff/myers/PathNode;,31,4
+org/assertj/core/util/diff/myers/PathNode.toString,()Ljava/lang/String;,72,2

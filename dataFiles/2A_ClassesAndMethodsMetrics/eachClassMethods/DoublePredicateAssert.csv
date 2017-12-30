@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/DoublePredicateAssert.DoublePredicateAssert,(Ljava/util/function/DoublePredicate;)V,13,1
+org/assertj/core/api/DoublePredicateAssert.toPredicate,(Ljava/util/function/DoublePredicate;)Ljava/util/function/Predicate;,15,2
+org/assertj/core/api/DoublePredicateAssert.accepts,([D)Lorg/assertj/core/api/DoublePredicateAssert;,29,2
+org/assertj/core/api/DoublePredicateAssert.rejects,([D)Lorg/assertj/core/api/DoublePredicateAssert;,29,2

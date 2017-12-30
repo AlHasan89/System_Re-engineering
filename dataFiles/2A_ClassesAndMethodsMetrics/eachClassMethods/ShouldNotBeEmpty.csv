@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldNotBeEmpty.<clinit>,()V,9,1
+org/assertj/core/error/ShouldNotBeEmpty.shouldNotBeEmpty,()Lorg/assertj/core/error/ErrorMessageFactory;,6,1
+org/assertj/core/error/ShouldNotBeEmpty.ShouldNotBeEmpty,()V,12,1

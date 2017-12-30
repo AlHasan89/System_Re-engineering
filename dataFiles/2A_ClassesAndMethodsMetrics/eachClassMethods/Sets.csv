@@ -1,0 +1,8 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/Sets.newHashSet,()Ljava/util/HashSet;,8,1
+org/assertj/core/util/Sets.newHashSet,(Ljava/lang/Iterable;)Ljava/util/HashSet;,43,3
+org/assertj/core/util/Sets.newLinkedHashSet,()Ljava/util/LinkedHashSet;,8,1
+org/assertj/core/util/Sets.newLinkedHashSet,([Ljava/lang/Object;)Ljava/util/LinkedHashSet;,25,2
+org/assertj/core/util/Sets.newTreeSet,()Ljava/util/TreeSet;,8,1
+org/assertj/core/util/Sets.newTreeSet,([Ljava/lang/Object;)Ljava/util/TreeSet;,25,2
+org/assertj/core/util/Sets.Sets,()V,9,1

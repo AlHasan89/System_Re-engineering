@@ -1,0 +1,8 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldHaveMethods.shouldHaveMethods,(Ljava/lang/Class;ZLjava/util/SortedSet;Ljava/util/SortedSet;)Lorg/assertj/core/error/ErrorMessageFactory;,12,1
+org/assertj/core/error/ShouldHaveMethods.shouldHaveMethods,(Ljava/lang/Class;ZLjava/util/SortedSet;Ljava/lang/String;Ljava/util/Map;)Lorg/assertj/core/error/ErrorMessageFactory;,13,1
+org/assertj/core/error/ShouldHaveMethods.shouldNotHaveMethods,(Ljava/lang/Class;Ljava/lang/String;ZLjava/util/SortedSet;)Lorg/assertj/core/error/ErrorMessageFactory;,12,1
+org/assertj/core/error/ShouldHaveMethods.shouldNotHaveMethods,(Ljava/lang/Class;ZLjava/util/SortedSet;)Lorg/assertj/core/error/ErrorMessageFactory;,12,1
+org/assertj/core/error/ShouldHaveMethods.ShouldHaveMethods,(Ljava/lang/Class;Ljava/util/Set;Ljava/util/Set;Z)V,58,2
+org/assertj/core/error/ShouldHaveMethods.ShouldHaveMethods,(Ljava/lang/Class;Ljava/util/Set;Ljava/lang/String;Ljava/util/Map;Z)V,66,2
+org/assertj/core/error/ShouldHaveMethods.ShouldHaveMethods,(Ljava/lang/Class;Ljava/lang/String;ZLjava/util/Set;)V,68,4

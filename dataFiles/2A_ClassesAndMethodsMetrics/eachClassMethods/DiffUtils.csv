@@ -1,0 +1,10 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/diff/DiffUtils.<clinit>,()V,8,1
+org/assertj/core/util/diff/DiffUtils.DiffUtils,()V,7,1
+org/assertj/core/util/diff/DiffUtils.diff,(Ljava/util/List;Ljava/util/List;)Lorg/assertj/core/util/diff/Patch;,11,1
+org/assertj/core/util/diff/DiffUtils.diff,(Ljava/util/List;Ljava/util/List;Lorg/assertj/core/util/diff/DiffAlgorithm;)Lorg/assertj/core/util/diff/Patch;,54,4
+org/assertj/core/util/diff/DiffUtils.patch,(Ljava/util/List;Lorg/assertj/core/util/diff/Patch;)Ljava/util/List;,8,1
+org/assertj/core/util/diff/DiffUtils.parseUnifiedDiff,(Ljava/util/List;)Lorg/assertj/core/util/diff/Patch;,420,25
+org/assertj/core/util/diff/DiffUtils.generateUnifiedDiff,(Ljava/lang/String;Ljava/lang/String;Ljava/util/List;Lorg/assertj/core/util/diff/Patch;I)Ljava/util/List;,194,5
+org/assertj/core/util/diff/DiffUtils.processDeltas,(Ljava/util/List;Ljava/util/List;I)Ljava/util/List;,350,9
+org/assertj/core/util/diff/DiffUtils.getDeltaText,(Lorg/assertj/core/util/diff/Delta;)Ljava/util/List;,76,3

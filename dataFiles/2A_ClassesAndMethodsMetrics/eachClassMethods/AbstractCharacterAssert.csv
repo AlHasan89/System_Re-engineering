@@ -1,0 +1,15 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractCharacterAssert.AbstractCharacterAssert,(Ljava/lang/Character;Ljava/lang/Class;)V,16,1
+org/assertj/core/api/AbstractCharacterAssert.isEqualTo,(C)Lorg/assertj/core/api/AbstractCharacterAssert;,20,1
+org/assertj/core/api/AbstractCharacterAssert.isNotEqualTo,(C)Lorg/assertj/core/api/AbstractCharacterAssert;,20,1
+org/assertj/core/api/AbstractCharacterAssert.isLessThan,(C)Lorg/assertj/core/api/AbstractCharacterAssert;,20,1
+org/assertj/core/api/AbstractCharacterAssert.isLessThanOrEqualTo,(C)Lorg/assertj/core/api/AbstractCharacterAssert;,20,1
+org/assertj/core/api/AbstractCharacterAssert.isGreaterThan,(C)Lorg/assertj/core/api/AbstractCharacterAssert;,20,1
+org/assertj/core/api/AbstractCharacterAssert.inUnicode,()Lorg/assertj/core/api/AbstractCharacterAssert;,13,1
+org/assertj/core/api/AbstractCharacterAssert.isGreaterThanOrEqualTo,(C)Lorg/assertj/core/api/AbstractCharacterAssert;,20,1
+org/assertj/core/api/AbstractCharacterAssert.isLowerCase,()Lorg/assertj/core/api/AbstractCharacterAssert;,18,1
+org/assertj/core/api/AbstractCharacterAssert.isUpperCase,()Lorg/assertj/core/api/AbstractCharacterAssert;,18,1
+org/assertj/core/api/AbstractCharacterAssert.usingComparator,(Ljava/util/Comparator;)Lorg/assertj/core/api/AbstractCharacterAssert;,25,1
+org/assertj/core/api/AbstractCharacterAssert.usingDefaultComparator,()Lorg/assertj/core/api/AbstractCharacterAssert;,18,1
+org/assertj/core/api/AbstractCharacterAssert.usingComparator,(Ljava/util/Comparator;)Lorg/assertj/core/api/AbstractComparableAssert;,9,1
+org/assertj/core/api/AbstractCharacterAssert.usingDefaultComparator,()Lorg/assertj/core/api/AbstractComparableAssert;,7,1

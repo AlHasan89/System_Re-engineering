@@ -1,0 +1,18 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/DeepDifference.<clinit>,()V,15,1
+org/assertj/core/internal/DeepDifference.DeepDifference,()V,7,1
+org/assertj/core/internal/DeepDifference.determineDifferences,(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/Map;Lorg/assertj/core/internal/TypeComparators;)Ljava/util/List;,43,3
+org/assertj/core/internal/DeepDifference.determineDifferences,(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/List;Ljava/util/Map;Lorg/assertj/core/internal/TypeComparators;)Ljava/util/List;,621,36
+org/assertj/core/internal/DeepDifference.hasCustomComparator,(Lorg/assertj/core/internal/DeepDifference$DualKey;Ljava/util/Map;Lorg/assertj/core/internal/TypeComparators;)Z,45,4
+org/assertj/core/internal/DeepDifference.initStack,(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/List;Ljava/util/Map;Lorg/assertj/core/internal/TypeComparators;)Ljava/util/Deque;,181,12
+org/assertj/core/internal/DeepDifference.getFieldsNames,(Ljava/util/Collection;)Ljava/util/Set;,37,2
+org/assertj/core/internal/DeepDifference.isContainerType,(Ljava/lang/Object;)Z,16,3
+org/assertj/core/internal/DeepDifference.compareArrays,(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/List;Ljava/util/Deque;Ljava/util/Set;)Z,63,4
+org/assertj/core/internal/DeepDifference.compareOrderedCollection,(Ljava/util/Collection;Ljava/util/Collection;Ljava/util/List;Ljava/util/Deque;Ljava/util/Set;)Z,59,4
+org/assertj/core/internal/DeepDifference.compareUnorderedCollectionByHashCodes,(Ljava/util/Collection;Ljava/util/Collection;Ljava/util/List;Ljava/util/Deque;Ljava/util/Set;)Z,93,5
+org/assertj/core/internal/DeepDifference.compareUnorderedCollection,(Ljava/util/Collection;Ljava/util/Collection;Ljava/util/List;Ljava/util/Deque;Ljava/util/Set;Ljava/util/Map;Lorg/assertj/core/internal/TypeComparators;)Z,111,9
+org/assertj/core/internal/DeepDifference.compareSortedMap,(Ljava/util/SortedMap;Ljava/util/SortedMap;Ljava/util/List;Ljava/util/Deque;Ljava/util/Set;)Z,96,5
+org/assertj/core/internal/DeepDifference.compareUnorderedMap,(Ljava/util/Map;Ljava/util/Map;Ljava/util/List;Ljava/util/Deque;Ljava/util/Set;)Z,138,7
+org/assertj/core/internal/DeepDifference.hasCustomEquals,(Ljava/lang/Class;)Z,77,4
+org/assertj/core/internal/DeepDifference.deepHashCode,(Ljava/lang/Object;)I,214,12
+org/assertj/core/internal/DeepDifference.hasCustomHashCode,(Ljava/lang/Class;)Z,69,4

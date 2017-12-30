@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldHaveNoFields.shouldHaveNoPublicFields,(Ljava/lang/Class;Ljava/util/Set;)Lorg/assertj/core/error/ErrorMessageFactory;,12,1
+org/assertj/core/error/ShouldHaveNoFields.shouldHaveNoDeclaredFields,(Ljava/lang/Class;Ljava/util/Set;)Lorg/assertj/core/error/ErrorMessageFactory;,12,1
+org/assertj/core/error/ShouldHaveNoFields.ShouldHaveNoFields,(Ljava/lang/Class;Ljava/util/Set;ZZ)V,40,1
+org/assertj/core/error/ShouldHaveNoFields.fieldDescription,(ZZ)Ljava/lang/String;,31,4

@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldContainOnlyNulls$ErrorType.<clinit>,()V,30,1
+org/assertj/core/error/ShouldContainOnlyNulls$ErrorType.ShouldContainOnlyNulls$ErrorType,(Ljava/lang/String;I)V,9,1
+org/assertj/core/error/ShouldContainOnlyNulls$ErrorType.values,()[Lorg/assertj/core/error/ShouldContainOnlyNulls$ErrorType;,20,1
+org/assertj/core/error/ShouldContainOnlyNulls$ErrorType.valueOf,(Ljava/lang/String;)Lorg/assertj/core/error/ShouldContainOnlyNulls$ErrorType;,9,1

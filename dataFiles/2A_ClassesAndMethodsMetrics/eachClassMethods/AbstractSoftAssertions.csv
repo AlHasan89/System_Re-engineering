@@ -1,0 +1,16 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractSoftAssertions.AbstractSoftAssertions,()V,16,1
+org/assertj/core/api/AbstractSoftAssertions.proxy,(Ljava/lang/Class;Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;,11,1
+org/assertj/core/api/AbstractSoftAssertions.fail,(Ljava/lang/String;)V,17,1
+org/assertj/core/api/AbstractSoftAssertions.fail,(Ljava/lang/String;[Ljava/lang/Object;)V,19,1
+org/assertj/core/api/AbstractSoftAssertions.fail,(Ljava/lang/String;Ljava/lang/Throwable;)V,23,1
+org/assertj/core/api/AbstractSoftAssertions.failBecauseExceptionWasNotThrown,(Ljava/lang/Class;)V,10,1
+org/assertj/core/api/AbstractSoftAssertions.shouldHaveThrown,(Ljava/lang/Class;)V,17,1
+org/assertj/core/api/AbstractSoftAssertions.errorsCollected,()Ljava/util/List;,10,1
+org/assertj/core/api/AbstractSoftAssertions.wasSuccess,()Z,8,1
+org/assertj/core/api/AbstractSoftAssertions.addLineNumberToErrorMessages,(Ljava/util/List;)Ljava/util/List;,29,2
+org/assertj/core/api/AbstractSoftAssertions.addLineNumberToErrorMessage,(Ljava/lang/Throwable;)V,27,2
+org/assertj/core/api/AbstractSoftAssertions.buildErrorMessageWithLineNumber,(Ljava/lang/String;Ljava/lang/StackTraceElement;)Ljava/lang/String;,46,1
+org/assertj/core/api/AbstractSoftAssertions.changeErrorMessage,(Ljava/lang/Throwable;Ljava/lang/String;)V,29,2
+org/assertj/core/api/AbstractSoftAssertions.simpleClassNameOf,(Ljava/lang/StackTraceElement;)Ljava/lang/String;,17,1
+org/assertj/core/api/AbstractSoftAssertions.getFirstStackTraceElementFromTest,([Ljava/lang/StackTraceElement;)Ljava/lang/StackTraceElement;,104,12

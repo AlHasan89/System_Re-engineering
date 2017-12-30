@@ -1,0 +1,8 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/Fail.setRemoveAssertJRelatedElementsFromStackTrace,(Z)V,10,1
+org/assertj/core/api/Fail.fail,(Ljava/lang/String;)V,8,1
+org/assertj/core/api/Fail.fail,(Ljava/lang/String;[Ljava/lang/Object;)V,11,1
+org/assertj/core/api/Fail.fail,(Ljava/lang/String;Ljava/lang/Throwable;)V,18,1
+org/assertj/core/api/Fail.failBecauseExceptionWasNotThrown,(Ljava/lang/Class;)V,9,1
+org/assertj/core/api/Fail.shouldHaveThrown,(Ljava/lang/Class;)V,8,1
+org/assertj/core/api/Fail.Fail,()V,7,1

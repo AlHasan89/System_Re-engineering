@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeSubsetOf.shouldBeSubsetOf,(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Iterable;Lorg/assertj/core/internal/ComparisonStrategy;)Lorg/assertj/core/error/ErrorMessageFactory;,12,1
+org/assertj/core/error/ShouldBeSubsetOf.shouldBeSubsetOf,(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Iterable;)Lorg/assertj/core/error/ErrorMessageFactory;,12,1
+org/assertj/core/error/ShouldBeSubsetOf.ShouldBeSubsetOf,(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Iterable;Lorg/assertj/core/internal/ComparisonStrategy;)V,30,1

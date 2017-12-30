@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/IntPredicateAssert.IntPredicateAssert,(Ljava/util/function/IntPredicate;)V,13,1
+org/assertj/core/api/IntPredicateAssert.toPredicate,(Ljava/util/function/IntPredicate;)Ljava/util/function/Predicate;,15,2
+org/assertj/core/api/IntPredicateAssert.accepts,([I)Lorg/assertj/core/api/IntPredicateAssert;,29,2
+org/assertj/core/api/IntPredicateAssert.rejects,([I)Lorg/assertj/core/api/IntPredicateAssert;,29,2

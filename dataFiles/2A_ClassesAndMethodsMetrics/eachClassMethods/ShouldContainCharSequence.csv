@@ -1,0 +1,8 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldContainCharSequence.shouldContain,(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Lorg/assertj/core/error/ErrorMessageFactory;,16,1
+org/assertj/core/error/ShouldContainCharSequence.shouldContain,(Ljava/lang/CharSequence;Ljava/lang/CharSequence;Lorg/assertj/core/internal/ComparisonStrategy;)Lorg/assertj/core/error/ErrorMessageFactory;,12,1
+org/assertj/core/error/ShouldContainCharSequence.shouldContain,(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;Ljava/util/Set;Lorg/assertj/core/internal/ComparisonStrategy;)Lorg/assertj/core/error/ErrorMessageFactory;,17,1
+org/assertj/core/error/ShouldContainCharSequence.shouldContain,(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;Ljava/util/Set;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldContainCharSequence.shouldContainIgnoringCase,(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Lorg/assertj/core/error/ErrorMessageFactory;,16,1
+org/assertj/core/error/ShouldContainCharSequence.ShouldContainCharSequence,(Ljava/lang/String;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Lorg/assertj/core/internal/ComparisonStrategy;)V,24,1
+org/assertj/core/error/ShouldContainCharSequence.ShouldContainCharSequence,(Ljava/lang/String;Ljava/lang/CharSequence;[Ljava/lang/CharSequence;Ljava/util/Set;Lorg/assertj/core/internal/ComparisonStrategy;)V,28,1

@@ -1,0 +1,8 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/groups/Tuple.Tuple,([Ljava/lang/Object;)V,21,1
+org/assertj/core/groups/Tuple.toArray,()[Ljava/lang/Object;,8,1
+org/assertj/core/groups/Tuple.toList,()Ljava/util/List;,7,1
+org/assertj/core/groups/Tuple.hashCode,()I,24,1
+org/assertj/core/groups/Tuple.equals,(Ljava/lang/Object;)Z,40,4
+org/assertj/core/groups/Tuple.toString,()Ljava/lang/String;,9,1
+org/assertj/core/groups/Tuple.tuple,([Ljava/lang/Object;)Lorg/assertj/core/groups/Tuple;,9,1

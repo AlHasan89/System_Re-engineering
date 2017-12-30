@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldHaveMessageMatchingRegex.shouldHaveMessageMatchingRegex,(Ljava/lang/Throwable;Ljava/lang/CharSequence;)Lorg/assertj/core/error/ErrorMessageFactory;,16,1
+org/assertj/core/error/ShouldHaveMessageMatchingRegex.ShouldHaveMessageMatchingRegex,(Ljava/lang/String;Ljava/lang/CharSequence;Ljava/lang/CharSequence;)V,20,1

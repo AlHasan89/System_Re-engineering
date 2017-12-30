@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeEqualToIgnoringFields.shouldBeEqualToIgnoringGivenFields,(Ljava/lang/Object;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;)Lorg/assertj/core/error/ErrorMessageFactory;,85,4
+org/assertj/core/error/ShouldBeEqualToIgnoringFields.ShouldBeEqualToIgnoringFields,(Ljava/lang/Object;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;)V,34,1
+org/assertj/core/error/ShouldBeEqualToIgnoringFields.ShouldBeEqualToIgnoringFields,(Ljava/lang/Object;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/util/List;)V,32,1
+org/assertj/core/error/ShouldBeEqualToIgnoringFields.ShouldBeEqualToIgnoringFields,(Ljava/lang/Object;Ljava/util/List;Ljava/util/List;Ljava/util/List;)V,28,1
+org/assertj/core/error/ShouldBeEqualToIgnoringFields.ShouldBeEqualToIgnoringFields,(Ljava/lang/Object;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V,28,1

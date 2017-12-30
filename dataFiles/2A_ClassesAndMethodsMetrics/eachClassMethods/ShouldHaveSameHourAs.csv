@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldHaveSameHourAs.shouldHaveSameHourAs,(Ljava/time/temporal/Temporal;Ljava/time/temporal/Temporal;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldHaveSameHourAs.ShouldHaveSameHourAs,(Ljava/time/temporal/Temporal;Ljava/time/temporal/Temporal;)V,20,1

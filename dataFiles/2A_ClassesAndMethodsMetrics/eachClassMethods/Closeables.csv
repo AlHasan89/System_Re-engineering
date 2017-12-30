@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/Closeables.<clinit>,()V,9,1
+org/assertj/core/util/Closeables.closeQuietly,([Ljava/io/Closeable;)V,33,2
+org/assertj/core/util/Closeables.closeCloseable,(Ljava/io/Closeable;)V,37,3
+org/assertj/core/util/Closeables.Closeables,()V,7,1

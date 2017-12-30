@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeSorted.ShouldBeSorted,(Ljava/lang/String;[Ljava/lang/Object;)V,11,1
+org/assertj/core/error/ShouldBeSorted.shouldBeSorted,(ILjava/lang/Object;)Lorg/assertj/core/error/ErrorMessageFactory;,52,1
+org/assertj/core/error/ShouldBeSorted.shouldBeSortedAccordingToGivenComparator,(ILjava/lang/Object;Ljava/util/Comparator;)Lorg/assertj/core/error/ErrorMessageFactory;,56,1
+org/assertj/core/error/ShouldBeSorted.shouldHaveMutuallyComparableElements,(Ljava/lang/Object;)Lorg/assertj/core/error/ErrorMessageFactory;,15,1
+org/assertj/core/error/ShouldBeSorted.shouldHaveComparableElementsAccordingToGivenComparator,(Ljava/lang/Object;Ljava/util/Comparator;)Lorg/assertj/core/error/ErrorMessageFactory;,23,1
+org/assertj/core/error/ShouldBeSorted.groupAsList,(Ljava/lang/Object;)Ljava/util/List;,50,3

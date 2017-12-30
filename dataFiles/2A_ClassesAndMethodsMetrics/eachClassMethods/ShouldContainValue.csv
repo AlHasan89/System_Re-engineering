@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldContainValue.shouldContainValue,(Ljava/lang/Object;Ljava/lang/Object;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldContainValue.shouldContainValue,(Ljava/lang/Object;Lorg/assertj/core/api/Condition;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldContainValue.ShouldContainValue,(Ljava/lang/Object;Ljava/lang/Object;)V,20,1
+org/assertj/core/error/ShouldContainValue.ShouldContainValue,(Ljava/lang/Object;Lorg/assertj/core/api/Condition;)V,20,1

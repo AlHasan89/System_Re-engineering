@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/introspection/Introspection.getPropertyGetter,(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/reflect/Method;,59,3
+org/assertj/core/util/introspection/Introspection.propertyNotFoundErrorMessage,(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/String;,76,3
+org/assertj/core/util/introspection/Introspection.findGetter,(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/reflect/Method;,53,2
+org/assertj/core/util/introspection/Introspection.findMethod,(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/reflect/Method;,51,3
+org/assertj/core/util/introspection/Introspection.Introspection,()V,9,1

@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/CharSequenceAssert.CharSequenceAssert,(Ljava/lang/CharSequence;)V,11,1

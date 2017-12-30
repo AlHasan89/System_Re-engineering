@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/diff/myers/MyersDiff.MyersDiff,()V,17,1
+org/assertj/core/util/diff/myers/MyersDiff.diff,(Ljava/util/List;Ljava/util/List;)Lorg/assertj/core/util/diff/Patch;,62,4
+org/assertj/core/util/diff/myers/MyersDiff.buildPath,(Ljava/util/List;Ljava/util/List;)Lorg/assertj/core/util/diff/myers/PathNode;,283,14
+org/assertj/core/util/diff/myers/MyersDiff.equals,(Ljava/lang/Object;Ljava/lang/Object;)Z,10,1
+org/assertj/core/util/diff/myers/MyersDiff.buildRevision,(Lorg/assertj/core/util/diff/myers/PathNode;Ljava/util/List;Ljava/util/List;)Lorg/assertj/core/util/diff/Patch;,210,14
+org/assertj/core/util/diff/myers/MyersDiff.copyOfRange,(Ljava/util/List;II)Ljava/util/List;,12,1

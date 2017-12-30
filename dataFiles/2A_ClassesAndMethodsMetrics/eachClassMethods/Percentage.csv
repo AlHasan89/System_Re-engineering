@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/data/Percentage.withPercentage,(D)Lorg/assertj/core/data/Percentage;,37,2
+org/assertj/core/data/Percentage.Percentage,(D)V,14,1
+org/assertj/core/data/Percentage.equals,(Ljava/lang/Object;)Z,42,4
+org/assertj/core/data/Percentage.hashCode,()I,21,1
+org/assertj/core/data/Percentage.toString,()Ljava/lang/String;,34,2
+org/assertj/core/data/Percentage.noFractionalPart,()Z,17,2

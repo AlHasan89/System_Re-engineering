@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/Strings$StringsToJoin.Strings$StringsToJoin,([Ljava/lang/String;)V,14,1
+org/assertj/core/util/Strings$StringsToJoin.with,(Ljava/lang/String;)Ljava/lang/String;,9,1
+org/assertj/core/util/Strings$StringsToJoin.with,(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;,116,7

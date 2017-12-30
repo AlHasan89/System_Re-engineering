@@ -1,0 +1,14 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/NumberAssert.isZero,()Lorg/assertj/core/api/NumberAssert;,2,1
+org/assertj/core/api/NumberAssert.isNotZero,()Lorg/assertj/core/api/NumberAssert;,2,1
+org/assertj/core/api/NumberAssert.isOne,()Lorg/assertj/core/api/NumberAssert;,2,1
+org/assertj/core/api/NumberAssert.isPositive,()Lorg/assertj/core/api/NumberAssert;,2,1
+org/assertj/core/api/NumberAssert.isNegative,()Lorg/assertj/core/api/NumberAssert;,2,1
+org/assertj/core/api/NumberAssert.isNotNegative,()Lorg/assertj/core/api/NumberAssert;,2,1
+org/assertj/core/api/NumberAssert.isNotPositive,()Lorg/assertj/core/api/NumberAssert;,2,1
+org/assertj/core/api/NumberAssert.isBetween,(Ljava/lang/Number;Ljava/lang/Number;)Lorg/assertj/core/api/NumberAssert;,2,1
+org/assertj/core/api/NumberAssert.isStrictlyBetween,(Ljava/lang/Number;Ljava/lang/Number;)Lorg/assertj/core/api/NumberAssert;,2,1
+org/assertj/core/api/NumberAssert.isCloseTo,(Ljava/lang/Number;Lorg/assertj/core/data/Offset;)Lorg/assertj/core/api/NumberAssert;,2,1
+org/assertj/core/api/NumberAssert.isNotCloseTo,(Ljava/lang/Number;Lorg/assertj/core/data/Offset;)Lorg/assertj/core/api/NumberAssert;,2,1
+org/assertj/core/api/NumberAssert.isCloseTo,(Ljava/lang/Number;Lorg/assertj/core/data/Percentage;)Lorg/assertj/core/api/NumberAssert;,2,1
+org/assertj/core/api/NumberAssert.isNotCloseTo,(Ljava/lang/Number;Lorg/assertj/core/data/Percentage;)Lorg/assertj/core/api/NumberAssert;,2,1

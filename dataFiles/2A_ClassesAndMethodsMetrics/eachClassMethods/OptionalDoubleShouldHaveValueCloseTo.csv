@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/OptionalDoubleShouldHaveValueCloseTo.OptionalDoubleShouldHaveValueCloseTo,(Ljava/util/OptionalDouble;DLorg/assertj/core/data/Offset;D)V,38,1
+org/assertj/core/error/OptionalDoubleShouldHaveValueCloseTo.OptionalDoubleShouldHaveValueCloseTo,(D)V,17,1
+org/assertj/core/error/OptionalDoubleShouldHaveValueCloseTo.shouldHaveValueCloseTo,(Ljava/util/OptionalDouble;DLorg/assertj/core/data/Offset;D)Lorg/assertj/core/error/OptionalDoubleShouldHaveValueCloseTo;,12,1
+org/assertj/core/error/OptionalDoubleShouldHaveValueCloseTo.shouldHaveValueCloseTo,(D)Lorg/assertj/core/error/OptionalDoubleShouldHaveValueCloseTo;,9,1

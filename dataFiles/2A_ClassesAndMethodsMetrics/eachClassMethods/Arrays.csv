@@ -1,0 +1,15 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/Arrays.isArray,(Ljava/lang/Object;)Z,16,3
+org/assertj/core/util/Arrays.isNullOrEmpty,([Ljava/lang/Object;)Z,15,3
+org/assertj/core/util/Arrays.array,([Ljava/lang/Object;)[Ljava/lang/Object;,6,1
+org/assertj/core/util/Arrays.array,(Ljava/util/concurrent/atomic/AtomicIntegerArray;)[I,43,3
+org/assertj/core/util/Arrays.array,(Ljava/util/concurrent/atomic/AtomicLongArray;)[J,43,3
+org/assertj/core/util/Arrays.array,(Ljava/util/concurrent/atomic/AtomicReferenceArray;)[Ljava/lang/Object;,59,4
+org/assertj/core/util/Arrays.nonNullElementsIn,([Ljava/lang/Object;)Ljava/util/List;,52,4
+org/assertj/core/util/Arrays.hasOnlyNullElements,([Ljava/lang/Object;)Z,50,4
+org/assertj/core/util/Arrays.isEmpty,([Ljava/lang/Object;)Z,13,2
+org/assertj/core/util/Arrays.isObjectArray,(Ljava/lang/Object;)Z,16,3
+org/assertj/core/util/Arrays.isArrayTypePrimitive,(Ljava/lang/Object;)Z,17,3
+org/assertj/core/util/Arrays.notAnArrayOfPrimitives,(Ljava/lang/Object;)Ljava/lang/IllegalArgumentException;,16,1
+org/assertj/core/util/Arrays.prepend,(Ljava/lang/Object;[Ljava/lang/Object;)[Ljava/lang/Object;,29,1
+org/assertj/core/util/Arrays.Arrays,()V,7,1

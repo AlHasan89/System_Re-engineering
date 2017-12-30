@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldHaveRootCauseExactlyInstance.shouldHaveRootCauseExactlyInstance,(Ljava/lang/Throwable;Ljava/lang/Class;)Lorg/assertj/core/error/ErrorMessageFactory;,24,2
+org/assertj/core/error/ShouldHaveRootCauseExactlyInstance.ShouldHaveRootCauseExactlyInstance,(Ljava/lang/Throwable;Ljava/lang/Class;)V,25,1
+org/assertj/core/error/ShouldHaveRootCauseExactlyInstance.ShouldHaveRootCauseExactlyInstance,(Ljava/lang/Class;)V,20,1
