@@ -1,0 +1,15 @@
+dependenceAnalysis/analysis/DataFlowAnalysis.class
+fileComparison/DuplicateDetector.class
+structuralAnalysis/ClassDiagramSolution.class
+dependenceAnalysis/analysis/ControlDependenceTree.class
+dependenceAnalysis/util/cfg/CFGExtractor$1.class
+fileComparison/FileComparator.class
+dependenceAnalysis/analysis/PostDominatorTree.class
+ClassMetrics.class
+structuralAnalysis/ClassDiagram.class
+dependenceAnalysis/util/cfg/CFGExtractor.class
+dependenceAnalysis/util/cfg/Node.class
+fileComparison/TablePrinter.class
+dependenceAnalysis/analysis/Analysis.class
+dependenceAnalysis/analysis/ProgramDependenceGraph.class
+dependenceAnalysis/util/cfg/Graph.class

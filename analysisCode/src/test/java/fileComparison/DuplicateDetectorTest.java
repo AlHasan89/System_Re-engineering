@@ -14,7 +14,7 @@ public class DuplicateDetectorTest {
      *  Change the following variable to point to the root directory containing any source files or sub-directories
      *  with source files.
      */
-    String srcRootDirectory = "src";
+    String srcRootDirectory = "../assertj-core/src";
 
     @Test
     public void DuplicateTestOnSelf(){
@@ -22,7 +22,7 @@ public class DuplicateDetectorTest {
         DuplicateDetector dd = new DuplicateDetector(root,"java");
         double[][] scores = dd.fileComparison(true);
         try {
-            TablePrinter.printRelations(scores,new File("outputs/fileComparison.csv"),dd.files);
+            TablePrinter.printRelations(scores,new File("../dataFiles/3C_CodeDuplication/1- AllClasses/fileComparison.csv"),dd.files);
         } catch (IOException e) {
             e.printStackTrace();
         }

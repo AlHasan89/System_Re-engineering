@@ -11,7 +11,7 @@ import java.io.IOException;
  */
 public class ClassDiagramSolutionTest {
 
-    File dotFile = new File("outputs"+File.separator+"classDiagram.dot");
+    File dotFile = new File("../dataFiles/3B_ClassDiagram/1- AllClasses"+File.separator+"classDiagram.dot");
 
     /**
      * If a CSVFile exists from a previous test, delete it.
@@ -33,7 +33,7 @@ public class ClassDiagramSolutionTest {
 
     @Test
     public void ClassDiagramTest() throws IOException {
-        ClassDiagramSolution testSubject = new ClassDiagramSolution("target/classes", false);
+        ClassDiagramSolution testSubject = new ClassDiagramSolution("../assertj-core/target/classes/", false);
         testSubject.writeDot(dotFile);
     }
 

@@ -192,7 +192,9 @@ public class ProgramDependenceGraph extends Analysis {
             Collection<Node> slice = backwardSlice(n);
             inAllSlices.retainAll(slice);
         }
-        return (double)inAllSlices.size();
+       
+        double Tightness = (double)inAllSlices.size() /  controlFlowGraph.getNodes().size();
+        return Tightness;
     }
 
     /**
