@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AtomicBooleanAssert.AtomicBooleanAssert,(Ljava/util/concurrent/atomic/AtomicBoolean;)V,16,1
+org/assertj/core/api/AtomicBooleanAssert.isTrue,()Lorg/assertj/core/api/AtomicBooleanAssert;,18,1
+org/assertj/core/api/AtomicBooleanAssert.isFalse,()Lorg/assertj/core/api/AtomicBooleanAssert;,18,1
+org/assertj/core/api/AtomicBooleanAssert.usingComparator,(Ljava/util/Comparator;)Lorg/assertj/core/api/AtomicBooleanAssert;,9,1
+org/assertj/core/api/AtomicBooleanAssert.assertEqual,(Z)V,29,2
+org/assertj/core/api/AtomicBooleanAssert.usingComparator,(Ljava/util/Comparator;)Lorg/assertj/core/api/AbstractAssert;,9,1

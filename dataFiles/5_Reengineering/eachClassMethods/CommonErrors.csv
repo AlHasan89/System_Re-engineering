@@ -1,0 +1,8 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/CommonErrors.arrayOfValuesToLookForIsNull,()Ljava/lang/NullPointerException;,9,1
+org/assertj/core/internal/CommonErrors.iterableToLookForIsNull,()Ljava/lang/NullPointerException;,9,1
+org/assertj/core/internal/CommonErrors.iterableOfValuesToLookForIsNull,()Ljava/lang/NullPointerException;,9,1
+org/assertj/core/internal/CommonErrors.arrayOfValuesToLookForIsEmpty,()Ljava/lang/IllegalArgumentException;,9,1
+org/assertj/core/internal/CommonErrors.iterableOfValuesToLookForIsEmpty,()Ljava/lang/IllegalArgumentException;,9,1
+org/assertj/core/internal/CommonErrors.wrongElementTypeForFlatExtracting,(Ljava/lang/Object;)V,21,1
+org/assertj/core/internal/CommonErrors.CommonErrors,()V,7,1

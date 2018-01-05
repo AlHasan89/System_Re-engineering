@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/SoftAssertionClassAssert.SoftAssertionClassAssert,(Ljava/lang/Class;)V,11,1

@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/Hexadecimals.<clinit>,()V,8,1
+org/assertj/core/util/Hexadecimals.byteToHexString,(Ljava/lang/Byte;)Ljava/lang/String;,33,1
+org/assertj/core/util/Hexadecimals.Hexadecimals,()V,9,1

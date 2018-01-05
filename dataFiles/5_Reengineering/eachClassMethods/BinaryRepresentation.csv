@@ -1,0 +1,15 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/presentation/BinaryRepresentation.<clinit>,()V,11,1
+org/assertj/core/presentation/BinaryRepresentation.BinaryRepresentation,()V,7,1
+org/assertj/core/presentation/BinaryRepresentation.toStringOf,(Ljava/lang/Object;)Ljava/lang/String;,53,5
+org/assertj/core/presentation/BinaryRepresentation.toStringOf,(Lorg/assertj/core/presentation/Representation;Ljava/lang/String;)Ljava/lang/String;,23,1
+org/assertj/core/presentation/BinaryRepresentation.toStringOf,(Ljava/lang/Number;)Ljava/lang/String;,81,8
+org/assertj/core/presentation/BinaryRepresentation.toStringOf,(Ljava/lang/Byte;)Ljava/lang/String;,12,1
+org/assertj/core/presentation/BinaryRepresentation.toStringOf,(Ljava/lang/Short;)Ljava/lang/String;,12,1
+org/assertj/core/presentation/BinaryRepresentation.toStringOf,(Ljava/lang/Integer;)Ljava/lang/String;,10,1
+org/assertj/core/presentation/BinaryRepresentation.toStringOf,(Ljava/lang/Long;)Ljava/lang/String;,10,1
+org/assertj/core/presentation/BinaryRepresentation.toStringOf,(Ljava/lang/Float;)Ljava/lang/String;,11,1
+org/assertj/core/presentation/BinaryRepresentation.toStringOf,(Ljava/lang/Double;)Ljava/lang/String;,11,1
+org/assertj/core/presentation/BinaryRepresentation.toStringOf,(Ljava/lang/Character;)Ljava/lang/String;,25,1
+org/assertj/core/presentation/BinaryRepresentation.toGroupedBinary,(Ljava/lang/String;I)Ljava/lang/String;,15,1
+org/assertj/core/presentation/BinaryRepresentation.toBinary,(Ljava/lang/String;I)Ljava/lang/String;,24,1

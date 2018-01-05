@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldNotContainPattern.shouldNotContainPattern,(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldNotContainPattern.ShouldNotContainPattern,(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)V,22,1

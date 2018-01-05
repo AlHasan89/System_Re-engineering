@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/uri/ShouldHaveHost.shouldHaveHost,(Ljava/net/URI;Ljava/lang/String;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/uri/ShouldHaveHost.ShouldHaveHost,(Ljava/net/URI;Ljava/lang/String;)V,25,1
+org/assertj/core/error/uri/ShouldHaveHost.shouldHaveHost,(Ljava/net/URL;Ljava/lang/String;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/uri/ShouldHaveHost.ShouldHaveHost,(Ljava/net/URL;Ljava/lang/String;)V,25,1

@@ -1,0 +1,8 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractBooleanAssert.AbstractBooleanAssert,(Ljava/lang/Boolean;Ljava/lang/Class;)V,16,1
+org/assertj/core/api/AbstractBooleanAssert.isTrue,()Lorg/assertj/core/api/AbstractBooleanAssert;,8,1
+org/assertj/core/api/AbstractBooleanAssert.isFalse,()Lorg/assertj/core/api/AbstractBooleanAssert;,8,1
+org/assertj/core/api/AbstractBooleanAssert.isEqualTo,(Z)Lorg/assertj/core/api/AbstractBooleanAssert;,19,1
+org/assertj/core/api/AbstractBooleanAssert.isNotEqualTo,(Z)Lorg/assertj/core/api/AbstractBooleanAssert;,19,1
+org/assertj/core/api/AbstractBooleanAssert.usingComparator,(Ljava/util/Comparator;)Lorg/assertj/core/api/AbstractBooleanAssert;,9,1
+org/assertj/core/api/AbstractBooleanAssert.usingComparator,(Ljava/util/Comparator;)Lorg/assertj/core/api/AbstractAssert;,9,1

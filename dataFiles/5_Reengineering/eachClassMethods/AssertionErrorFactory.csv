@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/AssertionErrorFactory.newAssertionError,(Lorg/assertj/core/description/Description;Lorg/assertj/core/presentation/Representation;)Ljava/lang/AssertionError;,2,1

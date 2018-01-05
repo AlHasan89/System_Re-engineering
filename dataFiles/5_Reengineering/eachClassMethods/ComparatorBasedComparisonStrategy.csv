@@ -1,0 +1,16 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/ComparatorBasedComparisonStrategy.ComparatorBasedComparisonStrategy,(Ljava/util/Comparator;)V,14,1
+org/assertj/core/internal/ComparatorBasedComparisonStrategy.iterableContains,(Ljava/lang/Iterable;Ljava/lang/Object;)Z,57,7
+org/assertj/core/internal/ComparatorBasedComparisonStrategy.iterableRemoves,(Ljava/lang/Iterable;Ljava/lang/Object;)V,39,4
+org/assertj/core/internal/ComparatorBasedComparisonStrategy.iterablesRemoveFirst,(Ljava/lang/Iterable;Ljava/lang/Object;)V,42,4
+org/assertj/core/internal/ComparatorBasedComparisonStrategy.areEqual,(Ljava/lang/Object;Ljava/lang/Object;)Z,36,5
+org/assertj/core/internal/ComparatorBasedComparisonStrategy.duplicatesFrom,(Ljava/lang/Iterable;)Ljava/lang/Iterable;,8,1
+org/assertj/core/internal/ComparatorBasedComparisonStrategy.newSetUsingComparisonStrategy,()Ljava/util/Set;,10,1
+org/assertj/core/internal/ComparatorBasedComparisonStrategy.asText,()Ljava/lang/String;,16,1
+org/assertj/core/internal/ComparatorBasedComparisonStrategy.toString,()Ljava/lang/String;,10,1
+org/assertj/core/internal/ComparatorBasedComparisonStrategy.getComparator,()Ljava/util/Comparator;,7,1
+org/assertj/core/internal/ComparatorBasedComparisonStrategy.stringStartsWith,(Ljava/lang/String;Ljava/lang/String;)Z,34,3
+org/assertj/core/internal/ComparatorBasedComparisonStrategy.stringEndsWith,(Ljava/lang/String;Ljava/lang/String;)Z,36,3
+org/assertj/core/internal/ComparatorBasedComparisonStrategy.stringContains,(Ljava/lang/String;Ljava/lang/String;)Z,52,4
+org/assertj/core/internal/ComparatorBasedComparisonStrategy.isGreaterThan,(Ljava/lang/Object;Ljava/lang/Object;)Z,16,2
+org/assertj/core/internal/ComparatorBasedComparisonStrategy.isStandard,()Z,6,1

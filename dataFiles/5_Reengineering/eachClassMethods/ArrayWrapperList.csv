@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/ArrayWrapperList.wrap,(Ljava/lang/Object;)Lorg/assertj/core/util/ArrayWrapperList;,27,2
+org/assertj/core/util/ArrayWrapperList.ArrayWrapperList,(Ljava/lang/Object;)V,14,1
+org/assertj/core/util/ArrayWrapperList.get,(I)Ljava/lang/Object;,14,1
+org/assertj/core/util/ArrayWrapperList.checkIsInRange,(I)V,45,3
+org/assertj/core/util/ArrayWrapperList.size,()I,8,1
+org/assertj/core/util/ArrayWrapperList.getComponentType,()Ljava/lang/Class;,9,1

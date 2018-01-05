@@ -1,0 +1,8 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractEnumerableAssert.hasSameSizeAs,(Ljava/lang/Object;)Lorg/assertj/core/api/AbstractEnumerableAssert;,25,1
+org/assertj/core/api/AbstractEnumerableAssert.AbstractEnumerableAssert,(Ljava/lang/Object;Ljava/lang/Class;)V,11,1
+org/assertj/core/api/AbstractEnumerableAssert.inHexadecimal,()Lorg/assertj/core/api/AbstractEnumerableAssert;,8,1
+org/assertj/core/api/AbstractEnumerableAssert.inBinary,()Lorg/assertj/core/api/AbstractEnumerableAssert;,8,1
+org/assertj/core/api/AbstractEnumerableAssert.inBinary,()Lorg/assertj/core/api/AbstractAssert;,7,1
+org/assertj/core/api/AbstractEnumerableAssert.hasSameSizeAs,(Ljava/lang/Object;)Lorg/assertj/core/api/EnumerableAssert;,8,1
+org/assertj/core/api/AbstractEnumerableAssert.inHexadecimal,()Lorg/assertj/core/api/AbstractAssert;,7,1

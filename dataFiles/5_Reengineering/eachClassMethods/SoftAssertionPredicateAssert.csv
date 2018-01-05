@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/SoftAssertionPredicateAssert.SoftAssertionPredicateAssert,(Ljava/util/function/Predicate;)V,11,1

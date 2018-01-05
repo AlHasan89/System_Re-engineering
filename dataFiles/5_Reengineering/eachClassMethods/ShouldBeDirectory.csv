@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeDirectory.shouldBeDirectory,(Ljava/nio/file/Path;)Lorg/assertj/core/error/ErrorMessageFactory;,9,1
+org/assertj/core/error/ShouldBeDirectory.shouldBeDirectory,(Ljava/io/File;)Lorg/assertj/core/error/ErrorMessageFactory;,9,1
+org/assertj/core/error/ShouldBeDirectory.ShouldBeDirectory,(Ljava/nio/file/Path;)V,16,1
+org/assertj/core/error/ShouldBeDirectory.ShouldBeDirectory,(Ljava/io/File;)V,16,1

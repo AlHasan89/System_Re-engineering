@@ -1,0 +1,8 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/FloatingPointNumberAssert.isEqualTo,(Ljava/lang/Number;Lorg/assertj/core/data/Offset;)Lorg/assertj/core/api/FloatingPointNumberAssert;,2,1
+org/assertj/core/api/FloatingPointNumberAssert.isCloseTo,(Ljava/lang/Number;Lorg/assertj/core/data/Offset;)Lorg/assertj/core/api/FloatingPointNumberAssert;,2,1
+org/assertj/core/api/FloatingPointNumberAssert.isNotCloseTo,(Ljava/lang/Number;Lorg/assertj/core/data/Offset;)Lorg/assertj/core/api/FloatingPointNumberAssert;,2,1
+org/assertj/core/api/FloatingPointNumberAssert.isNaN,()Lorg/assertj/core/api/FloatingPointNumberAssert;,2,1
+org/assertj/core/api/FloatingPointNumberAssert.isNotNaN,()Lorg/assertj/core/api/FloatingPointNumberAssert;,2,1
+org/assertj/core/api/FloatingPointNumberAssert.isNotCloseTo,(Ljava/lang/Number;Lorg/assertj/core/data/Offset;)Lorg/assertj/core/api/NumberAssert;,11,1
+org/assertj/core/api/FloatingPointNumberAssert.isCloseTo,(Ljava/lang/Number;Lorg/assertj/core/data/Offset;)Lorg/assertj/core/api/NumberAssert;,11,1

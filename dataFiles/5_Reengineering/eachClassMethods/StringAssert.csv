@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/StringAssert.StringAssert,(Ljava/lang/String;)V,11,1

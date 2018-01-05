@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/OptionalShouldBeEmpty.OptionalShouldBeEmpty,(Ljava/lang/Class;Ljava/lang/Object;)V,25,1
+org/assertj/core/error/OptionalShouldBeEmpty.shouldBeEmpty,(Ljava/util/Optional;)Lorg/assertj/core/error/OptionalShouldBeEmpty;,12,1
+org/assertj/core/error/OptionalShouldBeEmpty.shouldBeEmpty,(Ljava/util/OptionalDouble;)Lorg/assertj/core/error/OptionalShouldBeEmpty;,13,1
+org/assertj/core/error/OptionalShouldBeEmpty.shouldBeEmpty,(Ljava/util/OptionalInt;)Lorg/assertj/core/error/OptionalShouldBeEmpty;,13,1
+org/assertj/core/error/OptionalShouldBeEmpty.shouldBeEmpty,(Ljava/util/OptionalLong;)Lorg/assertj/core/error/OptionalShouldBeEmpty;,13,1

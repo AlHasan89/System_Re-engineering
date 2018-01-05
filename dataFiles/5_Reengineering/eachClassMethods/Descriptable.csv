@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/Descriptable.as,(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;,2,1
+org/assertj/core/api/Descriptable.as,(Lorg/assertj/core/description/Description;)Ljava/lang/Object;,2,1
+org/assertj/core/api/Descriptable.describedAs,(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;,2,1
+org/assertj/core/api/Descriptable.describedAs,(Lorg/assertj/core/description/Description;)Ljava/lang/Object;,2,1

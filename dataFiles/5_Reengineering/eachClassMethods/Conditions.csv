@@ -1,0 +1,10 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/Conditions.<clinit>,()V,9,1
+org/assertj/core/internal/Conditions.instance,()Lorg/assertj/core/internal/Conditions;,6,1
+org/assertj/core/internal/Conditions.Conditions,()V,14,1
+org/assertj/core/internal/Conditions.assertIs,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Object;Lorg/assertj/core/api/Condition;)V,25,2
+org/assertj/core/internal/Conditions.assertIsNot,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Object;Lorg/assertj/core/api/Condition;)V,25,2
+org/assertj/core/internal/Conditions.assertHas,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Object;Lorg/assertj/core/api/Condition;)V,25,2
+org/assertj/core/internal/Conditions.assertDoesNotHave,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Object;Lorg/assertj/core/api/Condition;)V,25,2
+org/assertj/core/internal/Conditions.assertIsNotNull,(Lorg/assertj/core/api/Condition;)V,13,1
+org/assertj/core/internal/Conditions.assertIsNotNull,(Lorg/assertj/core/api/Condition;Ljava/lang/String;[Ljava/lang/Object;)V,13,1

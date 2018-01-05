@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeEqualByComparingOnlyGivenFields.shouldBeEqualComparingOnlyGivenFields,(Ljava/lang/Object;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;)Lorg/assertj/core/error/ErrorMessageFactory;,46,2
+org/assertj/core/error/ShouldBeEqualByComparingOnlyGivenFields.ShouldBeEqualByComparingOnlyGivenFields,(Ljava/lang/Object;Ljava/util/List;Ljava/util/List;Ljava/util/List;Ljava/util/List;)V,34,1
+org/assertj/core/error/ShouldBeEqualByComparingOnlyGivenFields.ShouldBeEqualByComparingOnlyGivenFields,(Ljava/lang/Object;Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;Ljava/util/List;)V,34,1

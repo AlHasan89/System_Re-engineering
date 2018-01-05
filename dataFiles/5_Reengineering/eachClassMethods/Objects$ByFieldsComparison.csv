@@ -1,0 +1,8 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/Objects$ByFieldsComparison.Objects$ByFieldsComparison,(Ljava/util/List;Ljava/util/List;Ljava/util/List;)V,24,1
+org/assertj/core/internal/Objects$ByFieldsComparison.Objects$ByFieldsComparison,()V,18,1
+org/assertj/core/internal/Objects$ByFieldsComparison.isFieldsNamesEmpty,()Z,8,1
+org/assertj/core/internal/Objects$ByFieldsComparison.isFieldsNamesNotEmpty,()Z,15,2
+org/assertj/core/internal/Objects$ByFieldsComparison.access$0,(Lorg/assertj/core/internal/Objects$ByFieldsComparison;)Ljava/util/List;,7,1
+org/assertj/core/internal/Objects$ByFieldsComparison.access$1,(Lorg/assertj/core/internal/Objects$ByFieldsComparison;)Ljava/util/List;,7,1
+org/assertj/core/internal/Objects$ByFieldsComparison.access$2,(Lorg/assertj/core/internal/Objects$ByFieldsComparison;)Ljava/util/List;,7,1

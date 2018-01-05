@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldHaveSuppressedException.shouldHaveSuppressedException,(Ljava/lang/Throwable;Ljava/lang/Throwable;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldHaveSuppressedException.ShouldHaveSuppressedException,(Ljava/lang/Throwable;Ljava/lang/Throwable;)V,36,1

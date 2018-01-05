@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldExist.shouldExist,(Ljava/io/File;)Lorg/assertj/core/error/ErrorMessageFactory;,9,1
+org/assertj/core/error/ShouldExist.shouldExist,(Ljava/nio/file/Path;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldExist.shouldExistNoFollowLinks,(Ljava/nio/file/Path;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldExist.ShouldExist,(Ljava/io/File;)V,16,1
+org/assertj/core/error/ShouldExist.ShouldExist,(Ljava/nio/file/Path;Z)V,24,2

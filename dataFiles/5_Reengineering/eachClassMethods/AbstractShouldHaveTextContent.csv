@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/AbstractShouldHaveTextContent.AbstractShouldHaveTextContent,(Ljava/lang/String;[Ljava/lang/Object;)V,11,1
+org/assertj/core/error/AbstractShouldHaveTextContent.create,(Lorg/assertj/core/description/Description;Lorg/assertj/core/presentation/Representation;)Ljava/lang/String;,17,1
+org/assertj/core/error/AbstractShouldHaveTextContent.diffsAsString,(Ljava/util/List;)Ljava/lang/String;,39,2

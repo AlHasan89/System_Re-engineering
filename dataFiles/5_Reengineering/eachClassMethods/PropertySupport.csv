@@ -1,0 +1,14 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/introspection/PropertySupport.<clinit>,()V,9,1
+org/assertj/core/util/introspection/PropertySupport.instance,()Lorg/assertj/core/util/introspection/PropertySupport;,6,1
+org/assertj/core/util/introspection/PropertySupport.PropertySupport,()V,9,1
+org/assertj/core/util/introspection/PropertySupport.propertyValues,(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Iterable;)Ljava/util/List;,51,3
+org/assertj/core/util/introspection/PropertySupport.propertyValueOf,(Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Class;)Ljava/lang/Object;,10,1
+org/assertj/core/util/introspection/PropertySupport.simplePropertyValues,(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Iterable;)Ljava/util/List;,48,3
+org/assertj/core/util/introspection/PropertySupport.popPropertyNameFrom,(Ljava/lang/String;)Ljava/lang/String;,22,2
+org/assertj/core/util/introspection/PropertySupport.nextPropertyNameFrom,(Ljava/lang/String;)Ljava/lang/String;,23,2
+org/assertj/core/util/introspection/PropertySupport.isNestedProperty,(Ljava/lang/String;)Z,22,4
+org/assertj/core/util/introspection/PropertySupport.propertyValue,(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;,79,2
+org/assertj/core/util/introspection/PropertySupport.propertyValueOf,(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;,63,4
+org/assertj/core/util/introspection/PropertySupport.propertyValues,(Ljava/lang/String;Ljava/lang/Iterable;)Ljava/util/List;,10,1
+org/assertj/core/util/introspection/PropertySupport.publicGetterExistsFor,(Ljava/lang/String;Ljava/lang/Object;)Z,23,2

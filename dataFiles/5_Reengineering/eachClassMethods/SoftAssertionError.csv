@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/SoftAssertionError.<clinit>,()V,7,1
+org/assertj/core/api/SoftAssertionError.SoftAssertionError,(Ljava/util/List;)V,16,1
+org/assertj/core/api/SoftAssertionError.createMessage,(Ljava/util/List;)Ljava/lang/String;,87,3
+org/assertj/core/api/SoftAssertionError.getErrors,()Ljava/util/List;,7,1

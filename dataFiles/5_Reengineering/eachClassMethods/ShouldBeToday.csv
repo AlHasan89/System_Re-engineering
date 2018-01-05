@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeToday.shouldBeToday,(Ljava/util/Date;Lorg/assertj/core/internal/ComparisonStrategy;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldBeToday.shouldBeToday,(Ljava/time/LocalDate;)Lorg/assertj/core/error/ErrorMessageFactory;,9,1
+org/assertj/core/error/ShouldBeToday.shouldBeToday,(Ljava/util/Date;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldBeToday.ShouldBeToday,(Ljava/util/Date;Lorg/assertj/core/internal/ComparisonStrategy;)V,20,1
+org/assertj/core/error/ShouldBeToday.ShouldBeToday,(Ljava/time/LocalDate;)V,16,1

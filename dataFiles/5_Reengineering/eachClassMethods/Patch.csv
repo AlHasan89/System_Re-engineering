@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/diff/Patch.Patch,()V,16,1
+org/assertj/core/util/diff/Patch.applyTo,(Ljava/util/List;)Ljava/util/List;,43,2
+org/assertj/core/util/diff/Patch.addDelta,(Lorg/assertj/core/util/diff/Delta;)V,12,1
+org/assertj/core/util/diff/Patch.getDeltas,()Ljava/util/List;,13,1

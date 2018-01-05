@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldContainCharSequenceSequence.shouldContainSequence,(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;I)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldContainCharSequenceSequence.shouldContainSequence,(Ljava/lang/CharSequence;[Ljava/lang/CharSequence;ILorg/assertj/core/internal/ComparisonStrategy;)Lorg/assertj/core/error/ErrorMessageFactory;,28,1
+org/assertj/core/error/ShouldContainCharSequenceSequence.ShouldContainCharSequenceSequence,(Ljava/lang/String;Ljava/lang/CharSequence;[Ljava/lang/CharSequence;Ljava/lang/CharSequence;Ljava/lang/CharSequence;Lorg/assertj/core/internal/ComparisonStrategy;)V,32,1

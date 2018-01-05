@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AtomicReferenceAssert.AtomicReferenceAssert,(Ljava/util/concurrent/atomic/AtomicReference;)V,11,1
+org/assertj/core/api/AtomicReferenceAssert.hasValue,(Ljava/lang/Object;)Lorg/assertj/core/api/AtomicReferenceAssert;,38,2
+org/assertj/core/api/AtomicReferenceAssert.doesNotHaveValue,(Ljava/lang/Object;)Lorg/assertj/core/api/AtomicReferenceAssert;,38,2

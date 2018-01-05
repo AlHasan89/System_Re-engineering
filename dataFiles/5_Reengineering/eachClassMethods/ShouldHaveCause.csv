@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldHaveCause.shouldHaveCause,(Ljava/lang/Throwable;Ljava/lang/Throwable;)Lorg/assertj/core/error/ErrorMessageFactory;,71,5
+org/assertj/core/error/ShouldHaveCause.ShouldHaveCause,(Ljava/lang/Throwable;Ljava/lang/Throwable;)V,38,1
+org/assertj/core/error/ShouldHaveCause.ShouldHaveCause,(Ljava/lang/Throwable;)V,25,1
+org/assertj/core/error/ShouldHaveCause.ShouldHaveCause,(Ljava/lang/Throwable;Ljava/lang/Class;)V,25,1
+org/assertj/core/error/ShouldHaveCause.ShouldHaveCause,(Ljava/lang/Throwable;Ljava/lang/String;)V,23,1

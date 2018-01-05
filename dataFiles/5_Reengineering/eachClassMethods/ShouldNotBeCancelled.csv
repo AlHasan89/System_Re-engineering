@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/future/ShouldNotBeCancelled.shouldNotBeCancelled,(Ljava/util/concurrent/Future;)Lorg/assertj/core/error/ErrorMessageFactory;,9,1
+org/assertj/core/error/future/ShouldNotBeCancelled.ShouldNotBeCancelled,(Ljava/util/concurrent/Future;)V,16,1

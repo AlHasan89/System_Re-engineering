@@ -1,0 +1,8 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/RealNumbers.RealNumbers,()V,9,1
+org/assertj/core/internal/RealNumbers.RealNumbers,(Lorg/assertj/core/internal/ComparisonStrategy;)V,10,1
+org/assertj/core/internal/RealNumbers.assertIsNaN,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Number;)V,13,1
+org/assertj/core/internal/RealNumbers.NaN,()Ljava/lang/Number;,2,1
+org/assertj/core/internal/RealNumbers.assertEqual,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Number;Ljava/lang/Number;Lorg/assertj/core/data/Offset;)V,13,1
+org/assertj/core/internal/RealNumbers.assertIsNotNaN,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Number;)V,13,1
+org/assertj/core/internal/RealNumbers.isGreaterThan,(Ljava/lang/Number;Ljava/lang/Number;)Z,16,2

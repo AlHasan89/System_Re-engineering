@@ -1,0 +1,8 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/Throwables.appendStackTraceInCurrentThreadToThrowable,(Ljava/lang/Throwable;Ljava/lang/String;)V,28,1
+org/assertj/core/util/Throwables.stackTraceInCurrentThread,(Ljava/lang/String;)Ljava/util/List;,58,3
+org/assertj/core/util/Throwables.stackTraceInCurrentThread,()Ljava/util/List;,8,1
+org/assertj/core/util/Throwables.removeAssertJRelatedElementsFromStackTrace,(Ljava/lang/Throwable;)V,94,6
+org/assertj/core/util/Throwables.getRootCause,(Ljava/lang/Throwable;)Ljava/lang/Throwable;,26,3
+org/assertj/core/util/Throwables.getStackTrace,(Ljava/lang/Throwable;)Ljava/lang/String;,75,2
+org/assertj/core/util/Throwables.Throwables,()V,7,1

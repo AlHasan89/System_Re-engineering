@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldNotAccept.shouldNotAccept,(Ljava/util/function/Predicate;Ljava/lang/Object;Lorg/assertj/core/presentation/PredicateDescription;)Lorg/assertj/core/error/ErrorMessageFactory;,17,1
+org/assertj/core/error/ShouldNotAccept.ShouldNotAccept,(Ljava/util/function/Predicate;Ljava/lang/Object;Lorg/assertj/core/presentation/PredicateDescription;)V,20,1

@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ElementsShouldNotHave.elementsShouldNotHave,(Ljava/lang/Object;Ljava/lang/Object;Lorg/assertj/core/api/Condition;)Lorg/assertj/core/error/ErrorMessageFactory;,11,1
+org/assertj/core/error/ElementsShouldNotHave.ElementsShouldNotHave,(Ljava/lang/Object;Ljava/lang/Object;Lorg/assertj/core/api/Condition;)V,24,1

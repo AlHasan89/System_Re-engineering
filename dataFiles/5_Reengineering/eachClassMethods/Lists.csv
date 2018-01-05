@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/Lists.newArrayList,([Ljava/lang/Object;)Ljava/util/ArrayList;,25,2
+org/assertj/core/util/Lists.newArrayList,(Ljava/lang/Iterable;)Ljava/util/ArrayList;,43,3
+org/assertj/core/util/Lists.newArrayList,(Ljava/util/Iterator;)Ljava/util/ArrayList;,36,3
+org/assertj/core/util/Lists.newArrayList,()Ljava/util/ArrayList;,8,1
+org/assertj/core/util/Lists.emptyList,()Ljava/util/List;,6,1
+org/assertj/core/util/Lists.Lists,()V,9,1

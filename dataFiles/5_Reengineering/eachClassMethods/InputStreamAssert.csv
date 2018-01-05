@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/InputStreamAssert.InputStreamAssert,(Ljava/io/InputStream;)V,11,1

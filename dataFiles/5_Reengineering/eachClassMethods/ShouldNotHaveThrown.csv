@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldNotHaveThrown.shouldNotHaveThrown,(Ljava/lang/Throwable;)Lorg/assertj/core/error/ErrorMessageFactory;,9,1
+org/assertj/core/error/ShouldNotHaveThrown.ShouldNotHaveThrown,(Ljava/lang/Throwable;)V,24,1

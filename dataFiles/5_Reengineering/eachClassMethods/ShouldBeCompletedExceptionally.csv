@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/future/ShouldBeCompletedExceptionally.shouldHaveCompletedExceptionally,(Ljava/util/concurrent/CompletableFuture;)Lorg/assertj/core/error/ErrorMessageFactory;,9,1
+org/assertj/core/error/future/ShouldBeCompletedExceptionally.ShouldBeCompletedExceptionally,(Ljava/util/concurrent/CompletableFuture;)V,16,1

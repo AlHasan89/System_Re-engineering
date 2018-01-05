@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AssertionsFacade.AssertionsFacade,()V,7,1

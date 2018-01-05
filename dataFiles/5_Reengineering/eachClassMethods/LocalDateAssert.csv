@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/LocalDateAssert.LocalDateAssert,(Ljava/time/LocalDate;)V,11,1

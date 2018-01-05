@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/condition/Join.Join,([Lorg/assertj/core/api/Condition;)V,55,3
+org/assertj/core/condition/Join.Join,(Ljava/lang/Iterable;)V,49,3
+org/assertj/core/condition/Join.conditionsIsNull,()Ljava/lang/NullPointerException;,9,1
+org/assertj/core/condition/Join.notNull,(Lorg/assertj/core/api/Condition;)Lorg/assertj/core/api/Condition;,9,1
+org/assertj/core/condition/Join.conditions,()Ljava/util/Collection;,8,1

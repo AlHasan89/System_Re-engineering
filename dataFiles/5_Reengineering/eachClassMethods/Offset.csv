@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/data/Offset.offset,(Ljava/lang/Number;)Lorg/assertj/core/data/Offset;,32,2
+org/assertj/core/data/Offset.Offset,(Ljava/lang/Number;)V,14,1
+org/assertj/core/data/Offset.equals,(Ljava/lang/Object;)Z,46,4
+org/assertj/core/data/Offset.hashCode,()I,20,1
+org/assertj/core/data/Offset.toString,()Ljava/lang/String;,20,1

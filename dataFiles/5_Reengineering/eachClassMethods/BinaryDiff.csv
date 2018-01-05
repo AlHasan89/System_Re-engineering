@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/BinaryDiff.BinaryDiff,()V,7,1
+org/assertj/core/internal/BinaryDiff.diff,(Ljava/io/File;[B)Lorg/assertj/core/internal/BinaryDiffResult;,10,1
+org/assertj/core/internal/BinaryDiff.diff,(Ljava/nio/file/Path;[B)Lorg/assertj/core/internal/BinaryDiffResult;,89,6
+org/assertj/core/internal/BinaryDiff.diff,(Ljava/io/InputStream;Ljava/io/InputStream;)Lorg/assertj/core/internal/BinaryDiffResult;,47,4

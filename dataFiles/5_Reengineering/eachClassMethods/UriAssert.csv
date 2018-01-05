@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/UriAssert.UriAssert,(Ljava/net/URI;)V,11,1

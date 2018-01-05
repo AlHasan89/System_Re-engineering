@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldHaveStamp.ShouldHaveStamp,(Ljava/util/concurrent/atomic/AtomicStampedReference;I)V,27,1
+org/assertj/core/error/ShouldHaveStamp.shouldHaveStamp,(Ljava/util/concurrent/atomic/AtomicStampedReference;I)Lorg/assertj/core/error/ErrorMessageFactory;,10,1

@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldHaveFields.shouldHaveFields,(Ljava/lang/Class;Ljava/util/Set;Ljava/util/Set;)Lorg/assertj/core/error/ErrorMessageFactory;,12,1
+org/assertj/core/error/ShouldHaveFields.shouldHaveDeclaredFields,(Ljava/lang/Class;Ljava/util/Set;Ljava/util/Set;)Lorg/assertj/core/error/ErrorMessageFactory;,12,1
+org/assertj/core/error/ShouldHaveFields.ShouldHaveFields,(Ljava/lang/Class;Ljava/util/Set;Ljava/util/Set;Z)V,58,2

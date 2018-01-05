@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ConstructorInvoker.ConstructorInvoker,()V,7,1
+org/assertj/core/error/ConstructorInvoker.newInstance,(Ljava/lang/String;[Ljava/lang/Class;[Ljava/lang/Object;)Ljava/lang/Object;,68,2
+org/assertj/core/error/ConstructorInvoker.setAccessible,(Ljava/lang/reflect/AccessibleObject;Z)V,15,1

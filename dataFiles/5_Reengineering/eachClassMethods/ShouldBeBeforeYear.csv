@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeBeforeYear.shouldBeBeforeYear,(Ljava/util/Date;ILorg/assertj/core/internal/ComparisonStrategy;)Lorg/assertj/core/error/ErrorMessageFactory;,11,1
+org/assertj/core/error/ShouldBeBeforeYear.shouldBeBeforeYear,(Ljava/util/Date;I)Lorg/assertj/core/error/ErrorMessageFactory;,11,1
+org/assertj/core/error/ShouldBeBeforeYear.ShouldBeBeforeYear,(Ljava/util/Date;ILorg/assertj/core/internal/ComparisonStrategy;)V,25,1

@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/presentation/Representation.toStringOf,(Ljava/lang/Object;)Ljava/lang/String;,2,1
+org/assertj/core/presentation/Representation.unambiguousToStringOf,(Ljava/lang/Object;)Ljava/lang/String;,2,1

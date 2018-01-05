@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractInputStreamAssert.AbstractInputStreamAssert,(Ljava/io/InputStream;Ljava/lang/Class;)V,16,1
+org/assertj/core/api/AbstractInputStreamAssert.hasContentEqualTo,(Ljava/io/InputStream;)Lorg/assertj/core/api/AbstractInputStreamAssert;,19,1
+org/assertj/core/api/AbstractInputStreamAssert.hasSameContentAs,(Ljava/io/InputStream;)Lorg/assertj/core/api/AbstractInputStreamAssert;,19,1

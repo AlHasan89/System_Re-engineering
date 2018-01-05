@@ -1,0 +1,19 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractThrowableAssert.AbstractThrowableAssert,(Ljava/lang/Throwable;Ljava/lang/Class;)V,16,1
+org/assertj/core/api/AbstractThrowableAssert.hasBeenThrown,()Lorg/assertj/core/api/AbstractThrowableAssert;,27,2
+org/assertj/core/api/AbstractThrowableAssert.hasMessage,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractThrowableAssert;,19,1
+org/assertj/core/api/AbstractThrowableAssert.hasMessage,(Ljava/lang/String;[Ljava/lang/Object;)Lorg/assertj/core/api/AbstractThrowableAssert;,10,1
+org/assertj/core/api/AbstractThrowableAssert.hasCause,(Ljava/lang/Throwable;)Lorg/assertj/core/api/AbstractThrowableAssert;,19,1
+org/assertj/core/api/AbstractThrowableAssert.hasNoCause,()Lorg/assertj/core/api/AbstractThrowableAssert;,18,1
+org/assertj/core/api/AbstractThrowableAssert.hasMessageStartingWith,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractThrowableAssert;,19,1
+org/assertj/core/api/AbstractThrowableAssert.hasMessageContaining,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractThrowableAssert;,19,1
+org/assertj/core/api/AbstractThrowableAssert.hasStackTraceContaining,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractThrowableAssert;,19,1
+org/assertj/core/api/AbstractThrowableAssert.hasMessageMatching,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractThrowableAssert;,19,1
+org/assertj/core/api/AbstractThrowableAssert.hasMessageEndingWith,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractThrowableAssert;,19,1
+org/assertj/core/api/AbstractThrowableAssert.hasCauseInstanceOf,(Ljava/lang/Class;)Lorg/assertj/core/api/AbstractThrowableAssert;,19,1
+org/assertj/core/api/AbstractThrowableAssert.hasCauseExactlyInstanceOf,(Ljava/lang/Class;)Lorg/assertj/core/api/AbstractThrowableAssert;,19,1
+org/assertj/core/api/AbstractThrowableAssert.hasRootCauseInstanceOf,(Ljava/lang/Class;)Lorg/assertj/core/api/AbstractThrowableAssert;,19,1
+org/assertj/core/api/AbstractThrowableAssert.hasRootCauseExactlyInstanceOf,(Ljava/lang/Class;)Lorg/assertj/core/api/AbstractThrowableAssert;,19,1
+org/assertj/core/api/AbstractThrowableAssert.hasNoSuppressedExceptions,()Lorg/assertj/core/api/AbstractThrowableAssert;,18,1
+org/assertj/core/api/AbstractThrowableAssert.hasSuppressedException,(Ljava/lang/Throwable;)Lorg/assertj/core/api/AbstractThrowableAssert;,19,1
+org/assertj/core/api/AbstractThrowableAssert.doesNotThrowAnyException,()V,20,2

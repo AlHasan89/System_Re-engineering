@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeEqualIgnoringNewLineDifferences.shouldBeEqualIgnoringNewLineDifferences,(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldBeEqualIgnoringNewLineDifferences.ShouldBeEqualIgnoringNewLineDifferences,(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)V,22,1

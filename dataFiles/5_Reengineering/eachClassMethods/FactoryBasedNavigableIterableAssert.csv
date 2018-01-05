@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/FactoryBasedNavigableIterableAssert.FactoryBasedNavigableIterableAssert,(Ljava/lang/Iterable;Ljava/lang/Class;Lorg/assertj/core/api/AssertFactory;)V,16,1
+org/assertj/core/api/FactoryBasedNavigableIterableAssert.toAssert,(Ljava/lang/Object;Ljava/lang/String;)Lorg/assertj/core/api/AbstractAssert;,14,1

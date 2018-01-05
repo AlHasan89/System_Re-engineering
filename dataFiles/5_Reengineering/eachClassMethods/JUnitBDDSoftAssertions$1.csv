@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/JUnitBDDSoftAssertions$1.JUnitBDDSoftAssertions$1,(Lorg/assertj/core/api/JUnitBDDSoftAssertions;Lorg/junit/runners/model/Statement;)V,15,1
+org/assertj/core/api/JUnitBDDSoftAssertions$1.evaluate,()V,16,1

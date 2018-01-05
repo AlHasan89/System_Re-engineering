@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeInSameSecondWindow.shouldBeInSameSecondWindow,(Ljava/util/Date;Ljava/util/Date;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldBeInSameSecondWindow.ShouldBeInSameSecondWindow,(Ljava/util/Date;Ljava/util/Date;)V,34,1

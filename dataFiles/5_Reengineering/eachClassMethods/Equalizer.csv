@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/diff/myers/Equalizer.equals,(Ljava/lang/Object;Ljava/lang/Object;)Z,2,1

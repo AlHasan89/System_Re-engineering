@@ -1,0 +1,10 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/DeepDifference$DualKey.DeepDifference$DualKey,(Ljava/util/List;Ljava/lang/Object;Ljava/lang/Object;)V,24,1
+org/assertj/core/internal/DeepDifference$DualKey.equals,(Ljava/lang/Object;)Z,35,4
+org/assertj/core/internal/DeepDifference$DualKey.hashCode,()I,38,3
+org/assertj/core/internal/DeepDifference$DualKey.toString,()Ljava/lang/String;,20,1
+org/assertj/core/internal/DeepDifference$DualKey.getPath,()Ljava/util/List;,7,1
+org/assertj/core/internal/DeepDifference$DualKey.getConcatenatedPath,()Ljava/lang/String;,10,1
+org/assertj/core/internal/DeepDifference$DualKey.access$0,(Lorg/assertj/core/internal/DeepDifference$DualKey;)Ljava/lang/Object;,7,1
+org/assertj/core/internal/DeepDifference$DualKey.access$1,(Lorg/assertj/core/internal/DeepDifference$DualKey;)Ljava/lang/Object;,7,1
+org/assertj/core/internal/DeepDifference$DualKey.DeepDifference$DualKey,(Ljava/util/List;Ljava/lang/Object;Ljava/lang/Object;Lorg/assertj/core/internal/DeepDifference$DualKey;)V,10,1

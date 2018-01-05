@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldNotBeEqualWithinPercentage.shouldNotBeEqualWithinPercentage,(Ljava/lang/Number;Ljava/lang/Number;Lorg/assertj/core/data/Percentage;Ljava/lang/Number;)Lorg/assertj/core/error/ErrorMessageFactory;,22,1
+org/assertj/core/error/ShouldNotBeEqualWithinPercentage.ShouldNotBeEqualWithinPercentage,(Ljava/lang/Number;Ljava/lang/Number;Lorg/assertj/core/data/Percentage;D)V,35,1

@@ -1,0 +1,23 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/Files.fileNamesIn,(Ljava/lang/String;Z)Ljava/util/List;,28,1
+org/assertj/core/util/Files.fileNamesIn,(Ljava/io/File;Z)Ljava/util/List;,90,6
+org/assertj/core/util/Files.temporaryFolder,()Ljava/io/File;,26,2
+org/assertj/core/util/Files.temporaryFolderPath,()Ljava/lang/String;,10,1
+org/assertj/core/util/Files.newTemporaryFile,()Ljava/io/File;,32,1
+org/assertj/core/util/Files.newTemporaryFolder,()Ljava/io/File;,22,1
+org/assertj/core/util/Files.newFile,(Ljava/lang/String;)Ljava/io/File;,33,3
+org/assertj/core/util/Files.newFolder,(Ljava/lang/String;)Ljava/io/File;,33,3
+org/assertj/core/util/Files.createFileIfPathIsNotANonEmptyDirectory,(Ljava/lang/String;)Ljava/io/File;,29,3
+org/assertj/core/util/Files.cannotCreateNewFile,(Ljava/lang/String;Ljava/lang/String;)Lorg/assertj/core/api/exception/RuntimeIOException;,9,1
+org/assertj/core/util/Files.cannotCreateNewFile,(Ljava/lang/String;Ljava/lang/Exception;)Lorg/assertj/core/api/exception/RuntimeIOException;,9,1
+org/assertj/core/util/Files.cannotCreateNewFile,(Ljava/lang/String;Ljava/lang/String;Ljava/lang/Exception;)Lorg/assertj/core/api/exception/RuntimeIOException;,58,3
+org/assertj/core/util/Files.currentFolder,()Ljava/io/File;,23,2
+org/assertj/core/util/Files.delete,(Ljava/io/File;)V,72,5
+org/assertj/core/util/Files.contentOf,(Ljava/io/File;Ljava/lang/String;)Ljava/lang/String;,13,1
+org/assertj/core/util/Files.contentOf,(Ljava/io/File;Ljava/nio/charset/Charset;)Ljava/lang/String;,34,2
+org/assertj/core/util/Files.loadContents,(Ljava/io/File;Ljava/nio/charset/Charset;)Ljava/lang/String;,93,7
+org/assertj/core/util/Files.linesOf,(Ljava/io/File;Ljava/nio/charset/Charset;)Ljava/util/List;,34,2
+org/assertj/core/util/Files.linesOf,(Ljava/io/File;Ljava/lang/String;)Ljava/util/List;,13,1
+org/assertj/core/util/Files.loadLines,(Ljava/io/File;Ljava/nio/charset/Charset;)Ljava/util/List;,96,7
+org/assertj/core/util/Files.checkArgumentCharsetIsSupported,(Ljava/lang/String;)V,17,1
+org/assertj/core/util/Files.Files,()V,9,1

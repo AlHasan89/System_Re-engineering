@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractOptionalIntAssert.AbstractOptionalIntAssert,(Ljava/util/OptionalInt;Ljava/lang/Class;)V,16,1
+org/assertj/core/api/AbstractOptionalIntAssert.isPresent,()Lorg/assertj/core/api/AbstractOptionalIntAssert;,26,2
+org/assertj/core/api/AbstractOptionalIntAssert.isNotPresent,()Lorg/assertj/core/api/AbstractOptionalIntAssert;,7,1
+org/assertj/core/api/AbstractOptionalIntAssert.isEmpty,()Lorg/assertj/core/api/AbstractOptionalIntAssert;,27,2
+org/assertj/core/api/AbstractOptionalIntAssert.isNotEmpty,()Lorg/assertj/core/api/AbstractOptionalIntAssert;,7,1
+org/assertj/core/api/AbstractOptionalIntAssert.hasValue,(I)Lorg/assertj/core/api/AbstractOptionalIntAssert;,42,3

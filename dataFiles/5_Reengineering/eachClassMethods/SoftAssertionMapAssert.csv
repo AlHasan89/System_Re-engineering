@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/SoftAssertionMapAssert.SoftAssertionMapAssert,(Ljava/util/Map;)V,11,1

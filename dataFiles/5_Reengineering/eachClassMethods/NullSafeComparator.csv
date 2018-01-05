@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/NullSafeComparator.NullSafeComparator,()V,7,1
+org/assertj/core/util/NullSafeComparator.compare,(Ljava/lang/Object;Ljava/lang/Object;)I,31,4
+org/assertj/core/util/NullSafeComparator.compareNonNull,(Ljava/lang/Object;Ljava/lang/Object;)I,2,1

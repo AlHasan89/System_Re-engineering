@@ -1,0 +1,9 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/Characters.<clinit>,()V,9,1
+org/assertj/core/internal/Characters.assertThat,(C)Lorg/assertj/core/api/AbstractCharacterAssert;,10,1
+org/assertj/core/internal/Characters.assertThat,(Ljava/lang/Character;)Lorg/assertj/core/api/AbstractCharacterAssert;,9,1
+org/assertj/core/internal/Characters.instance,()Lorg/assertj/core/internal/Characters;,6,1
+org/assertj/core/internal/Characters.Characters,()V,9,1
+org/assertj/core/internal/Characters.Characters,(Lorg/assertj/core/internal/ComparisonStrategy;)V,10,1
+org/assertj/core/internal/Characters.assertLowerCase,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Character;)V,24,2
+org/assertj/core/internal/Characters.assertUpperCase,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Character;)V,24,2

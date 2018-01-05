@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/introspection/ClassUtils.ClassUtils,()V,7,1
+org/assertj/core/util/introspection/ClassUtils.getAllSuperclasses,(Ljava/lang/Class;)Ljava/util/List;,46,3
+org/assertj/core/util/introspection/ClassUtils.getAllInterfaces,(Ljava/lang/Class;)Ljava/util/List;,27,2
+org/assertj/core/util/introspection/ClassUtils.getAllInterfaces,(Ljava/lang/Class;Ljava/util/HashSet;)V,60,4

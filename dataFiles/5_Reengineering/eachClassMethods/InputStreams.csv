@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/InputStreams.<clinit>,()V,9,1
+org/assertj/core/internal/InputStreams.assertThat,(Ljava/io/InputStream;)Lorg/assertj/core/api/AbstractInputStreamAssert;,9,1
+org/assertj/core/internal/InputStreams.instance,()Lorg/assertj/core/internal/InputStreams;,6,1
+org/assertj/core/internal/InputStreams.InputStreams,()V,21,1
+org/assertj/core/internal/InputStreams.assertSameContentAs,(Lorg/assertj/core/api/AssertionInfo;Ljava/io/InputStream;Ljava/io/InputStream;)V,67,3
+org/assertj/core/internal/InputStreams.assertNotNull,(Lorg/assertj/core/api/AssertionInfo;Ljava/io/InputStream;)V,11,1

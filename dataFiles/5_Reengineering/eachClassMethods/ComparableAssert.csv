@@ -1,0 +1,9 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/ComparableAssert.isEqualByComparingTo,(Ljava/lang/Comparable;)Lorg/assertj/core/api/ComparableAssert;,2,1
+org/assertj/core/api/ComparableAssert.isNotEqualByComparingTo,(Ljava/lang/Comparable;)Lorg/assertj/core/api/ComparableAssert;,2,1
+org/assertj/core/api/ComparableAssert.isLessThan,(Ljava/lang/Comparable;)Lorg/assertj/core/api/ComparableAssert;,2,1
+org/assertj/core/api/ComparableAssert.isLessThanOrEqualTo,(Ljava/lang/Comparable;)Lorg/assertj/core/api/ComparableAssert;,2,1
+org/assertj/core/api/ComparableAssert.isGreaterThan,(Ljava/lang/Comparable;)Lorg/assertj/core/api/ComparableAssert;,2,1
+org/assertj/core/api/ComparableAssert.isGreaterThanOrEqualTo,(Ljava/lang/Comparable;)Lorg/assertj/core/api/ComparableAssert;,2,1
+org/assertj/core/api/ComparableAssert.isBetween,(Ljava/lang/Comparable;Ljava/lang/Comparable;)Lorg/assertj/core/api/ComparableAssert;,2,1
+org/assertj/core/api/ComparableAssert.isStrictlyBetween,(Ljava/lang/Comparable;Ljava/lang/Comparable;)Lorg/assertj/core/api/ComparableAssert;,2,1

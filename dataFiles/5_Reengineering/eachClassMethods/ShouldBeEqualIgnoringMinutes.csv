@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeEqualIgnoringMinutes.shouldBeEqualIgnoringMinutes,(Ljava/lang/Object;Ljava/lang/Object;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldBeEqualIgnoringMinutes.shouldBeEqualIgnoringMinutes,(Ljava/time/LocalTime;Ljava/time/LocalTime;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldBeEqualIgnoringMinutes.shouldBeEqualIgnoringMinutes,(Ljava/time/OffsetTime;Ljava/time/OffsetTime;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldBeEqualIgnoringMinutes.ShouldBeEqualIgnoringMinutes,(Ljava/lang/Object;Ljava/lang/Object;)V,20,1
+org/assertj/core/error/ShouldBeEqualIgnoringMinutes.ShouldBeEqualIgnoringMinutes,(Ljava/time/LocalTime;Ljava/time/LocalTime;)V,20,1
+org/assertj/core/error/ShouldBeEqualIgnoringMinutes.ShouldBeEqualIgnoringMinutes,(Ljava/time/OffsetTime;Ljava/time/OffsetTime;)V,20,1

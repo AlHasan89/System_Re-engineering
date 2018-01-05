@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/ThrowableAssert$ThrowingCallable.call,()V,2,1

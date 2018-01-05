@@ -1,0 +1,183 @@
+org.assertj.core.error.ShouldNotHaveDuplicates_create_Test  ,  setUp  ,  []  ,  1
+org.assertj.core.util.Lists  ,  newArrayList  ,  [class [Ljava.lang.Object;]  ,  2
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  3
+org.assertj.core.util.Lists  ,  newArrayList  ,  [class [Ljava.lang.Object;]  ,  2
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  3
+org.assertj.core.error.ShouldNotHaveDuplicates  ,  shouldNotHaveDuplicates  ,  [class java.lang.Object- class java.lang.Object]  ,  2
+org.assertj.core.internal.StandardComparisonStrategy  ,  instance  ,  []  ,  3
+org.assertj.core.error.DescriptionFormatter  ,  instance  ,  []  ,  3
+org.assertj.core.error.MessageFormatter  ,  instance  ,  []  ,  3
+org.assertj.core.error.ShouldNotHaveDuplicates_create_Test  ,  should_create_error_message  ,  []  ,  1
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  2
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  3
+org.assertj.core.util.Compatibility$System  ,  lineSeparator  ,  []  ,  2
+org.assertj.core.error.BasicErrorMessageFactory  ,  create  ,  [class org.assertj.core.description.Description- interface org.assertj.core.presentation.Representation]  ,  2
+org.assertj.core.error.MessageFormatter  ,  format  ,  [class org.assertj.core.description.Description- interface org.assertj.core.presentation.Representation- class java.lang.String- class [Ljava.lang.Object;]  ,  3
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  4
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  4
+org.assertj.core.error.DescriptionFormatter  ,  format  ,  [class org.assertj.core.description.Description]  ,  4
+org.assertj.core.description.TextDescription  ,  value  ,  []  ,  5
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  6
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  7
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  5
+org.assertj.core.error.MessageFormatter  ,  format  ,  [interface org.assertj.core.presentation.Representation- class [Ljava.lang.Object;]  ,  4
+org.assertj.core.error.MessageFormatter  ,  asText  ,  [interface org.assertj.core.presentation.Representation- class java.lang.Object]  ,  5
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  6
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  7
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  7
+org.assertj.core.presentation.StandardRepresentation  ,  smartFormat  ,  [interface java.lang.Iterable]  ,  7
+org.assertj.core.presentation.StandardRepresentation  ,  singleLineFormat  ,  [interface java.lang.Iterable- class java.lang.String- class java.lang.String]  ,  8
+org.assertj.core.presentation.StandardRepresentation  ,  format  ,  [interface java.lang.Iterable- class java.lang.String- class java.lang.String- class java.lang.String- class java.lang.String]  ,  9
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  10
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  11
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.String]  ,  11
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  12
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  13
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  14
+org.assertj.core.presentation.StandardRepresentation  ,  doesDescriptionFitOnSingleLine  ,  [class java.lang.String]  ,  8
+org.assertj.core.error.MessageFormatter  ,  asText  ,  [interface org.assertj.core.presentation.Representation- class java.lang.Object]  ,  5
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  6
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  7
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  7
+org.assertj.core.presentation.StandardRepresentation  ,  smartFormat  ,  [interface java.lang.Iterable]  ,  7
+org.assertj.core.presentation.StandardRepresentation  ,  singleLineFormat  ,  [interface java.lang.Iterable- class java.lang.String- class java.lang.String]  ,  8
+org.assertj.core.presentation.StandardRepresentation  ,  format  ,  [interface java.lang.Iterable- class java.lang.String- class java.lang.String- class java.lang.String- class java.lang.String]  ,  9
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  10
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  11
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.String]  ,  11
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  12
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  13
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  14
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  10
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  11
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.String]  ,  11
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  12
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  13
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  14
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  10
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  11
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.String]  ,  11
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  12
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  13
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  14
+org.assertj.core.presentation.StandardRepresentation  ,  doesDescriptionFitOnSingleLine  ,  [class java.lang.String]  ,  8
+org.assertj.core.error.MessageFormatter  ,  asText  ,  [interface org.assertj.core.presentation.Representation- class java.lang.Object]  ,  5
+org.assertj.core.internal.StandardComparisonStrategy  ,  asText  ,  []  ,  6
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  4
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  5
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  6
+org.assertj.core.api.Assertions  ,  assertThat  ,  [class java.lang.String]  ,  2
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [class java.lang.String]  ,  3
+org.assertj.core.internal.StandardComparisonStrategy  ,  instance  ,  []  ,  4
+org.assertj.core.util.introspection.PropertySupport  ,  instance  ,  []  ,  4
+org.assertj.core.util.Compatibility$System  ,  lineSeparator  ,  []  ,  4
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  4
+org.assertj.core.util.introspection.FieldSupport  ,  comparison  ,  []  ,  4
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  4
+org.assertj.core.configuration.Services  ,  get  ,  [class java.lang.Class- class java.lang.Object]  ,  4
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  4
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  4
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  5
+org.assertj.core.internal.StandardComparisonStrategy  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Strings  ,  instance  ,  []  ,  4
+org.assertj.core.api.AbstractAssert  ,  isEqualTo  ,  [class java.lang.Object]  ,  2
+org.assertj.core.internal.Objects  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object]  ,  3
+org.assertj.core.internal.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  4
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  5
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  6
+org.assertj.core.error.ShouldNotHaveDuplicates_create_Test  ,  setUp  ,  []  ,  1
+org.assertj.core.util.Lists  ,  newArrayList  ,  [class [Ljava.lang.Object;]  ,  2
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  3
+org.assertj.core.util.Lists  ,  newArrayList  ,  [class [Ljava.lang.Object;]  ,  2
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  3
+org.assertj.core.error.ShouldNotHaveDuplicates  ,  shouldNotHaveDuplicates  ,  [class java.lang.Object- class java.lang.Object]  ,  2
+org.assertj.core.internal.StandardComparisonStrategy  ,  instance  ,  []  ,  3
+org.assertj.core.error.MessageFormatter  ,  instance  ,  []  ,  3
+org.assertj.core.error.ShouldNotHaveDuplicates_create_Test  ,  should_create_error_message_with_custom_comparison_strategy  ,  []  ,  1
+org.assertj.core.util.Lists  ,  newArrayList  ,  [class [Ljava.lang.Object;]  ,  2
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  3
+org.assertj.core.util.Lists  ,  newArrayList  ,  [class [Ljava.lang.Object;]  ,  2
+org.assertj.core.util.Lists  ,  newArrayList  ,  []  ,  3
+org.assertj.core.error.ShouldNotHaveDuplicates  ,  shouldNotHaveDuplicates  ,  [class java.lang.Object- class java.lang.Object- interface org.assertj.core.internal.ComparisonStrategy]  ,  2
+org.assertj.core.error.MessageFormatter  ,  instance  ,  []  ,  3
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  2
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  3
+org.assertj.core.error.BasicErrorMessageFactory  ,  create  ,  [class org.assertj.core.description.Description- interface org.assertj.core.presentation.Representation]  ,  2
+org.assertj.core.error.MessageFormatter  ,  format  ,  [class org.assertj.core.description.Description- interface org.assertj.core.presentation.Representation- class java.lang.String- class [Ljava.lang.Object;]  ,  3
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  4
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object]  ,  4
+org.assertj.core.error.DescriptionFormatter  ,  format  ,  [class org.assertj.core.description.Description]  ,  4
+org.assertj.core.description.TextDescription  ,  value  ,  []  ,  5
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  6
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  7
+org.assertj.core.util.Strings  ,  isNullOrEmpty  ,  [class java.lang.String]  ,  5
+org.assertj.core.error.MessageFormatter  ,  format  ,  [interface org.assertj.core.presentation.Representation- class [Ljava.lang.Object;]  ,  4
+org.assertj.core.error.MessageFormatter  ,  asText  ,  [interface org.assertj.core.presentation.Representation- class java.lang.Object]  ,  5
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  6
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  7
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  7
+org.assertj.core.presentation.StandardRepresentation  ,  smartFormat  ,  [interface java.lang.Iterable]  ,  7
+org.assertj.core.presentation.StandardRepresentation  ,  singleLineFormat  ,  [interface java.lang.Iterable- class java.lang.String- class java.lang.String]  ,  8
+org.assertj.core.presentation.StandardRepresentation  ,  format  ,  [interface java.lang.Iterable- class java.lang.String- class java.lang.String- class java.lang.String- class java.lang.String]  ,  9
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  10
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  11
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.String]  ,  11
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  12
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  13
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  14
+org.assertj.core.presentation.StandardRepresentation  ,  doesDescriptionFitOnSingleLine  ,  [class java.lang.String]  ,  8
+org.assertj.core.error.MessageFormatter  ,  asText  ,  [interface org.assertj.core.presentation.Representation- class java.lang.Object]  ,  5
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  6
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  7
+org.assertj.core.util.Arrays  ,  isArray  ,  [class java.lang.Object]  ,  7
+org.assertj.core.presentation.StandardRepresentation  ,  smartFormat  ,  [interface java.lang.Iterable]  ,  7
+org.assertj.core.presentation.StandardRepresentation  ,  singleLineFormat  ,  [interface java.lang.Iterable- class java.lang.String- class java.lang.String]  ,  8
+org.assertj.core.presentation.StandardRepresentation  ,  format  ,  [interface java.lang.Iterable- class java.lang.String- class java.lang.String- class java.lang.String- class java.lang.String]  ,  9
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  10
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  11
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.String]  ,  11
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  12
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  13
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  14
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  10
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  11
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.String]  ,  11
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  12
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  13
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  14
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  10
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  11
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.String]  ,  11
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  12
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  13
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  14
+org.assertj.core.presentation.StandardRepresentation  ,  doesDescriptionFitOnSingleLine  ,  [class java.lang.String]  ,  8
+org.assertj.core.error.MessageFormatter  ,  asText  ,  [interface org.assertj.core.presentation.Representation- class java.lang.Object]  ,  5
+org.assertj.core.internal.ComparatorBasedComparisonStrategy  ,  asText  ,  []  ,  6
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  7
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [class java.lang.Object]  ,  7
+org.assertj.core.presentation.StandardRepresentation  ,  hasCustomFormatterFor  ,  [class java.lang.Object]  ,  8
+org.assertj.core.presentation.StandardRepresentation  ,  toStringOf  ,  [interface java.util.Comparator]  ,  8
+org.assertj.core.util.Strings  ,  quote  ,  [class java.lang.String]  ,  9
+org.assertj.core.util.Strings  ,  concat  ,  [class [Ljava.lang.Object;]  ,  10
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  11
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  12
+org.assertj.core.util.Strings  ,  formatIfArgs  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  4
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  5
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  6
+org.assertj.core.api.Assertions  ,  assertThat  ,  [class java.lang.String]  ,  2
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [class java.lang.String]  ,  3
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  4
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  4
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  4
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  5
+org.assertj.core.internal.Strings  ,  instance  ,  []  ,  4
+org.assertj.core.api.AbstractAssert  ,  isEqualTo  ,  [class java.lang.Object]  ,  2
+org.assertj.core.internal.Objects  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object- class java.lang.Object]  ,  3
+org.assertj.core.internal.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  4
+org.assertj.core.internal.StandardComparisonStrategy  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  5
+org.assertj.core.util.Objects  ,  areEqual  ,  [class java.lang.Object- class java.lang.Object]  ,  6

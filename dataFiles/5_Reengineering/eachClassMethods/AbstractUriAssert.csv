@@ -1,0 +1,20 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractUriAssert.AbstractUriAssert,(Ljava/net/URI;Ljava/lang/Class;)V,16,1
+org/assertj/core/api/AbstractUriAssert.hasPath,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUriAssert;,19,1
+org/assertj/core/api/AbstractUriAssert.hasNoPath,()Lorg/assertj/core/api/AbstractUriAssert;,19,1
+org/assertj/core/api/AbstractUriAssert.hasPort,(I)Lorg/assertj/core/api/AbstractUriAssert;,20,1
+org/assertj/core/api/AbstractUriAssert.hasNoPort,()Lorg/assertj/core/api/AbstractUriAssert;,20,1
+org/assertj/core/api/AbstractUriAssert.hasHost,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUriAssert;,19,1
+org/assertj/core/api/AbstractUriAssert.hasAuthority,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUriAssert;,19,1
+org/assertj/core/api/AbstractUriAssert.hasFragment,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUriAssert;,19,1
+org/assertj/core/api/AbstractUriAssert.hasNoFragment,()Lorg/assertj/core/api/AbstractUriAssert;,19,1
+org/assertj/core/api/AbstractUriAssert.hasQuery,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUriAssert;,19,1
+org/assertj/core/api/AbstractUriAssert.hasNoQuery,()Lorg/assertj/core/api/AbstractUriAssert;,19,1
+org/assertj/core/api/AbstractUriAssert.hasScheme,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUriAssert;,19,1
+org/assertj/core/api/AbstractUriAssert.hasUserInfo,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUriAssert;,19,1
+org/assertj/core/api/AbstractUriAssert.hasNoUserInfo,()Lorg/assertj/core/api/AbstractUriAssert;,19,1
+org/assertj/core/api/AbstractUriAssert.hasParameter,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUriAssert;,19,1
+org/assertj/core/api/AbstractUriAssert.hasParameter,(Ljava/lang/String;Ljava/lang/String;)Lorg/assertj/core/api/AbstractUriAssert;,20,1
+org/assertj/core/api/AbstractUriAssert.hasNoParameters,()Lorg/assertj/core/api/AbstractUriAssert;,18,1
+org/assertj/core/api/AbstractUriAssert.hasNoParameter,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUriAssert;,19,1
+org/assertj/core/api/AbstractUriAssert.hasNoParameter,(Ljava/lang/String;Ljava/lang/String;)Lorg/assertj/core/api/AbstractUriAssert;,20,1

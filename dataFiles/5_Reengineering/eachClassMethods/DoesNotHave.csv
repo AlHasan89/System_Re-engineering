@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/condition/DoesNotHave.doesNotHave,(Lorg/assertj/core/api/Condition;)Lorg/assertj/core/condition/DoesNotHave;,9,1
+org/assertj/core/condition/DoesNotHave.DoesNotHave,(Lorg/assertj/core/api/Condition;)V,10,1
+org/assertj/core/condition/DoesNotHave.toString,()Ljava/lang/String;,14,1

@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/diff/ChangeDelta.ChangeDelta,(Lorg/assertj/core/util/diff/Chunk;Lorg/assertj/core/util/diff/Chunk;)V,11,1
+org/assertj/core/util/diff/ChangeDelta.applyTo,(Ljava/util/List;)V,78,3
+org/assertj/core/util/diff/ChangeDelta.verify,(Ljava/util/List;)V,33,2
+org/assertj/core/util/diff/ChangeDelta.getType,()Lorg/assertj/core/util/diff/Delta$TYPE;,6,1

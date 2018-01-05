@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/matcher/AssertionMatcher.AssertionMatcher,()V,7,1
+org/assertj/core/matcher/AssertionMatcher.matches,(Ljava/lang/Object;)Z,28,2
+org/assertj/core/matcher/AssertionMatcher.assertion,(Ljava/lang/Object;)V,2,1
+org/assertj/core/matcher/AssertionMatcher.describeTo,(Lorg/hamcrest/Description;)V,42,2

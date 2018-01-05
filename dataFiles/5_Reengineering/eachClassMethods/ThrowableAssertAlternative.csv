@@ -1,0 +1,19 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/ThrowableAssertAlternative.ThrowableAssertAlternative,(Ljava/lang/Throwable;)V,19,1
+org/assertj/core/api/ThrowableAssertAlternative.withMessage,(Ljava/lang/String;)Lorg/assertj/core/api/ThrowableAssertAlternative;,13,1
+org/assertj/core/api/ThrowableAssertAlternative.withMessage,(Ljava/lang/String;[Ljava/lang/Object;)Lorg/assertj/core/api/ThrowableAssertAlternative;,14,1
+org/assertj/core/api/ThrowableAssertAlternative.withCause,(Ljava/lang/Throwable;)Lorg/assertj/core/api/ThrowableAssertAlternative;,13,1
+org/assertj/core/api/ThrowableAssertAlternative.withNoCause,()Lorg/assertj/core/api/ThrowableAssertAlternative;,12,1
+org/assertj/core/api/ThrowableAssertAlternative.withMessageStartingWith,(Ljava/lang/String;)Lorg/assertj/core/api/ThrowableAssertAlternative;,13,1
+org/assertj/core/api/ThrowableAssertAlternative.withMessageContaining,(Ljava/lang/String;)Lorg/assertj/core/api/ThrowableAssertAlternative;,13,1
+org/assertj/core/api/ThrowableAssertAlternative.withStackTraceContaining,(Ljava/lang/String;)Lorg/assertj/core/api/ThrowableAssertAlternative;,13,1
+org/assertj/core/api/ThrowableAssertAlternative.withMessageMatching,(Ljava/lang/String;)Lorg/assertj/core/api/ThrowableAssertAlternative;,13,1
+org/assertj/core/api/ThrowableAssertAlternative.withMessageEndingWith,(Ljava/lang/String;)Lorg/assertj/core/api/ThrowableAssertAlternative;,13,1
+org/assertj/core/api/ThrowableAssertAlternative.withCauseInstanceOf,(Ljava/lang/Class;)Lorg/assertj/core/api/ThrowableAssertAlternative;,13,1
+org/assertj/core/api/ThrowableAssertAlternative.withCauseExactlyInstanceOf,(Ljava/lang/Class;)Lorg/assertj/core/api/ThrowableAssertAlternative;,13,1
+org/assertj/core/api/ThrowableAssertAlternative.withRootCauseInstanceOf,(Ljava/lang/Class;)Lorg/assertj/core/api/ThrowableAssertAlternative;,13,1
+org/assertj/core/api/ThrowableAssertAlternative.withRootCauseExactlyInstanceOf,(Ljava/lang/Class;)Lorg/assertj/core/api/ThrowableAssertAlternative;,13,1
+org/assertj/core/api/ThrowableAssertAlternative.describedAs,(Ljava/lang/String;[Ljava/lang/Object;)Lorg/assertj/core/api/ThrowableAssertAlternative;,18,1
+org/assertj/core/api/ThrowableAssertAlternative.describedAs,(Lorg/assertj/core/description/Description;)Lorg/assertj/core/api/ThrowableAssertAlternative;,16,1
+org/assertj/core/api/ThrowableAssertAlternative.describedAs,(Lorg/assertj/core/description/Description;)Lorg/assertj/core/api/AbstractAssert;,8,1
+org/assertj/core/api/ThrowableAssertAlternative.describedAs,(Ljava/lang/String;[Ljava/lang/Object;)Lorg/assertj/core/api/AbstractAssert;,9,1

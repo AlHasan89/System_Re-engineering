@@ -1,0 +1,19 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AtomicIntegerAssert.AtomicIntegerAssert,(Ljava/util/concurrent/atomic/AtomicInteger;)V,21,1
+org/assertj/core/api/AtomicIntegerAssert.hasValueBetween,(II)Lorg/assertj/core/api/AtomicIntegerAssert;,29,1
+org/assertj/core/api/AtomicIntegerAssert.hasValueLessThan,(I)Lorg/assertj/core/api/AtomicIntegerAssert;,27,1
+org/assertj/core/api/AtomicIntegerAssert.hasValueLessThanOrEqualTo,(I)Lorg/assertj/core/api/AtomicIntegerAssert;,27,1
+org/assertj/core/api/AtomicIntegerAssert.hasValueGreaterThan,(I)Lorg/assertj/core/api/AtomicIntegerAssert;,27,1
+org/assertj/core/api/AtomicIntegerAssert.hasValueGreaterThanOrEqualTo,(I)Lorg/assertj/core/api/AtomicIntegerAssert;,27,1
+org/assertj/core/api/AtomicIntegerAssert.hasPositiveValue,()Lorg/assertj/core/api/AtomicIntegerAssert;,25,1
+org/assertj/core/api/AtomicIntegerAssert.hasNonPositiveValue,()Lorg/assertj/core/api/AtomicIntegerAssert;,25,1
+org/assertj/core/api/AtomicIntegerAssert.hasNegativeValue,()Lorg/assertj/core/api/AtomicIntegerAssert;,25,1
+org/assertj/core/api/AtomicIntegerAssert.hasNonNegativeValue,()Lorg/assertj/core/api/AtomicIntegerAssert;,25,1
+org/assertj/core/api/AtomicIntegerAssert.hasValueCloseTo,(ILorg/assertj/core/data/Percentage;)Lorg/assertj/core/api/AtomicIntegerAssert;,28,1
+org/assertj/core/api/AtomicIntegerAssert.hasValueCloseTo,(ILorg/assertj/core/data/Offset;)Lorg/assertj/core/api/AtomicIntegerAssert;,28,1
+org/assertj/core/api/AtomicIntegerAssert.hasValue,(I)Lorg/assertj/core/api/AtomicIntegerAssert;,41,2
+org/assertj/core/api/AtomicIntegerAssert.doesNotHaveValue,(I)Lorg/assertj/core/api/AtomicIntegerAssert;,41,2
+org/assertj/core/api/AtomicIntegerAssert.usingComparator,(Ljava/util/Comparator;)Lorg/assertj/core/api/AtomicIntegerAssert;,25,1
+org/assertj/core/api/AtomicIntegerAssert.usingDefaultComparator,()Lorg/assertj/core/api/AtomicIntegerAssert;,18,1
+org/assertj/core/api/AtomicIntegerAssert.usingComparator,(Ljava/util/Comparator;)Lorg/assertj/core/api/AbstractAssert;,9,1
+org/assertj/core/api/AtomicIntegerAssert.usingDefaultComparator,()Lorg/assertj/core/api/AbstractAssert;,7,1

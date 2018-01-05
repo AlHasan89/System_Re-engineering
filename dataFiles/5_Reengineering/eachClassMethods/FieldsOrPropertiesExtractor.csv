@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/groups/FieldsOrPropertiesExtractor.FieldsOrPropertiesExtractor,()V,7,1
+org/assertj/core/groups/FieldsOrPropertiesExtractor.extract,([Ljava/lang/Object;Lorg/assertj/core/api/iterable/Extractor;)[Ljava/lang/Object;,18,1
+org/assertj/core/groups/FieldsOrPropertiesExtractor.extract,(Ljava/lang/Iterable;Lorg/assertj/core/api/iterable/Extractor;)Ljava/util/List;,44,2
+org/assertj/core/groups/FieldsOrPropertiesExtractor.checkObjectToExtractFromIsNotNull,(Ljava/lang/Object;)V,15,2

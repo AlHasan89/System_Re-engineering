@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeAnnotation.shouldBeAnnotation,(Ljava/lang/Class;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldBeAnnotation.shouldNotBeAnnotation,(Ljava/lang/Class;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldBeAnnotation.ShouldBeAnnotation,(Ljava/lang/Class;Z)V,32,2

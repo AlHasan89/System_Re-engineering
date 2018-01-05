@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeNormalized.ShouldBeNormalized,(Ljava/nio/file/Path;)V,16,1
+org/assertj/core/error/ShouldBeNormalized.shouldBeNormalized,(Ljava/nio/file/Path;)Lorg/assertj/core/error/ErrorMessageFactory;,9,1

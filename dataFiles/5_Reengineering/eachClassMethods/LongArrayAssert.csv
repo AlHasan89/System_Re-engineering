@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/LongArrayAssert.LongArrayAssert,([J)V,11,1
+org/assertj/core/api/LongArrayAssert.LongArrayAssert,(Ljava/util/concurrent/atomic/AtomicLongArray;)V,11,1

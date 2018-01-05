@@ -1,0 +1,20 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractUrlAssert.AbstractUrlAssert,(Ljava/net/URL;Ljava/lang/Class;)V,16,1
+org/assertj/core/api/AbstractUrlAssert.hasProtocol,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUrlAssert;,19,1
+org/assertj/core/api/AbstractUrlAssert.hasPath,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUrlAssert;,19,1
+org/assertj/core/api/AbstractUrlAssert.hasNoPath,()Lorg/assertj/core/api/AbstractUrlAssert;,19,1
+org/assertj/core/api/AbstractUrlAssert.hasPort,(I)Lorg/assertj/core/api/AbstractUrlAssert;,19,1
+org/assertj/core/api/AbstractUrlAssert.hasNoPort,()Lorg/assertj/core/api/AbstractUrlAssert;,19,1
+org/assertj/core/api/AbstractUrlAssert.hasHost,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUrlAssert;,19,1
+org/assertj/core/api/AbstractUrlAssert.hasAuthority,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUrlAssert;,19,1
+org/assertj/core/api/AbstractUrlAssert.hasQuery,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUrlAssert;,19,1
+org/assertj/core/api/AbstractUrlAssert.hasNoQuery,()Lorg/assertj/core/api/AbstractUrlAssert;,19,1
+org/assertj/core/api/AbstractUrlAssert.hasAnchor,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUrlAssert;,19,1
+org/assertj/core/api/AbstractUrlAssert.hasNoAnchor,()Lorg/assertj/core/api/AbstractUrlAssert;,19,1
+org/assertj/core/api/AbstractUrlAssert.hasUserInfo,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUrlAssert;,19,1
+org/assertj/core/api/AbstractUrlAssert.hasNoUserInfo,()Lorg/assertj/core/api/AbstractUrlAssert;,19,1
+org/assertj/core/api/AbstractUrlAssert.hasParameter,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUrlAssert;,19,1
+org/assertj/core/api/AbstractUrlAssert.hasParameter,(Ljava/lang/String;Ljava/lang/String;)Lorg/assertj/core/api/AbstractUrlAssert;,20,1
+org/assertj/core/api/AbstractUrlAssert.hasNoParameters,()Lorg/assertj/core/api/AbstractUrlAssert;,18,1
+org/assertj/core/api/AbstractUrlAssert.hasNoParameter,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractUrlAssert;,19,1
+org/assertj/core/api/AbstractUrlAssert.hasNoParameter,(Ljava/lang/String;Ljava/lang/String;)Lorg/assertj/core/api/AbstractUrlAssert;,20,1

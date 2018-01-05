@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/Java6SoftAssertions.Java6SoftAssertions,()V,7,1
+org/assertj/core/api/Java6SoftAssertions.assertAll,()V,27,2

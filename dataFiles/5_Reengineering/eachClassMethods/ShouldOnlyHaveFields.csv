@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldOnlyHaveFields.shouldOnlyHaveFields,(Ljava/lang/Class;Ljava/util/Collection;Ljava/util/Collection;Ljava/util/Collection;)Lorg/assertj/core/error/ErrorMessageFactory;,11,1
+org/assertj/core/error/ShouldOnlyHaveFields.shouldOnlyHaveDeclaredFields,(Ljava/lang/Class;Ljava/util/Collection;Ljava/util/Collection;Ljava/util/Collection;)Lorg/assertj/core/error/ErrorMessageFactory;,11,1
+org/assertj/core/error/ShouldOnlyHaveFields.create,(Ljava/lang/Class;Ljava/util/Collection;Ljava/util/Collection;Ljava/util/Collection;Z)Lorg/assertj/core/error/ErrorMessageFactory;,47,3
+org/assertj/core/error/ShouldOnlyHaveFields.ShouldOnlyHaveFields,(Ljava/lang/Class;Ljava/util/Collection;Ljava/util/Collection;Ljava/util/Collection;Z)V,70,2
+org/assertj/core/error/ShouldOnlyHaveFields.ShouldOnlyHaveFields,(Ljava/lang/Class;Ljava/util/Collection;Ljava/util/Collection;Lorg/assertj/core/error/ShouldOnlyHaveFields$ErrorType;Z)V,69,3

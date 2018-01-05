@@ -1,0 +1,21 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/Comparables.<clinit>,()V,9,1
+org/assertj/core/internal/Comparables.instance,()Lorg/assertj/core/internal/Comparables;,6,1
+org/assertj/core/internal/Comparables.Comparables,()V,10,1
+org/assertj/core/internal/Comparables.Comparables,(Lorg/assertj/core/internal/ComparisonStrategy;)V,19,1
+org/assertj/core/internal/Comparables.getComparator,()Ljava/util/Comparator;,20,2
+org/assertj/core/internal/Comparables.setFailures,(Lorg/assertj/core/internal/Failures;)V,10,1
+org/assertj/core/internal/Comparables.resetFailures,()V,10,1
+org/assertj/core/internal/Comparables.assertEqual,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Object;Ljava/lang/Object;)V,30,2
+org/assertj/core/internal/Comparables.areEqual,(Ljava/lang/Object;Ljava/lang/Object;)Z,10,1
+org/assertj/core/internal/Comparables.assertNotEqual,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Object;Ljava/lang/Object;)V,30,2
+org/assertj/core/internal/Comparables.assertEqualByComparison,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Comparable;Ljava/lang/Comparable;)V,29,2
+org/assertj/core/internal/Comparables.assertNotEqualByComparison,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Comparable;Ljava/lang/Comparable;)V,27,2
+org/assertj/core/internal/Comparables.assertLessThan,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Comparable;Ljava/lang/Comparable;)V,30,2
+org/assertj/core/internal/Comparables.assertLessThanOrEqualTo,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Comparable;Ljava/lang/Comparable;)V,30,2
+org/assertj/core/internal/Comparables.assertGreaterThan,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Comparable;Ljava/lang/Comparable;)V,30,2
+org/assertj/core/internal/Comparables.isGreaterThan,(Ljava/lang/Object;Ljava/lang/Object;)Z,10,1
+org/assertj/core/internal/Comparables.assertGreaterThanOrEqualTo,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Comparable;Ljava/lang/Comparable;)V,30,2
+org/assertj/core/internal/Comparables.isLessThan,(Ljava/lang/Object;Ljava/lang/Object;)Z,10,1
+org/assertj/core/internal/Comparables.assertNotNull,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Object;)V,11,1
+org/assertj/core/internal/Comparables.assertIsBetween,(Lorg/assertj/core/api/AssertionInfo;Ljava/lang/Comparable;Ljava/lang/Comparable;Ljava/lang/Comparable;ZZ)V,191,16

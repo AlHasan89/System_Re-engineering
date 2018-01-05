@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/description/Description.Description,()V,7,1
+org/assertj/core/description/Description.value,()Ljava/lang/String;,2,1
+org/assertj/core/description/Description.toString,()Ljava/lang/String;,7,1
+org/assertj/core/description/Description.emptyIfNull,(Lorg/assertj/core/description/Description;)Lorg/assertj/core/description/Description;,14,2
+org/assertj/core/description/Description.mostRelevantDescription,(Lorg/assertj/core/description/Description;Ljava/lang/String;)Ljava/lang/String;,31,4

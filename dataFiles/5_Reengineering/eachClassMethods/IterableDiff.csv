@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/IterableDiff.diff,(Ljava/lang/Iterable;Ljava/lang/Iterable;Lorg/assertj/core/internal/ComparisonStrategy;)Lorg/assertj/core/internal/IterableDiff;,11,1
+org/assertj/core/internal/IterableDiff.IterableDiff,(Ljava/lang/Iterable;Ljava/lang/Iterable;Lorg/assertj/core/internal/ComparisonStrategy;)V,32,1
+org/assertj/core/internal/IterableDiff.differencesFound,()Z,18,3
+org/assertj/core/internal/IterableDiff.missingElements,(Ljava/lang/Iterable;Ljava/lang/Iterable;)Ljava/util/List;,42,3
+org/assertj/core/internal/IterableDiff.unexpectedElements,(Ljava/lang/Iterable;Ljava/lang/Iterable;)Ljava/util/List;,42,3
+org/assertj/core/internal/IterableDiff.iterableContains,(Ljava/lang/Iterable;Ljava/lang/Object;)Z,10,1

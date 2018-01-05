@@ -1,0 +1,11 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/ErrorCollector$LastResult.ErrorCollector$LastResult,()V,19,1
+org/assertj/core/api/ErrorCollector$LastResult.wasSuccess,()Z,7,1
+org/assertj/core/api/ErrorCollector$LastResult.recordError,()V,15,1
+org/assertj/core/api/ErrorCollector$LastResult.setSuccess,(Z)V,46,4
+org/assertj/core/api/ErrorCollector$LastResult.resolvingOutermostErrorCollectorProxyNestedCall,()Z,13,2
+org/assertj/core/api/ErrorCollector$LastResult.toString,()Ljava/lang/String;,21,1
+org/assertj/core/api/ErrorCollector$LastResult.ErrorCollector$LastResult,(Lorg/assertj/core/api/ErrorCollector$LastResult;)V,7,1
+org/assertj/core/api/ErrorCollector$LastResult.access$1,(Lorg/assertj/core/api/ErrorCollector$LastResult;Z)V,8,1
+org/assertj/core/api/ErrorCollector$LastResult.access$2,(Lorg/assertj/core/api/ErrorCollector$LastResult;)V,7,1
+org/assertj/core/api/ErrorCollector$LastResult.access$3,(Lorg/assertj/core/api/ErrorCollector$LastResult;)Z,7,1

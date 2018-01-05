@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/description/TextDescription.TextDescription,(Ljava/lang/String;[Ljava/lang/Object;)V,38,3
+org/assertj/core/description/TextDescription.value,()Ljava/lang/String;,10,1
+org/assertj/core/description/TextDescription.hashCode,()I,14,1
+org/assertj/core/description/TextDescription.equals,(Ljava/lang/Object;)Z,52,6

@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldStartWithPath.shouldStartWith,(Ljava/nio/file/Path;Ljava/nio/file/Path;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldStartWithPath.ShouldStartWithPath,(Ljava/nio/file/Path;Ljava/nio/file/Path;)V,20,1

@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AtomicMarkableReferenceAssert.AtomicMarkableReferenceAssert,(Ljava/util/concurrent/atomic/AtomicMarkableReference;)V,12,1
+org/assertj/core/api/AtomicMarkableReferenceAssert.hasReference,(Ljava/lang/Object;)Lorg/assertj/core/api/AtomicMarkableReferenceAssert;,9,1
+org/assertj/core/api/AtomicMarkableReferenceAssert.getReference,()Ljava/lang/Object;,9,1
+org/assertj/core/api/AtomicMarkableReferenceAssert.isMarked,()Lorg/assertj/core/api/AtomicMarkableReferenceAssert;,24,2
+org/assertj/core/api/AtomicMarkableReferenceAssert.isNotMarked,()Lorg/assertj/core/api/AtomicMarkableReferenceAssert;,24,2
+org/assertj/core/api/AtomicMarkableReferenceAssert.hasReference,(Ljava/lang/Object;)Lorg/assertj/core/api/AbstractAtomicReferenceAssert;,9,1

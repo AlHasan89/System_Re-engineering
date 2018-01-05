@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/IterableAssert$LazyIterable.IterableAssert$LazyIterable,(Ljava/util/Iterator;)V,14,1
+org/assertj/core/api/IterableAssert$LazyIterable.iterator,()Ljava/util/Iterator;,21,2
+org/assertj/core/api/IterableAssert$LazyIterable.size,()I,33,2
+org/assertj/core/api/IterableAssert$LazyIterable.access$0,(Lorg/assertj/core/api/IterableAssert$LazyIterable;)Ljava/util/Iterator;,7,1

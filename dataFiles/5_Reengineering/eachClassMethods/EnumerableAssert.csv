@@ -1,0 +1,9 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/EnumerableAssert.isNullOrEmpty,()V,2,1
+org/assertj/core/api/EnumerableAssert.isEmpty,()V,2,1
+org/assertj/core/api/EnumerableAssert.isNotEmpty,()Lorg/assertj/core/api/EnumerableAssert;,2,1
+org/assertj/core/api/EnumerableAssert.hasSize,(I)Lorg/assertj/core/api/EnumerableAssert;,2,1
+org/assertj/core/api/EnumerableAssert.hasSameSizeAs,(Ljava/lang/Iterable;)Lorg/assertj/core/api/EnumerableAssert;,2,1
+org/assertj/core/api/EnumerableAssert.hasSameSizeAs,(Ljava/lang/Object;)Lorg/assertj/core/api/EnumerableAssert;,2,1
+org/assertj/core/api/EnumerableAssert.usingElementComparator,(Ljava/util/Comparator;)Lorg/assertj/core/api/EnumerableAssert;,2,1
+org/assertj/core/api/EnumerableAssert.usingDefaultElementComparator,()Lorg/assertj/core/api/EnumerableAssert;,2,1

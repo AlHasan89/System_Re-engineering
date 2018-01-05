@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeEqualByComparingFieldByFieldRecursively.shouldBeEqualByComparingFieldByFieldRecursive,(Ljava/lang/Object;Ljava/lang/Object;Ljava/util/List;Lorg/assertj/core/presentation/Representation;)Lorg/assertj/core/error/ErrorMessageFactory;,63,2
+org/assertj/core/error/ShouldBeEqualByComparingFieldByFieldRecursively.ShouldBeEqualByComparingFieldByFieldRecursively,(Ljava/lang/String;Ljava/lang/Object;Ljava/lang/Object;)V,20,1
+org/assertj/core/error/ShouldBeEqualByComparingFieldByFieldRecursively.describeDifference,(Lorg/assertj/core/internal/DeepDifference$Difference;Lorg/assertj/core/presentation/Representation;)Ljava/lang/String;,91,3

@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/Strings$Whitespace.<clinit>,()V,11,1
+org/assertj/core/internal/Strings$Whitespace.Strings$Whitespace,()V,7,1
+org/assertj/core/internal/Strings$Whitespace.isWhitespace,(C)Z,19,2

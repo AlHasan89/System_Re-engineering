@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldHaveExtension.shouldHaveExtension,(Ljava/io/File;Ljava/lang/String;Ljava/lang/String;)Lorg/assertj/core/error/ShouldHaveExtension;,26,2
+org/assertj/core/error/ShouldHaveExtension.ShouldHaveExtension,(Ljava/io/File;Ljava/lang/String;Ljava/lang/String;)V,26,1
+org/assertj/core/error/ShouldHaveExtension.ShouldHaveExtension,(Ljava/io/File;Ljava/lang/String;)V,20,1

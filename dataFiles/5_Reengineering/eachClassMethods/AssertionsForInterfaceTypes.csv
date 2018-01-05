@@ -1,0 +1,23 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Lorg/assertj/core/api/AssertProvider;)Ljava/lang/Object;,7,1
+org/assertj/core/api/AssertionsForInterfaceTypes.AssertionsForInterfaceTypes,()V,7,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/lang/CharSequence;)Lorg/assertj/core/api/AbstractCharSequenceAssert;,9,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/lang/Iterable;)Lorg/assertj/core/api/IterableAssert;,9,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/util/Iterator;)Lorg/assertj/core/api/IterableAssert;,9,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/util/List;)Lorg/assertj/core/api/ListAssert;,9,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/util/stream/Stream;)Lorg/assertj/core/api/AbstractListAssert;,9,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/util/stream/DoubleStream;)Lorg/assertj/core/api/AbstractListAssert;,9,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/util/stream/LongStream;)Lorg/assertj/core/api/AbstractListAssert;,9,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/util/stream/IntStream;)Lorg/assertj/core/api/AbstractListAssert;,9,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/lang/Iterable;Lorg/assertj/core/api/AssertFactory;)Lorg/assertj/core/api/FactoryBasedNavigableIterableAssert;,11,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/lang/Iterable;Ljava/lang/Class;)Lorg/assertj/core/api/ClassBasedNavigableIterableAssert;,11,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/util/List;Lorg/assertj/core/api/AssertFactory;)Lorg/assertj/core/api/FactoryBasedNavigableListAssert;,11,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/util/List;Ljava/lang/Class;)Lorg/assertj/core/api/ClassBasedNavigableListAssert;,10,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/nio/file/Path;)Lorg/assertj/core/api/AbstractPathAssert;,9,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/util/Map;)Lorg/assertj/core/api/MapAssert;,9,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/lang/Comparable;)Lorg/assertj/core/api/AbstractComparableAssert;,9,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Lorg/assertj/core/api/AssertDelegateTarget;)Lorg/assertj/core/api/AssertDelegateTarget;,6,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/util/function/Predicate;)Lorg/assertj/core/api/PredicateAssert;,9,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/util/function/IntPredicate;)Lorg/assertj/core/api/IntPredicateAssert;,9,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/util/function/LongPredicate;)Lorg/assertj/core/api/LongPredicateAssert;,9,1
+org/assertj/core/api/AssertionsForInterfaceTypes.assertThat,(Ljava/util/function/DoublePredicate;)Lorg/assertj/core/api/DoublePredicateAssert;,9,1

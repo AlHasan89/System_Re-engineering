@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractIterableSizeAssert.AbstractIterableSizeAssert,(Ljava/lang/Integer;Ljava/lang/Class;)V,11,1
+org/assertj/core/api/AbstractIterableSizeAssert.returnToIterable,()Lorg/assertj/core/api/AbstractIterableAssert;,2,1

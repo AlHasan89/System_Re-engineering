@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/uri/ShouldHaveAuthority.shouldHaveAuthority,(Ljava/net/URI;Ljava/lang/String;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/uri/ShouldHaveAuthority.ShouldHaveAuthority,(Ljava/net/URI;Ljava/lang/String;)V,25,1
+org/assertj/core/error/uri/ShouldHaveAuthority.shouldHaveAuthority,(Ljava/net/URL;Ljava/lang/String;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/uri/ShouldHaveAuthority.ShouldHaveAuthority,(Ljava/net/URL;Ljava/lang/String;)V,25,1

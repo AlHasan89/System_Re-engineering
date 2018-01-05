@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AssertionInfo.overridingErrorMessage,()Ljava/lang/String;,2,1
+org/assertj/core/api/AssertionInfo.description,()Lorg/assertj/core/description/Description;,2,1
+org/assertj/core/api/AssertionInfo.representation,()Lorg/assertj/core/presentation/Representation;,2,1

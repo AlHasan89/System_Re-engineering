@@ -1,0 +1,19 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/introspection/FieldSupport.<clinit>,()V,43,1
+org/assertj/core/util/introspection/FieldSupport.extraction,()Lorg/assertj/core/util/introspection/FieldSupport;,6,1
+org/assertj/core/util/introspection/FieldSupport.comparison,()Lorg/assertj/core/util/introspection/FieldSupport;,6,1
+org/assertj/core/util/introspection/FieldSupport.FieldSupport,(Ljava/lang/String;IZ)V,16,1
+org/assertj/core/util/introspection/FieldSupport.isAllowedToUsePrivateFields,()Z,7,1
+org/assertj/core/util/introspection/FieldSupport.setAllowUsingPrivateFields,(Z)V,10,1
+org/assertj/core/util/introspection/FieldSupport.fieldValues,(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Iterable;)Ljava/util/List;,49,3
+org/assertj/core/util/introspection/FieldSupport.fieldValues,(Ljava/lang/String;Ljava/lang/Iterable;)Ljava/util/List;,10,1
+org/assertj/core/util/introspection/FieldSupport.fieldValues,(Ljava/lang/String;Ljava/lang/Class;[Ljava/lang/Object;)Ljava/util/List;,11,1
+org/assertj/core/util/introspection/FieldSupport.simpleFieldValues,(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Iterable;)Ljava/util/List;,48,3
+org/assertj/core/util/introspection/FieldSupport.popFieldNameFrom,(Ljava/lang/String;)Ljava/lang/String;,22,2
+org/assertj/core/util/introspection/FieldSupport.nextFieldNameFrom,(Ljava/lang/String;)Ljava/lang/String;,23,2
+org/assertj/core/util/introspection/FieldSupport.isNestedField,(Ljava/lang/String;)Z,22,4
+org/assertj/core/util/introspection/FieldSupport.fieldValue,(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;,48,3
+org/assertj/core/util/introspection/FieldSupport.readSimpleField,(Ljava/lang/String;Ljava/lang/Class;Ljava/lang/Object;)Ljava/lang/Object;,110,2
+org/assertj/core/util/introspection/FieldSupport.isAllowedToRead,(Ljava/lang/reflect/Field;)Z,16,2
+org/assertj/core/util/introspection/FieldSupport.values,()[Lorg/assertj/core/util/introspection/FieldSupport;,20,1
+org/assertj/core/util/introspection/FieldSupport.valueOf,(Ljava/lang/String;)Lorg/assertj/core/util/introspection/FieldSupport;,9,1

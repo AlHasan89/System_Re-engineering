@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldContain.shouldContain,(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Lorg/assertj/core/internal/ComparisonStrategy;)Lorg/assertj/core/error/ErrorMessageFactory;,12,1
+org/assertj/core/error/ShouldContain.shouldContain,(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldContain.ShouldContain,(Ljava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;Lorg/assertj/core/internal/ComparisonStrategy;)V,28,1

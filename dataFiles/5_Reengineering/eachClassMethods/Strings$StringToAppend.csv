@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/Strings$StringToAppend.Strings$StringToAppend,(Ljava/lang/String;)V,14,1
+org/assertj/core/util/Strings$StringToAppend.to,(Ljava/lang/String;)Ljava/lang/String;,29,2

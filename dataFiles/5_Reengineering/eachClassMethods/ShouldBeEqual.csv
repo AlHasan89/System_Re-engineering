@@ -1,0 +1,17 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldBeEqual.<clinit>,()V,47,1
+org/assertj/core/error/ShouldBeEqual.shouldBeEqual,(Ljava/lang/Object;Ljava/lang/Object;Lorg/assertj/core/presentation/Representation;)Lorg/assertj/core/error/AssertionErrorFactory;,12,1
+org/assertj/core/error/ShouldBeEqual.shouldBeEqual,(Ljava/lang/Object;Ljava/lang/Object;Lorg/assertj/core/internal/ComparisonStrategy;Lorg/assertj/core/presentation/Representation;)Lorg/assertj/core/error/AssertionErrorFactory;,12,1
+org/assertj/core/error/ShouldBeEqual.ShouldBeEqual,(Ljava/lang/Object;Ljava/lang/Object;Lorg/assertj/core/internal/ComparisonStrategy;Lorg/assertj/core/presentation/Representation;)V,46,1
+org/assertj/core/error/ShouldBeEqual.newAssertionError,(Lorg/assertj/core/description/Description;Lorg/assertj/core/presentation/Representation;)Ljava/lang/AssertionError;,50,5
+org/assertj/core/error/ShouldBeEqual.actualAndExpectedHaveSameStringRepresentation,()Z,16,1
+org/assertj/core/error/ShouldBeEqual.smartErrorMessage,(Lorg/assertj/core/description/Description;Lorg/assertj/core/presentation/Representation;)Ljava/lang/String;,76,3
+org/assertj/core/error/ShouldBeEqual.defaultDetailedErrorMessage,(Lorg/assertj/core/description/Description;Lorg/assertj/core/presentation/Representation;)Ljava/lang/String;,66,2
+org/assertj/core/error/ShouldBeEqual.assertionFailedError,(Ljava/lang/String;)Ljava/lang/AssertionError;,58,3
+org/assertj/core/error/ShouldBeEqual.comparisonFailure,(Lorg/assertj/core/description/Description;)Ljava/lang/AssertionError;,30,2
+org/assertj/core/error/ShouldBeEqual.newComparisonFailure,(Ljava/lang/String;)Ljava/lang/AssertionError;,26,2
+org/assertj/core/error/ShouldBeEqual.msgArgs,(Ljava/lang/String;)[Ljava/lang/Object;,28,1
+org/assertj/core/error/ShouldBeEqual.detailedActual,()Ljava/lang/String;,10,1
+org/assertj/core/error/ShouldBeEqual.detailedExpected,()Ljava/lang/String;,10,1
+org/assertj/core/error/ShouldBeEqual.equals,(Ljava/lang/Object;)Z,51,5
+org/assertj/core/error/ShouldBeEqual.hashCode,()I,30,1

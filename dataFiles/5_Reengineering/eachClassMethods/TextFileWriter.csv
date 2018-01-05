@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/TextFileWriter.<clinit>,()V,9,1
+org/assertj/core/util/TextFileWriter.instance,()Lorg/assertj/core/util/TextFileWriter;,6,1
+org/assertj/core/util/TextFileWriter.write,(Ljava/io/File;[Ljava/lang/String;)V,12,1
+org/assertj/core/util/TextFileWriter.write,(Ljava/io/File;Ljava/nio/charset/Charset;[Ljava/lang/String;)V,92,7
+org/assertj/core/util/TextFileWriter.TextFileWriter,()V,9,1

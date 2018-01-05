@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/BigIntegerAssert.BigIntegerAssert,(Ljava/math/BigInteger;)V,11,1

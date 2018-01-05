@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/data/TemporalUnitOffset.TemporalUnitOffset,(JLjava/time/temporal/TemporalUnit;)V,29,1
+org/assertj/core/data/TemporalUnitOffset.checkThatValueIsPositive,(J)V,22,2
+org/assertj/core/data/TemporalUnitOffset.getBeyondOffsetDifferenceDescription,(Ljava/time/temporal/Temporal;Ljava/time/temporal/Temporal;)Ljava/lang/String;,33,1
+org/assertj/core/data/TemporalUnitOffset.getDifference,(Ljava/time/temporal/Temporal;Ljava/time/temporal/Temporal;)J,11,1
+org/assertj/core/data/TemporalUnitOffset.getUnit,()Ljava/time/temporal/TemporalUnit;,7,1
+org/assertj/core/data/TemporalUnitOffset.getValue,()J,7,1

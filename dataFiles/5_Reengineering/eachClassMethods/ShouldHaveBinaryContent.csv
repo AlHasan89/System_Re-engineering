@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldHaveBinaryContent.shouldHaveBinaryContent,(Ljava/io/File;Lorg/assertj/core/internal/BinaryDiffResult;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldHaveBinaryContent.shouldHaveBinaryContent,(Ljava/nio/file/Path;Lorg/assertj/core/internal/BinaryDiffResult;)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldHaveBinaryContent.ShouldHaveBinaryContent,(Ljava/io/File;Lorg/assertj/core/internal/BinaryDiffResult;)V,34,1
+org/assertj/core/error/ShouldHaveBinaryContent.ShouldHaveBinaryContent,(Ljava/nio/file/Path;Lorg/assertj/core/internal/BinaryDiffResult;)V,34,1

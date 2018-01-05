@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldMatch.<clinit>,()V,12,1
+org/assertj/core/error/ShouldMatch.shouldMatch,(Ljava/lang/Object;Ljava/util/function/Predicate;Lorg/assertj/core/presentation/PredicateDescription;)Lorg/assertj/core/error/ErrorMessageFactory;,17,1
+org/assertj/core/error/ShouldMatch.ShouldMatch,(Ljava/lang/Object;Ljava/util/function/Predicate;Lorg/assertj/core/presentation/PredicateDescription;)V,35,2

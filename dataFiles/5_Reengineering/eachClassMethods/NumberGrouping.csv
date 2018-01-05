@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/presentation/NumberGrouping.<clinit>,()V,13,1
+org/assertj/core/presentation/NumberGrouping.toHexLiteral,(Ljava/lang/String;)Ljava/lang/String;,18,2
+org/assertj/core/presentation/NumberGrouping.toBinaryLiteral,(Ljava/lang/String;)Ljava/lang/String;,8,1
+org/assertj/core/presentation/NumberGrouping.toHexLiteral,(Ljava/util/regex/Pattern;Ljava/lang/String;)Ljava/lang/String;,53,3
+org/assertj/core/presentation/NumberGrouping.notEmpty,(Ljava/lang/StringBuilder;)Z,13,2
+org/assertj/core/presentation/NumberGrouping.NumberGrouping,()V,9,1

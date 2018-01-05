@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/extractor/ToStringExtractor.extract,(Ljava/lang/Object;)Ljava/lang/String;,7,1
+org/assertj/core/extractor/ToStringExtractor.ToStringExtractor,()V,9,1
+org/assertj/core/extractor/ToStringExtractor.extract,(Ljava/lang/Object;)Ljava/lang/Object;,9,1

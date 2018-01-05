@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/ByteAssert.ByteAssert,(Ljava/lang/Byte;)V,11,1

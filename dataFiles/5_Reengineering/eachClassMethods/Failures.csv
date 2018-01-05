@@ -1,0 +1,15 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/Failures.<clinit>,()V,13,1
+org/assertj/core/internal/Failures.instance,()Lorg/assertj/core/internal/Failures;,6,1
+org/assertj/core/internal/Failures.setRemoveAssertJRelatedElementsFromStackTrace,(Z)V,10,1
+org/assertj/core/internal/Failures.isRemoveAssertJRelatedElementsFromStackTrace,()Z,7,1
+org/assertj/core/internal/Failures.Failures,()V,19,1
+org/assertj/core/internal/Failures.failure,(Lorg/assertj/core/api/AssertionInfo;Lorg/assertj/core/error/AssertionErrorFactory;)Ljava/lang/AssertionError;,28,2
+org/assertj/core/internal/Failures.failure,(Lorg/assertj/core/api/AssertionInfo;Lorg/assertj/core/error/ErrorMessageFactory;)Ljava/lang/AssertionError;,40,2
+org/assertj/core/internal/Failures.failureIfErrorMessageIsOverridden,(Lorg/assertj/core/api/AssertionInfo;)Ljava/lang/AssertionError;,36,2
+org/assertj/core/internal/Failures.failure,(Ljava/lang/String;)Ljava/lang/AssertionError;,22,1
+org/assertj/core/internal/Failures.expectedThrowableNotThrown,(Ljava/lang/Class;)Ljava/lang/AssertionError;,16,1
+org/assertj/core/internal/Failures.printThreadDumpIfNeeded,()V,15,2
+org/assertj/core/internal/Failures.removeAssertJRelatedElementsFromStackTraceIfNeeded,(Ljava/lang/AssertionError;)V,15,2
+org/assertj/core/internal/Failures.enablePrintThreadDump,()V,10,1
+org/assertj/core/internal/Failures.threadDumpDescription,()Ljava/lang/String;,114,3

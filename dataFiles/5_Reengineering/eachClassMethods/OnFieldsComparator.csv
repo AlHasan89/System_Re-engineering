@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/OnFieldsComparator.OnFieldsComparator,(Ljava/util/Map;Lorg/assertj/core/internal/TypeComparators;[Ljava/lang/String;)V,88,5
+org/assertj/core/internal/OnFieldsComparator.OnFieldsComparator,([Ljava/lang/String;)V,16,1
+org/assertj/core/internal/OnFieldsComparator.getFields,()[Ljava/lang/String;,7,1
+org/assertj/core/internal/OnFieldsComparator.areEqual,(Ljava/lang/Object;Ljava/lang/Object;)Z,30,2
+org/assertj/core/internal/OnFieldsComparator.toString,()Ljava/lang/String;,48,2

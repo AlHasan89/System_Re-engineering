@@ -1,0 +1,8 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/internal/TypeComparators.TypeComparators,()V,16,1
+org/assertj/core/internal/TypeComparators.get,(Ljava/lang/Class;)Ljava/util/Comparator;,98,7
+org/assertj/core/internal/TypeComparators.put,(Ljava/lang/Class;Ljava/util/Comparator;)V,13,1
+org/assertj/core/internal/TypeComparators.isEmpty,()Z,8,1
+org/assertj/core/internal/TypeComparators.hashCode,()I,8,1
+org/assertj/core/internal/TypeComparators.equals,(Ljava/lang/Object;)Z,20,3
+org/assertj/core/internal/TypeComparators.toString,()Ljava/lang/String;,8,1

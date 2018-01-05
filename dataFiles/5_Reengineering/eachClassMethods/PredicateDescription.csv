@@ -1,0 +1,6 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/presentation/PredicateDescription.<clinit>,()V,10,1
+org/assertj/core/presentation/PredicateDescription.PredicateDescription,(Ljava/lang/String;)V,20,1
+org/assertj/core/presentation/PredicateDescription.isDefault,()Z,9,1
+org/assertj/core/presentation/PredicateDescription.equals,(Ljava/lang/Object;)Z,40,4
+org/assertj/core/presentation/PredicateDescription.hashCode,()I,10,1

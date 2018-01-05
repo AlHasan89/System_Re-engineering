@@ -1,0 +1,9 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/URLs.URLs,()V,9,1
+org/assertj/core/util/URLs.contentOf,(Ljava/net/URL;Ljava/lang/String;)Ljava/lang/String;,13,1
+org/assertj/core/util/URLs.contentOf,(Ljava/net/URL;Ljava/nio/charset/Charset;)Ljava/lang/String;,34,2
+org/assertj/core/util/URLs.linesOf,(Ljava/net/URL;Ljava/nio/charset/Charset;)Ljava/util/List;,34,2
+org/assertj/core/util/URLs.linesOf,(Ljava/net/URL;Ljava/lang/String;)Ljava/util/List;,13,1
+org/assertj/core/util/URLs.loadContents,(Ljava/io/InputStream;Ljava/nio/charset/Charset;)Ljava/lang/String;,122,11
+org/assertj/core/util/URLs.loadLines,(Ljava/io/InputStream;Ljava/nio/charset/Charset;)Ljava/util/List;,93,7
+org/assertj/core/util/URLs.checkArgumentCharsetIsSupported,(Ljava/lang/String;)V,17,1

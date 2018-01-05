@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldHaveTime.shouldHaveTime,(Ljava/util/Date;J)Lorg/assertj/core/error/ErrorMessageFactory;,10,1
+org/assertj/core/error/ShouldHaveTime.ShouldHaveTime,(Ljava/util/Date;J)V,27,1

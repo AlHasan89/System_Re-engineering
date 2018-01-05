@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/BooleanAssert.BooleanAssert,(Ljava/lang/Boolean;)V,11,1
+org/assertj/core/api/BooleanAssert.BooleanAssert,(Ljava/util/concurrent/atomic/AtomicBoolean;)V,20,2

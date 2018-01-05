@@ -1,0 +1,79 @@
+org.assertj.core.condition.AnyOf_matches_Test  ,  setUp  ,  []  ,  1
+org.assertj.core.api.Condition  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  2
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  3
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  4
+org.assertj.core.api.Condition  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  2
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  3
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  4
+org.assertj.core.condition.AnyOf  ,  anyOf  ,  [class [Lorg.assertj.core.api.Condition;]  ,  2
+org.assertj.core.api.Condition  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  3
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  4
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  5
+org.assertj.core.condition.Join  ,  notNull  ,  [class org.assertj.core.api.Condition]  ,  3
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  4
+org.assertj.core.condition.Join  ,  notNull  ,  [class org.assertj.core.api.Condition]  ,  3
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  4
+org.assertj.core.condition.AnyOf_matches_Test  ,  should_not_match_if_none_of_the_Conditions_match  ,  []  ,  1
+org.assertj.core.api.TestCondition  ,  shouldMatch  ,  [boolean]  ,  2
+org.assertj.core.api.TestCondition  ,  shouldMatch  ,  [boolean]  ,  2
+org.assertj.core.condition.AnyOf  ,  matches  ,  [class java.lang.Object]  ,  2
+org.assertj.core.api.TestCondition  ,  matches  ,  [class java.lang.Object]  ,  3
+org.assertj.core.api.TestCondition  ,  matches  ,  [class java.lang.Object]  ,  3
+org.assertj.core.api.Assertions  ,  assertThat  ,  [boolean]  ,  2
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [boolean]  ,  3
+org.assertj.core.internal.StandardComparisonStrategy  ,  instance  ,  []  ,  4
+org.assertj.core.util.introspection.PropertySupport  ,  instance  ,  []  ,  4
+org.assertj.core.util.Compatibility$System  ,  lineSeparator  ,  []  ,  4
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  4
+org.assertj.core.util.introspection.FieldSupport  ,  comparison  ,  []  ,  4
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  4
+org.assertj.core.util.Compatibility$System  ,  lineSeparator  ,  []  ,  4
+org.assertj.core.configuration.Services  ,  get  ,  [class java.lang.Class- class java.lang.Object]  ,  4
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  4
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  4
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  5
+org.assertj.core.internal.Failures  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Booleans  ,  instance  ,  []  ,  4
+org.assertj.core.api.AbstractBooleanAssert  ,  isFalse  ,  []  ,  2
+org.assertj.core.api.AbstractBooleanAssert  ,  isEqualTo  ,  [boolean]  ,  3
+org.assertj.core.internal.Booleans  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Boolean- boolean]  ,  4
+org.assertj.core.internal.Booleans  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Boolean]  ,  5
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  6
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  6
+org.assertj.core.condition.AnyOf_matches_Test  ,  setUp  ,  []  ,  1
+org.assertj.core.api.Condition  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  2
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  3
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  4
+org.assertj.core.api.Condition  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  2
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  3
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  4
+org.assertj.core.condition.AnyOf  ,  anyOf  ,  [class [Lorg.assertj.core.api.Condition;]  ,  2
+org.assertj.core.api.Condition  ,  as  ,  [class java.lang.String- class [Ljava.lang.Object;]  ,  3
+org.assertj.core.util.Arrays  ,  isNullOrEmpty  ,  [class [Ljava.lang.Object;]  ,  4
+org.assertj.core.util.Arrays  ,  isEmpty  ,  [class [Ljava.lang.Object;]  ,  5
+org.assertj.core.condition.Join  ,  notNull  ,  [class org.assertj.core.api.Condition]  ,  3
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  4
+org.assertj.core.condition.Join  ,  notNull  ,  [class org.assertj.core.api.Condition]  ,  3
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  4
+org.assertj.core.condition.AnyOf_matches_Test  ,  should_match_if_at_least_one_Condition_matches  ,  []  ,  1
+org.assertj.core.api.TestCondition  ,  shouldMatch  ,  [boolean]  ,  2
+org.assertj.core.api.TestCondition  ,  shouldMatch  ,  [boolean]  ,  2
+org.assertj.core.condition.AnyOf  ,  matches  ,  [class java.lang.Object]  ,  2
+org.assertj.core.api.TestCondition  ,  matches  ,  [class java.lang.Object]  ,  3
+org.assertj.core.api.TestCondition  ,  matches  ,  [class java.lang.Object]  ,  3
+org.assertj.core.api.Assertions  ,  assertThat  ,  [boolean]  ,  2
+org.assertj.core.api.AssertionsForClassTypes  ,  assertThat  ,  [boolean]  ,  3
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  4
+org.assertj.core.internal.Conditions  ,  instance  ,  []  ,  4
+org.assertj.core.configuration.ConfigurationProvider  ,  representation  ,  []  ,  4
+org.assertj.core.api.WritableAssertionInfo  ,  useRepresentation  ,  [interface org.assertj.core.presentation.Representation]  ,  4
+org.assertj.core.util.Preconditions  ,  checkNotNull  ,  [class java.lang.Object- class java.lang.String]  ,  5
+org.assertj.core.internal.Booleans  ,  instance  ,  []  ,  4
+org.assertj.core.api.AbstractBooleanAssert  ,  isTrue  ,  []  ,  2
+org.assertj.core.api.AbstractBooleanAssert  ,  isEqualTo  ,  [boolean]  ,  3
+org.assertj.core.internal.Booleans  ,  assertEqual  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Boolean- boolean]  ,  4
+org.assertj.core.internal.Booleans  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Boolean]  ,  5
+org.assertj.core.internal.Objects  ,  instance  ,  []  ,  6
+org.assertj.core.internal.Objects  ,  assertNotNull  ,  [interface org.assertj.core.api.AssertionInfo- class java.lang.Object]  ,  6

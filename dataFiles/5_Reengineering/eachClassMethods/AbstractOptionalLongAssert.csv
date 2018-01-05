@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractOptionalLongAssert.AbstractOptionalLongAssert,(Ljava/util/OptionalLong;Ljava/lang/Class;)V,11,1
+org/assertj/core/api/AbstractOptionalLongAssert.isPresent,()Lorg/assertj/core/api/AbstractOptionalLongAssert;,26,2
+org/assertj/core/api/AbstractOptionalLongAssert.isNotPresent,()Lorg/assertj/core/api/AbstractOptionalLongAssert;,7,1
+org/assertj/core/api/AbstractOptionalLongAssert.isEmpty,()Lorg/assertj/core/api/AbstractOptionalLongAssert;,27,2
+org/assertj/core/api/AbstractOptionalLongAssert.isNotEmpty,()Lorg/assertj/core/api/AbstractOptionalLongAssert;,7,1
+org/assertj/core/api/AbstractOptionalLongAssert.hasValue,(J)Lorg/assertj/core/api/AbstractOptionalLongAssert;,43,3

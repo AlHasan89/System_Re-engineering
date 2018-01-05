@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/ArraySortedAssert.isSorted,()Lorg/assertj/core/api/ArraySortedAssert;,2,1
+org/assertj/core/api/ArraySortedAssert.isSortedAccordingTo,(Ljava/util/Comparator;)Lorg/assertj/core/api/ArraySortedAssert;,2,1

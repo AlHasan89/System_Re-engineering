@@ -1,0 +1,11 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/diff/Delta.Delta,(Lorg/assertj/core/util/diff/Chunk;Lorg/assertj/core/util/diff/Chunk;)V,49,3
+org/assertj/core/util/diff/Delta.verify,(Ljava/util/List;)V,2,1
+org/assertj/core/util/diff/Delta.applyTo,(Ljava/util/List;)V,2,1
+org/assertj/core/util/diff/Delta.getType,()Lorg/assertj/core/util/diff/Delta$TYPE;,2,1
+org/assertj/core/util/diff/Delta.getOriginal,()Lorg/assertj/core/util/diff/Chunk;,7,1
+org/assertj/core/util/diff/Delta.getRevised,()Lorg/assertj/core/util/diff/Chunk;,7,1
+org/assertj/core/util/diff/Delta.hashCode,()I,52,3
+org/assertj/core/util/diff/Delta.equals,(Ljava/lang/Object;)Z,98,10
+org/assertj/core/util/diff/Delta.lineNumber,()I,10,1
+org/assertj/core/util/diff/Delta.toString,()Ljava/lang/String;,9,1

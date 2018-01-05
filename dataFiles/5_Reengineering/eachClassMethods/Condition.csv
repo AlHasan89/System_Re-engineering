@@ -1,0 +1,17 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/Condition.Condition,()V,19,1
+org/assertj/core/api/Condition.Condition,(Ljava/lang/String;)V,17,1
+org/assertj/core/api/Condition.Condition,(Ljava/util/function/Predicate;Ljava/lang/String;[Ljava/lang/Object;)V,28,1
+org/assertj/core/api/Condition.Condition,(Lorg/assertj/core/description/Description;)V,15,1
+org/assertj/core/api/Condition.describedAs,(Ljava/lang/String;[Ljava/lang/Object;)Lorg/assertj/core/api/Condition;,9,1
+org/assertj/core/api/Condition.as,(Ljava/lang/String;[Ljava/lang/Object;)Lorg/assertj/core/api/Condition;,15,1
+org/assertj/core/api/Condition.describedAs,(Lorg/assertj/core/description/Description;)Lorg/assertj/core/api/Condition;,8,1
+org/assertj/core/api/Condition.as,(Lorg/assertj/core/description/Description;)Lorg/assertj/core/api/Condition;,12,1
+org/assertj/core/api/Condition.description,()Lorg/assertj/core/description/Description;,7,1
+org/assertj/core/api/Condition.matches,(Ljava/lang/Object;)Z,15,1
+org/assertj/core/api/Condition.checkPredicate,(Ljava/util/function/Predicate;)V,15,1
+org/assertj/core/api/Condition.toString,()Ljava/lang/String;,8,1
+org/assertj/core/api/Condition.as,(Lorg/assertj/core/description/Description;)Ljava/lang/Object;,8,1
+org/assertj/core/api/Condition.as,(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;,9,1
+org/assertj/core/api/Condition.describedAs,(Lorg/assertj/core/description/Description;)Ljava/lang/Object;,8,1
+org/assertj/core/api/Condition.describedAs,(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/Object;,9,1

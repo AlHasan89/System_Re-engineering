@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/MessageFormatter.<clinit>,()V,9,1
+org/assertj/core/error/MessageFormatter.instance,()Lorg/assertj/core/error/MessageFormatter;,6,1
+org/assertj/core/error/MessageFormatter.MessageFormatter,()V,14,1
+org/assertj/core/error/MessageFormatter.format,(Lorg/assertj/core/description/Description;Lorg/assertj/core/presentation/Representation;Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;,31,1
+org/assertj/core/error/MessageFormatter.format,(Lorg/assertj/core/presentation/Representation;[Ljava/lang/Object;)[Ljava/lang/Object;,42,2
+org/assertj/core/error/MessageFormatter.asText,(Lorg/assertj/core/presentation/Representation;Ljava/lang/Object;)Ljava/lang/String;,20,2

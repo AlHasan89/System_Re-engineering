@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/Java6JUnitBDDSoftAssertions.Java6JUnitBDDSoftAssertions,()V,7,1
+org/assertj/core/api/Java6JUnitBDDSoftAssertions.apply,(Lorg/junit/runners/model/Statement;Lorg/junit/runner/Description;)Lorg/junit/runners/model/Statement;,10,1
+org/assertj/core/api/Java6JUnitBDDSoftAssertions.getErrors,()Ljava/util/List;,8,1

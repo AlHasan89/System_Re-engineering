@@ -1,0 +1,7 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/presentation/UnicodeRepresentation.<clinit>,()V,9,1
+org/assertj/core/presentation/UnicodeRepresentation.UnicodeRepresentation,()V,7,1
+org/assertj/core/presentation/UnicodeRepresentation.toStringOf,(Ljava/lang/Object;)Ljava/lang/String;,41,4
+org/assertj/core/presentation/UnicodeRepresentation.toStringOf,(Ljava/lang/Character;)Ljava/lang/String;,8,1
+org/assertj/core/presentation/UnicodeRepresentation.toStringOf,(Ljava/lang/String;)Ljava/lang/String;,7,1
+org/assertj/core/presentation/UnicodeRepresentation.escapeUnicode,(Ljava/lang/String;)Ljava/lang/String;,80,3

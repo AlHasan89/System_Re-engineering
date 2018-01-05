@@ -1,0 +1,20 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/MapAssert.MapAssert,(Ljava/util/Map;)V,11,1
+org/assertj/core/api/MapAssert.contains,([Ljava/util/Map$Entry;)Lorg/assertj/core/api/MapAssert;,9,1
+org/assertj/core/api/MapAssert.containsAnyOf,([Ljava/util/Map$Entry;)Lorg/assertj/core/api/MapAssert;,9,1
+org/assertj/core/api/MapAssert.containsOnly,([Ljava/util/Map$Entry;)Lorg/assertj/core/api/MapAssert;,9,1
+org/assertj/core/api/MapAssert.containsExactly,([Ljava/util/Map$Entry;)Lorg/assertj/core/api/MapAssert;,9,1
+org/assertj/core/api/MapAssert.containsKeys,([Ljava/lang/Object;)Lorg/assertj/core/api/MapAssert;,9,1
+org/assertj/core/api/MapAssert.containsOnlyKeys,([Ljava/lang/Object;)Lorg/assertj/core/api/MapAssert;,9,1
+org/assertj/core/api/MapAssert.containsValues,([Ljava/lang/Object;)Lorg/assertj/core/api/MapAssert;,9,1
+org/assertj/core/api/MapAssert.doesNotContainKeys,([Ljava/lang/Object;)Lorg/assertj/core/api/MapAssert;,9,1
+org/assertj/core/api/MapAssert.doesNotContain,([Ljava/util/Map$Entry;)Lorg/assertj/core/api/MapAssert;,9,1
+org/assertj/core/api/MapAssert.contains,([Ljava/util/Map$Entry;)Lorg/assertj/core/api/AbstractMapAssert;,9,1
+org/assertj/core/api/MapAssert.containsOnly,([Ljava/util/Map$Entry;)Lorg/assertj/core/api/AbstractMapAssert;,9,1
+org/assertj/core/api/MapAssert.containsKeys,([Ljava/lang/Object;)Lorg/assertj/core/api/AbstractMapAssert;,9,1
+org/assertj/core/api/MapAssert.containsExactly,([Ljava/util/Map$Entry;)Lorg/assertj/core/api/AbstractMapAssert;,9,1
+org/assertj/core/api/MapAssert.containsAnyOf,([Ljava/util/Map$Entry;)Lorg/assertj/core/api/AbstractMapAssert;,9,1
+org/assertj/core/api/MapAssert.containsValues,([Ljava/lang/Object;)Lorg/assertj/core/api/AbstractMapAssert;,9,1
+org/assertj/core/api/MapAssert.doesNotContain,([Ljava/util/Map$Entry;)Lorg/assertj/core/api/AbstractMapAssert;,9,1
+org/assertj/core/api/MapAssert.containsOnlyKeys,([Ljava/lang/Object;)Lorg/assertj/core/api/AbstractMapAssert;,9,1
+org/assertj/core/api/MapAssert.doesNotContainKeys,([Ljava/lang/Object;)Lorg/assertj/core/api/AbstractMapAssert;,9,1

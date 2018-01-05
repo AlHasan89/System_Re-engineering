@@ -1,0 +1,2 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/OptionalAssert.OptionalAssert,(Ljava/util/Optional;)V,11,1

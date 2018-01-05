@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/SoftAssertions.SoftAssertions,()V,7,1
+org/assertj/core/api/SoftAssertions.assertAll,()V,27,2
+org/assertj/core/api/SoftAssertions.assertSoftly,(Ljava/util/function/Consumer;)V,20,1

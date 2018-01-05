@@ -1,0 +1,5 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/Maps.format,(Ljava/util/Map;)Ljava/lang/String;,9,1
+org/assertj/core/util/Maps.format,(Lorg/assertj/core/presentation/Representation;Ljava/util/Map;)Ljava/lang/String;,9,1
+org/assertj/core/util/Maps.newHashMap,(Ljava/lang/Object;Ljava/lang/Object;)Ljava/util/Map;,19,1
+org/assertj/core/util/Maps.Maps,()V,7,1

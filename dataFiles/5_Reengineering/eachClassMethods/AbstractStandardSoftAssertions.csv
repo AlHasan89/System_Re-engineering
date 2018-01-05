@@ -1,0 +1,23 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractStandardSoftAssertions.AbstractStandardSoftAssertions,()V,7,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/nio/file/Path;)Lorg/assertj/core/api/PathAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/util/Optional;)Lorg/assertj/core/api/OptionalAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/util/OptionalDouble;)Lorg/assertj/core/api/OptionalDoubleAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/util/OptionalLong;)Lorg/assertj/core/api/OptionalLongAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/util/OptionalInt;)Lorg/assertj/core/api/OptionalIntAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/time/LocalDate;)Lorg/assertj/core/api/LocalDateAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/time/LocalDateTime;)Lorg/assertj/core/api/LocalDateTimeAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/time/ZonedDateTime;)Lorg/assertj/core/api/ZonedDateTimeAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/time/LocalTime;)Lorg/assertj/core/api/LocalTimeAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/time/OffsetTime;)Lorg/assertj/core/api/OffsetTimeAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/time/OffsetDateTime;)Lorg/assertj/core/api/OffsetDateTimeAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/time/Instant;)Lorg/assertj/core/api/InstantAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/util/concurrent/CompletableFuture;)Lorg/assertj/core/api/CompletableFutureAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/util/function/Predicate;)Lorg/assertj/core/api/SoftAssertionPredicateAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/util/function/IntPredicate;)Lorg/assertj/core/api/IntPredicateAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/util/function/DoublePredicate;)Lorg/assertj/core/api/DoublePredicateAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/util/function/LongPredicate;)Lorg/assertj/core/api/LongPredicateAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/util/stream/Stream;)Lorg/assertj/core/api/AbstractListAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/util/stream/DoubleStream;)Lorg/assertj/core/api/AbstractListAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/util/stream/LongStream;)Lorg/assertj/core/api/AbstractListAssert;,11,1
+org/assertj/core/api/AbstractStandardSoftAssertions.assertThat,(Ljava/util/stream/IntStream;)Lorg/assertj/core/api/AbstractListAssert;,11,1

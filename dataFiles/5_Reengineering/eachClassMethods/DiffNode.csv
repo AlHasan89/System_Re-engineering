@@ -1,0 +1,3 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/util/diff/myers/DiffNode.DiffNode,(IILorg/assertj/core/util/diff/myers/PathNode;)V,21,2
+org/assertj/core/util/diff/myers/DiffNode.isSnake,()Z,6,1

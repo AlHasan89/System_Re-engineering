@@ -1,0 +1,22 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/api/AbstractObjectAssert.AbstractObjectAssert,(Ljava/lang/Object;Ljava/lang/Class;)V,23,1
+org/assertj/core/api/AbstractObjectAssert.defaultTypeComparators,()Lorg/assertj/core/internal/TypeComparators;,30,1
+org/assertj/core/api/AbstractObjectAssert.as,(Lorg/assertj/core/description/Description;)Lorg/assertj/core/api/AbstractObjectAssert;,9,1
+org/assertj/core/api/AbstractObjectAssert.as,(Ljava/lang/String;[Ljava/lang/Object;)Lorg/assertj/core/api/AbstractObjectAssert;,10,1
+org/assertj/core/api/AbstractObjectAssert.isEqualToIgnoringNullFields,(Ljava/lang/Object;)Lorg/assertj/core/api/AbstractObjectAssert;,22,1
+org/assertj/core/api/AbstractObjectAssert.isEqualToComparingOnlyGivenFields,(Ljava/lang/Object;[Ljava/lang/String;)Lorg/assertj/core/api/AbstractObjectAssert;,27,1
+org/assertj/core/api/AbstractObjectAssert.isEqualToIgnoringGivenFields,(Ljava/lang/Object;[Ljava/lang/String;)Lorg/assertj/core/api/AbstractObjectAssert;,27,1
+org/assertj/core/api/AbstractObjectAssert.hasNoNullFieldsOrProperties,()Lorg/assertj/core/api/AbstractObjectAssert;,19,1
+org/assertj/core/api/AbstractObjectAssert.hasNoNullFieldsOrPropertiesExcept,([Ljava/lang/String;)Lorg/assertj/core/api/AbstractObjectAssert;,18,1
+org/assertj/core/api/AbstractObjectAssert.isEqualToComparingFieldByField,(Ljava/lang/Object;)Lorg/assertj/core/api/AbstractObjectAssert;,24,1
+org/assertj/core/api/AbstractObjectAssert.usingComparatorForFields,(Ljava/util/Comparator;[Ljava/lang/String;)Lorg/assertj/core/api/AbstractObjectAssert;,40,2
+org/assertj/core/api/AbstractObjectAssert.usingComparatorForType,(Ljava/util/Comparator;Ljava/lang/Class;)Lorg/assertj/core/api/AbstractObjectAssert;,15,1
+org/assertj/core/api/AbstractObjectAssert.hasFieldOrProperty,(Ljava/lang/String;)Lorg/assertj/core/api/AbstractObjectAssert;,18,1
+org/assertj/core/api/AbstractObjectAssert.hasFieldOrPropertyWithValue,(Ljava/lang/String;Ljava/lang/Object;)Lorg/assertj/core/api/AbstractObjectAssert;,19,1
+org/assertj/core/api/AbstractObjectAssert.extracting,([Ljava/lang/String;)Lorg/assertj/core/api/AbstractObjectArrayAssert;,36,1
+org/assertj/core/api/AbstractObjectAssert.extracting,([Ljava/util/function/Function;)Lorg/assertj/core/api/AbstractObjectArrayAssert;,24,1
+org/assertj/core/api/AbstractObjectAssert.isEqualToComparingFieldByFieldRecursively,(Ljava/lang/Object;)Lorg/assertj/core/api/AbstractObjectAssert;,26,1
+org/assertj/core/api/AbstractObjectAssert.returns,(Ljava/lang/Object;Ljava/util/function/Function;)Lorg/assertj/core/api/AbstractObjectAssert;,26,1
+org/assertj/core/api/AbstractObjectAssert.as,(Ljava/lang/String;[Ljava/lang/Object;)Lorg/assertj/core/api/AbstractAssert;,9,1
+org/assertj/core/api/AbstractObjectAssert.as,(Lorg/assertj/core/description/Description;)Lorg/assertj/core/api/AbstractAssert;,8,1
+org/assertj/core/api/AbstractObjectAssert.lambda$0,(Ljava/util/function/Function;)Ljava/lang/Object;,9,1

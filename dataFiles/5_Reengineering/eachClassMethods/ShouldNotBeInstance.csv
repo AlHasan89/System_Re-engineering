@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ShouldNotBeInstance.shouldNotBeInstance,(Ljava/lang/Object;Ljava/lang/Class;)Lorg/assertj/core/error/ErrorMessageFactory;,27,2
+org/assertj/core/error/ShouldNotBeInstance.ShouldNotBeInstance,(Ljava/lang/Object;Ljava/lang/Class;)V,20,1
+org/assertj/core/error/ShouldNotBeInstance.ShouldNotBeInstance,(Ljava/lang/Throwable;Ljava/lang/Class;)V,21,1

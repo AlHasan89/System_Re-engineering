@@ -1,0 +1,4 @@
+Method,Description,Nodes,Cyclomatic Complexity
+org/assertj/core/error/ErrorMessageFactory.create,(Lorg/assertj/core/description/Description;Lorg/assertj/core/presentation/Representation;)Ljava/lang/String;,2,1
+org/assertj/core/error/ErrorMessageFactory.create,(Lorg/assertj/core/description/Description;)Ljava/lang/String;,2,1
+org/assertj/core/error/ErrorMessageFactory.create,()Ljava/lang/String;,2,1
