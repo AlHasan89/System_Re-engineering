@@ -193,6 +193,9 @@ public class ProgramDependenceGraph extends Analysis {
             inAllSlices.retainAll(slice);
         }
        
+        // Added Line to solution because Tightness is:
+        // The number of nodes that occur in every possible slice of a method divided by the total number of
+        // nodes in that method.
         double Tightness = (double)inAllSlices.size() /  controlFlowGraph.getNodes().size();
         return Tightness;
     }

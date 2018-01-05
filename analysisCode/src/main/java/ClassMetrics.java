@@ -122,15 +122,18 @@ public class ClassMetrics {
 	            	else
 	            		MethodRealName = mn.name;
 	            //Write the method details and metrics to the CSV record.
-	            record.add(cn.name+"."+MethodRealName); //Add method signature in first column.
-	            record.add(mn.desc);
-	            record.add(Integer.toString(numNodes));
-	            record.add(Integer.toString(cyclomaticComplexity));
+	            record.add(cn.name+"."+MethodRealName); 
+	            record.add(mn.desc); //Add method signature
+	            record.add(Integer.toString(numNodes)); // Add nodes
+	            record.add(Integer.toString(cyclomaticComplexity)); // Add CC
 	            csvPrinter.printRecord(record);
 	            csvPrinterAllClasses.printRecord(record);
 	            
+	            // WMC is the complexity of all methods in that class:
 	            ClassCC = ClassCC + cyclomaticComplexity;
 	            
+	            // if nodes number > 100 then it is big method.
+	            // so we will apply slice metrics for big methods
 	            if (numNodes > 100) {
 	            		recordSliceMetrics = new ArrayList<String>();
 	            		

@@ -14,7 +14,7 @@ aspect Trace{
 
         try{
 		// export log file as csv file
-                FileHandler handler=new FileHandler("../2D_DynamicAnalysisImportantClasses/TracesLogFiles/Test.csv",false);
+                FileHandler handler=new FileHandler("../../dataFiles/2D_DynamicAnalysisImportantClasses/TracesLogFiles/Test.csv",false);
 
                 logger.addHandler(handler);
 

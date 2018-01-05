@@ -17,9 +17,11 @@ public class ExtractImportantClasses {
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
 
+		// Read Classes.csv file from dynamic analysis
 		Reader classesCSV = new FileReader("../dataFiles/2D_DynamicAnalysisImportantClasses/ClassesAndMethodsCSVFiles/classes.csv");
         Iterable<CSVRecord> classesCSVIterable = CSVFormat.EXCEL.parse(classesCSV);
         
+        // take all classes name and filter them so we can compare with them later
         Set<String> ClassesInTraces = new HashSet<String>();
         Set<String> ClassesInTracesForDupilcation = new HashSet<String>();
         for (CSVRecord rec : classesCSVIterable) {
@@ -29,6 +31,7 @@ public class ExtractImportantClasses {
         		ClassesInTracesForDupilcation.add(name);
         }
         
+        // do the same steps of classes to methods of dynamic analysis
         Reader methodsCSV = new FileReader("../dataFiles/2D_DynamicAnalysisImportantClasses/ClassesAndMethodsCSVFiles/methods.csv");
         Iterable<CSVRecord> methodsCSVIterable = CSVFormat.EXCEL.parse(methodsCSV);
         
@@ -37,9 +40,14 @@ public class ExtractImportantClasses {
         		MethodsInTraces.add(rec.get(0).replaceAll("\\s+",""));
         }
         
+        
+        // Now start getting the important classes and methods from all .csv files we have:
+        
+        // First from AllClasseMethods from Metrics question
         Reader ClassesMethods = new FileReader("../dataFiles/3A_MetricsAndRelations/ClassesMetricsLOCAndWMC/AllClasses/AllClassesMethods.csv");
         Iterable<CSVRecord> ClassesMethodsCSVIterable = CSVFormat.EXCEL.parse(ClassesMethods);
         
+        // write the important methods
         FileWriter fw = new FileWriter("../dataFiles/3A_MetricsAndRelations/ClassesMetricsLOCAndWMC/ImportantClasses/ImportantClassesMethods.csv");
         CSVPrinter csvPrinter = new CSVPrinter(fw, CSVFormat.EXCEL);
         
@@ -52,7 +60,7 @@ public class ExtractImportantClasses {
         for (CSVRecord rec1 : ClassesMethodsCSVIterable) {
         		if (rec1.get(0).equals("Method")) continue;
     			String name = rec1.get(0).split("\\.")[1];
-    			if (MethodsInTraces.contains(name)) {
+    			if (MethodsInTraces.contains(name)) { // if it is exist in methods Set then add it to the new csv file
     				record = new ArrayList<String>();
     				record.add(rec1.get(0));
     		        record.add(rec1.get(1));
@@ -63,6 +71,7 @@ public class ExtractImportantClasses {
         	}
         csvPrinter.close();
         
+        // do the same for classes
         Reader ClassesMetrics = new FileReader("../dataFiles/3A_MetricsAndRelations/ClassesMetricsLOCAndWMC/AllClasses/ClassesMetrics.csv");
         Iterable<CSVRecord> ClassesMetricsCSVIterable = CSVFormat.EXCEL.parse(ClassesMetrics);
         
@@ -77,7 +86,7 @@ public class ExtractImportantClasses {
         for (CSVRecord rec1 : ClassesMetricsCSVIterable) {
         		if (rec1.get(0).equals("Class")) continue;
         		String name = rec1.get(0).replaceAll("\\/", "\\.");
-        		if (ClassesInTraces.contains(name)) {
+        		if (ClassesInTraces.contains(name)) { // if it is exist in classes Set then add it to the new csv file
         			Classesrecord = new ArrayList<String>();
         			Classesrecord.add(rec1.get(0));
         	        Classesrecord.add(rec1.get(1));
@@ -88,6 +97,7 @@ public class ExtractImportantClasses {
         csvPrinterClasses.close();
         
         
+        // the same for Repository logs
         Reader RepositoryLog = new FileReader("../dataFiles/3A_MetricsAndRelations/RepositoryLog/AllChanges/RepositoryLog.csv");
         Iterable<CSVRecord> RepositoryLogCSVIterable = CSVFormat.EXCEL.parse(RepositoryLog);
         
@@ -111,7 +121,7 @@ public class ExtractImportantClasses {
         			name = name.replaceAll("\\.java", "");
         			name = name.replaceAll("\\/", "\\.");
         		}
-        		if (ClassesInTraces.contains(name)) {
+        		if (ClassesInTraces.contains(name)) { // if it is exist in classes Set then add it to the new csv file
         			RepositoryLogrecord = new ArrayList<String>();
         			RepositoryLogrecord.add(rec1.get(0));
         			RepositoryLogrecord.add(rec1.get(1));
@@ -124,7 +134,7 @@ public class ExtractImportantClasses {
         }
         csvPrinterRepositoryLog.close();
 	
-	
+	// the same for command lines "Bash Scripting" files 
     Reader CommandLineLines = new FileReader("../dataFiles/3A_MetricsAndRelations/CommandLineMetrics/AllClasses/lineCounts.csv");
     Iterable<CSVRecord> CommandLineLinesCSVIterable = CSVFormat.EXCEL.parse(CommandLineLines);
     
@@ -139,7 +149,7 @@ public class ExtractImportantClasses {
 		name = name.replaceAll("./src/test/java/","");
 		name = name.replaceAll("\\.java", "");
 		name = name.replaceAll("\\/", "\\.");
-		if (ClassesInTraces.contains(name)) {
+		if (ClassesInTraces.contains(name)) { // if it is exist in classes Set then add it to the new csv file
 			CommandLineLinesRecord = new ArrayList<String>();
 			CommandLineLinesRecord.add(rec1.get(0));
 			CommandLineLinesRecord.add(rec1.get(1));
@@ -163,7 +173,7 @@ public class ExtractImportantClasses {
 		name = name.replaceAll("./src/test/java/","");
 		name = name.replaceAll("\\.java", "");
 		name = name.replaceAll("\\/", "\\.");
-		if (ClassesInTraces.contains(name)) {
+		if (ClassesInTraces.contains(name)) { // if it is exist in classes Set then add it to the new csv file
 			CommandLineCommentsRecord = new ArrayList<String>();
 			CommandLineCommentsRecord.add(rec1.get(0));
 			CommandLineCommentsRecord.add(rec1.get(1));
@@ -187,7 +197,7 @@ public class ExtractImportantClasses {
 		name = name.replaceAll("./src/test/java/","");
 		name = name.replaceAll("\\.java", "");
 		name = name.replaceAll("\\/", "\\.");
-		if (ClassesInTraces.contains(name)) {
+		if (ClassesInTraces.contains(name)) { // if it is exist in classes Set then add it to the new csv file
 			CommandLineVocRecord = new ArrayList<String>();
 			CommandLineVocRecord.add(rec1.get(0));
 			CommandLineVocRecord.add(rec1.get(1));
@@ -196,6 +206,7 @@ public class ExtractImportantClasses {
 		}
     csvPrinterCommandLineVoc.close();
     
+    // the same for code duplication
     Reader DuplicationDetector = new FileReader("../dataFiles/3C_CodeDuplication/1- AllClasses/fileComparison.csv");
     Iterable<CSVRecord> DuplicationDetectorCSVIterable = CSVFormat.EXCEL.parse(DuplicationDetector);
     
@@ -214,7 +225,7 @@ public class ExtractImportantClasses {
 		String To =  rec1.get(1);
 		From = From.replaceAll("\\.java", "");
 		To = To.replaceAll("\\.java", "");
-		if ( (ClassesInTracesForDupilcation.contains(From)) && (ClassesInTracesForDupilcation.contains(To)) ){
+		if ( (ClassesInTracesForDupilcation.contains(From)) && (ClassesInTracesForDupilcation.contains(To)) ){ // if it is exist in classes Set then add it to the new csv file
 			DuplicationDetectorRecord = new ArrayList<String>();
 			DuplicationDetectorRecord.add(rec1.get(0));
 			DuplicationDetectorRecord.add(rec1.get(1));
