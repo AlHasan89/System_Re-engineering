@@ -34,10 +34,15 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
+import org.assertj.core.api.AbstractUriAssert;
 import org.assertj.core.api.AssertionInfo;
+import org.assertj.core.api.UriAssert;
 import org.assertj.core.util.VisibleForTesting;
 
 public class Uris {
+	public static AbstractUriAssert<?> assertThat(URI actual) {
+	    return new UriAssert(actual);
+	  }
 
   private static final String UTF_8 = "UTF-8";
 

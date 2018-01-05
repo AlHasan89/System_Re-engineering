@@ -14,6 +14,10 @@ package org.assertj.core.internal;
 
 import static java.lang.Math.abs;
 
+import org.assertj.core.api.AbstractDoubleArrayAssert;
+import org.assertj.core.api.AbstractDoubleAssert;
+import org.assertj.core.api.DoubleArrayAssert;
+import org.assertj.core.api.DoubleAssert;
 import org.assertj.core.util.VisibleForTesting;
 
 /**
@@ -25,6 +29,18 @@ import org.assertj.core.util.VisibleForTesting;
  */
 public class Doubles extends RealNumbers<Double> {
 
+  public static AbstractDoubleAssert<?> assertThat(double actual) {
+	    return new DoubleAssert(actual);
+  }
+  
+  public static AbstractDoubleAssert<?> assertThat(Double actual) {
+	    return new DoubleAssert(actual);
+  }
+	
+  public static AbstractDoubleArrayAssert<?> assertThat(double[] actual) {
+	    return new DoubleArrayAssert(actual);
+  }
+  
   private static final Doubles INSTANCE = new Doubles();
 
   /**

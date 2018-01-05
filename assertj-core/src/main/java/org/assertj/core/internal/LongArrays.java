@@ -14,8 +14,10 @@ package org.assertj.core.internal;
 
 import java.util.Comparator;
 
+import org.assertj.core.api.AbstractLongArrayAssert;
 import org.assertj.core.api.ArraySortedAssert;
 import org.assertj.core.api.AssertionInfo;
+import org.assertj.core.api.LongArrayAssert;
 import org.assertj.core.data.Index;
 import org.assertj.core.util.VisibleForTesting;
 
@@ -29,6 +31,10 @@ import org.assertj.core.util.VisibleForTesting;
  */
 public class LongArrays {
 
+	public static AbstractLongArrayAssert<?> assertThat(long[] actual) {
+	    return new LongArrayAssert(actual);
+	  }
+	
   private static final LongArrays INSTANCE = new LongArrays();
 
   /**

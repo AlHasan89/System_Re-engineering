@@ -20,6 +20,7 @@ import static org.assertj.core.util.FailureMessages.actualIsNull;
 import java.util.Optional;
 
 import org.assertj.core.api.BaseTest;
+import org.assertj.core.internal.Integers;
 import org.junit.Test;
 
 public class OptionalAssert_hasValueSatisfying_Test extends BaseTest {
@@ -46,7 +47,7 @@ public class OptionalAssert_hasValueSatisfying_Test extends BaseTest {
                    .endsWith("thing");
     });
     assertThat(Optional.of(10)).hasValueSatisfying(i -> {
-      assertThat(i).isGreaterThan(9);
+      Integers.assertThat(i).isGreaterThan(9);
     });
   }
 

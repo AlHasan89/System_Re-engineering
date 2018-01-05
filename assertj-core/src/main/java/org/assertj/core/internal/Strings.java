@@ -77,6 +77,7 @@ import org.assertj.core.util.VisibleForTesting;
  * @author Michal Kordas
  */
 public class Strings {
+	
 
   private static final Strings INSTANCE = new Strings();
   private final ComparisonStrategy comparisonStrategy;

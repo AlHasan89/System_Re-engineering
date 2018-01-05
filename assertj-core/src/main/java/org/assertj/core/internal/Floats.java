@@ -14,6 +14,9 @@ package org.assertj.core.internal;
 
 import static java.lang.Math.abs;
 
+import org.assertj.core.api.AbstractFloatAssert;
+import org.assertj.core.api.FloatAssert;
+import org.assertj.core.util.CheckReturnValue;
 import org.assertj.core.util.VisibleForTesting;
 
 /**
@@ -26,6 +29,14 @@ import org.assertj.core.util.VisibleForTesting;
  */
 public class Floats extends RealNumbers<Float> {
 
+	  public static AbstractFloatAssert<?> assertThat(float actual) {
+	    return new FloatAssert(actual);
+	  }
+
+	  public static AbstractFloatAssert<?> assertThat(Float actual) {
+	    return new FloatAssert(actual);
+	  }
+	  
   private static final Floats INSTANCE = new Floats();
 
   /**

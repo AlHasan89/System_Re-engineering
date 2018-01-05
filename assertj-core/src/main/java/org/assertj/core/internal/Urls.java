@@ -32,10 +32,18 @@ import java.net.URL;
 import java.util.List;
 import java.util.Map;
 
+import org.assertj.core.api.AbstractUrlAssert;
 import org.assertj.core.api.AssertionInfo;
+import org.assertj.core.api.UrlAssert;
+import org.assertj.core.util.CheckReturnValue;
 import org.assertj.core.util.VisibleForTesting;
 
 public class Urls {
+	
+	  public static AbstractUrlAssert<?> assertThat(URL actual) {
+	    return new UrlAssert(actual);
+	  }
+	
 
   private static final Urls INSTANCE = new Urls();
 

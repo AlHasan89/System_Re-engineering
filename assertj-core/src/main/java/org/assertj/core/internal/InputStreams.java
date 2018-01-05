@@ -20,7 +20,9 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.List;
 
+import org.assertj.core.api.AbstractInputStreamAssert;
 import org.assertj.core.api.AssertionInfo;
+import org.assertj.core.api.InputStreamAssert;
 import org.assertj.core.util.VisibleForTesting;
 import org.assertj.core.util.diff.Delta;
 
@@ -32,6 +34,10 @@ import org.assertj.core.util.diff.Delta;
  */
 public class InputStreams {
 
+	public static AbstractInputStreamAssert<?, ? extends InputStream> assertThat(InputStream actual) {
+	    return new InputStreamAssert(actual);
+	  }
+	
   private static final InputStreams INSTANCE = new InputStreams();
 
   /**

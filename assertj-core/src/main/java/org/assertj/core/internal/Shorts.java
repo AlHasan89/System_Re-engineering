@@ -14,6 +14,9 @@ package org.assertj.core.internal;
 
 import static java.lang.Math.abs;
 
+import org.assertj.core.api.AbstractShortAssert;
+import org.assertj.core.api.ShortAssert;
+import org.assertj.core.util.CheckReturnValue;
 import org.assertj.core.util.VisibleForTesting;
 
 /**
@@ -25,6 +28,14 @@ import org.assertj.core.util.VisibleForTesting;
  */
 public class Shorts extends Numbers<Short> {
 
+	public static AbstractShortAssert<?> assertThat(short actual) {
+	    return new ShortAssert(actual);
+	  }
+
+	  public static AbstractShortAssert<?> assertThat(Short actual) {
+	    return new ShortAssert(actual);
+	  }
+	  
   private static final Shorts INSTANCE = new Shorts();
 
   /**

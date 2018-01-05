@@ -14,8 +14,10 @@ package org.assertj.core.internal;
 
 import java.util.Comparator;
 
+import org.assertj.core.api.AbstractIntArrayAssert;
 import org.assertj.core.api.ArraySortedAssert;
 import org.assertj.core.api.AssertionInfo;
+import org.assertj.core.api.IntArrayAssert;
 import org.assertj.core.data.Index;
 import org.assertj.core.util.VisibleForTesting;
 
@@ -29,6 +31,10 @@ import org.assertj.core.util.VisibleForTesting;
  */
 public class IntArrays {
 
+	public static AbstractIntArrayAssert<?> assertThat(int[] actual) {
+	    return new IntArrayAssert(actual);
+	  }
+	
   private static final IntArrays INSTANCE = new IntArrays();
 
   /**

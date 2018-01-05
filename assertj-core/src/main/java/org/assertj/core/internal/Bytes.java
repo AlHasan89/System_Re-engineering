@@ -12,6 +12,8 @@
  */
 package org.assertj.core.internal;
 
+import org.assertj.core.api.AbstractByteAssert;
+import org.assertj.core.api.ByteAssert;
 import org.assertj.core.util.VisibleForTesting;
 
 /**
@@ -22,7 +24,15 @@ import org.assertj.core.util.VisibleForTesting;
  * @author Joel Costigliola
  */
 public class Bytes extends Numbers<Byte> {
-
+	
+	public static AbstractByteAssert<?> assertThat(Byte actual) {
+	    return new ByteAssert(actual);
+	  }
+	
+	public static AbstractByteAssert<?> assertThat(byte actual) {
+	    return new ByteAssert(actual);
+	  }
+		
   private static final Bytes INSTANCE = new Bytes();
 
   /**

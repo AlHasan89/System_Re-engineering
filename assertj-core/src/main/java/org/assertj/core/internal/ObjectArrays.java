@@ -24,9 +24,11 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 
+import org.assertj.core.api.AbstractObjectArrayAssert;
 import org.assertj.core.api.ArraySortedAssert;
 import org.assertj.core.api.AssertionInfo;
 import org.assertj.core.api.Condition;
+import org.assertj.core.api.ObjectArrayAssert;
 import org.assertj.core.data.Index;
 import org.assertj.core.util.VisibleForTesting;
 
@@ -39,6 +41,10 @@ import org.assertj.core.util.VisibleForTesting;
  * @author Mikhail Mazursky
  */
 public class ObjectArrays {
+	
+	public static <T> AbstractObjectArrayAssert<?, T> assertThat(T[] actual) {
+	    return new ObjectArrayAssert<>(actual);
+	  }
 
   private static final ObjectArrays INSTANCE = new ObjectArrays();
 

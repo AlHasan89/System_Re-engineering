@@ -86,6 +86,28 @@ import org.assertj.core.data.TemporalUnitOffset;
 import org.assertj.core.data.TemporalUnitWithinOffset;
 import org.assertj.core.groups.Properties;
 import org.assertj.core.groups.Tuple;
+import org.assertj.core.internal.BigDecimals;
+import org.assertj.core.internal.BooleanArrays;
+import org.assertj.core.internal.Booleans;
+import org.assertj.core.internal.ByteArrays;
+import org.assertj.core.internal.Bytes;
+import org.assertj.core.internal.CharArrays;
+import org.assertj.core.internal.Characters;
+import org.assertj.core.internal.Classes;
+import org.assertj.core.internal.Doubles;
+import org.assertj.core.internal.FloatArrays;
+import org.assertj.core.internal.Floats;
+import org.assertj.core.internal.InputStreams;
+import org.assertj.core.internal.IntArrays;
+import org.assertj.core.internal.Integers;
+import org.assertj.core.internal.LongArrays;
+import org.assertj.core.internal.Longs;
+import org.assertj.core.internal.ObjectArrays;
+import org.assertj.core.internal.Objects;
+import org.assertj.core.internal.ShortArrays;
+import org.assertj.core.internal.Shorts;
+import org.assertj.core.internal.Uris;
+import org.assertj.core.internal.Urls;
 import org.assertj.core.presentation.BinaryRepresentation;
 import org.assertj.core.presentation.HexadecimalRepresentation;
 import org.assertj.core.presentation.Representation;
@@ -133,6 +155,7 @@ import org.assertj.core.util.introspection.FieldSupport;
 @CheckReturnValue
 public class Assertions {
 
+  static AssertionsFacade system;
   /**
    * Create assertion for {@link Predicate}.
    *
@@ -256,7 +279,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractBigDecimalAssert<?> assertThat(BigDecimal actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return BigDecimals.assertThat(actual);
   }
 
   /**
@@ -279,7 +302,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractUriAssert<?> assertThat(URI actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Uris.assertThat(actual);
   }
 
   /**
@@ -290,7 +313,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractUrlAssert<?> assertThat(URL actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Urls.assertThat(actual);
   }
 
   /**
@@ -301,7 +324,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractBooleanAssert<?> assertThat(boolean actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Booleans.assertThat(actual);
   }
 
   /**
@@ -312,7 +335,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractBooleanAssert<?> assertThat(Boolean actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Booleans.assertThat(actual);
   }
 
   /**
@@ -323,7 +346,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractBooleanArrayAssert<?> assertThat(boolean[] actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return BooleanArrays.assertThat(actual);
   }
 
   /**
@@ -334,7 +357,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractByteAssert<?> assertThat(byte actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Bytes.assertThat(actual);
   }
 
   /**
@@ -345,7 +368,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractByteAssert<?> assertThat(Byte actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Bytes.assertThat(actual);
   }
 
   /**
@@ -356,7 +379,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractByteArrayAssert<?> assertThat(byte[] actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return ByteArrays.assertThat(actual);
   }
 
   /**
@@ -367,7 +390,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractCharacterAssert<?> assertThat(char actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Characters.assertThat(actual);
   }
 
   /**
@@ -378,7 +401,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractCharArrayAssert<?> assertThat(char[] actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return CharArrays.assertThat(actual);
   }
 
   /**
@@ -389,7 +412,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractCharacterAssert<?> assertThat(Character actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Characters.assertThat(actual);
   }
 
   /**
@@ -400,7 +423,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractClassAssert<?> assertThat(Class<?> actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Classes.assertThat(actual);
   }
 
   /**
@@ -411,7 +434,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractDoubleAssert<?> assertThat(double actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Doubles.assertThat(actual);
   }
 
   /**
@@ -422,7 +445,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractDoubleAssert<?> assertThat(Double actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Doubles.assertThat(actual);
   }
 
   /**
@@ -433,7 +456,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractDoubleArrayAssert<?> assertThat(double[] actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Doubles.assertThat(actual);
   }
 
   /**
@@ -469,7 +492,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractInputStreamAssert<?, ? extends InputStream> assertThat(InputStream actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return InputStreams.assertThat(actual);
   }
 
   /**
@@ -480,7 +503,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractFloatAssert<?> assertThat(float actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Floats.assertThat(actual);
   }
 
   /**
@@ -491,7 +514,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractFloatAssert<?> assertThat(Float actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Floats.assertThat(actual);
   }
 
   /**
@@ -502,7 +525,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractFloatArrayAssert<?> assertThat(float[] actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return FloatArrays.assertThat(actual);
   }
 
   /**
@@ -513,7 +536,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractIntegerAssert<?> assertThat(int actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Integers.assertThat(actual);
   }
 
   /**
@@ -524,7 +547,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractIntArrayAssert<?> assertThat(int[] actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return IntArrays.assertThat(actual);
   }
 
   /**
@@ -535,7 +558,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractIntegerAssert<?> assertThat(Integer actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Integers.assertThat(actual);
   }
 
   /**
@@ -709,7 +732,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractLongAssert<?> assertThat(long actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Longs.assertThat(actual);
   }
 
   /**
@@ -720,7 +743,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractLongAssert<?> assertThat(Long actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Longs.assertThat(actual);
   }
 
   /**
@@ -731,7 +754,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractLongArrayAssert<?> assertThat(long[] actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return LongArrays.assertThat(actual);
   }
 
   /**
@@ -743,7 +766,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static <T> AbstractObjectAssert<?, T> assertThat(T actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Objects.assertThat(actual);
   }
 
   /**
@@ -755,7 +778,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static <T> AbstractObjectArrayAssert<?, T> assertThat(T[] actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return ObjectArrays.assertThat(actual);
   }
 
   /**
@@ -766,7 +789,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractShortAssert<?> assertThat(short actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Shorts.assertThat(actual);
   }
 
   /**
@@ -777,7 +800,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractShortAssert<?> assertThat(Short actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return Shorts.assertThat(actual);
   }
 
   /**
@@ -788,7 +811,7 @@ public class Assertions {
    */
   @CheckReturnValue
   public static AbstractShortArrayAssert<?> assertThat(short[] actual) {
-    return AssertionsForClassTypes.assertThat(actual);
+    return ShortArrays.assertThat(actual);
   }
 
   /**

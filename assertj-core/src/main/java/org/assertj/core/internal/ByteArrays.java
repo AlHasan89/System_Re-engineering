@@ -14,8 +14,10 @@ package org.assertj.core.internal;
 
 import java.util.Comparator;
 
+import org.assertj.core.api.AbstractByteArrayAssert;
 import org.assertj.core.api.ArraySortedAssert;
 import org.assertj.core.api.AssertionInfo;
+import org.assertj.core.api.ByteArrayAssert;
 import org.assertj.core.data.Index;
 import org.assertj.core.util.VisibleForTesting;
 
@@ -28,6 +30,10 @@ import org.assertj.core.util.VisibleForTesting;
  */
 public class ByteArrays {
 
+	public static AbstractByteArrayAssert<?> assertThat(byte[] actual) {
+	    return new ByteArrayAssert(actual);
+	  }
+	
   private static final ByteArrays INSTANCE = new ByteArrays();
 
   /**

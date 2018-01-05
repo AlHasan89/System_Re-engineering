@@ -56,7 +56,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+import org.assertj.core.api.AbstractObjectAssert;
 import org.assertj.core.api.AssertionInfo;
+import org.assertj.core.api.ObjectAssert;
 import org.assertj.core.internal.DeepDifference.Difference;
 import org.assertj.core.util.VisibleForTesting;
 import org.assertj.core.util.introspection.FieldSupport;
@@ -74,6 +76,10 @@ import org.assertj.core.util.introspection.PropertySupport;
  */
 public class Objects {
 
+	public static <T> AbstractObjectAssert<?, T> assertThat(T actual) {
+	    return new ObjectAssert<>(actual);
+	  }
+	
   private static final Objects INSTANCE = new Objects();
   @VisibleForTesting
   final PropertySupport propertySupport = PropertySupport.instance();

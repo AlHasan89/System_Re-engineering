@@ -17,7 +17,9 @@ import static java.lang.Character.*;
 import static org.assertj.core.error.ShouldBeLowerCase.shouldBeLowerCase;
 import static org.assertj.core.error.ShouldBeUpperCase.shouldBeUpperCase;
 
+import org.assertj.core.api.AbstractCharacterAssert;
 import org.assertj.core.api.AssertionInfo;
+import org.assertj.core.api.CharacterAssert;
 import org.assertj.core.util.VisibleForTesting;
 
 
@@ -29,6 +31,14 @@ import org.assertj.core.util.VisibleForTesting;
  */
 public class Characters extends Comparables {
 
+	public static AbstractCharacterAssert<?> assertThat(char actual) {
+	    return new CharacterAssert(actual);
+	}
+	
+	public static AbstractCharacterAssert<?> assertThat(Character actual) {
+	    return new CharacterAssert(actual);
+	}
+	
   private static final Characters INSTANCE = new Characters();
 
   /**

@@ -15,7 +15,9 @@ package org.assertj.core.internal;
 import static org.assertj.core.error.ShouldBeEqual.shouldBeEqual;
 import static org.assertj.core.error.ShouldNotBeEqual.shouldNotBeEqual;
 
+import org.assertj.core.api.AbstractBooleanAssert;
 import org.assertj.core.api.AssertionInfo;
+import org.assertj.core.api.BooleanAssert;
 import org.assertj.core.util.VisibleForTesting;
 
 
@@ -26,6 +28,13 @@ import org.assertj.core.util.VisibleForTesting;
  */
 public class Booleans {
 
+	public static AbstractBooleanAssert<?> assertThat(boolean actual) {
+	    return new BooleanAssert(actual);
+	  }
+	
+	public static AbstractBooleanAssert<?> assertThat(Boolean actual) {
+	    return new BooleanAssert(actual);
+	  }
   private static final Booleans INSTANCE = new Booleans();
 
   /**

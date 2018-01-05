@@ -12,6 +12,8 @@
  */
 package org.assertj.core.internal;
 
+import org.assertj.core.api.AbstractIntegerAssert;
+import org.assertj.core.api.IntegerAssert;
 import org.assertj.core.util.VisibleForTesting;
 
 /**
@@ -23,6 +25,11 @@ import org.assertj.core.util.VisibleForTesting;
  */
 public class Integers extends Numbers<Integer> {
 
+	public static AbstractIntegerAssert<?> assertThat(int actual) {
+	    return new IntegerAssert(actual);
+	  }
+
+	
   private static final Integers INSTANCE = new Integers();
 
   /**

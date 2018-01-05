@@ -39,7 +39,9 @@ import java.nio.charset.Charset;
 import java.nio.charset.MalformedInputException;
 import java.util.List;
 
+import org.assertj.core.api.AbstractFileAssert;
 import org.assertj.core.api.AssertionInfo;
+import org.assertj.core.api.FileAssert;
 import org.assertj.core.api.exception.RuntimeIOException;
 import org.assertj.core.util.VisibleForTesting;
 import org.assertj.core.util.diff.Delta;
@@ -53,7 +55,7 @@ import org.assertj.core.util.diff.Delta;
  * @author Olivier Demeijer
  */
 public class Files {
-
+	
   private static final String UNABLE_TO_COMPARE_FILE_CONTENTS = "Unable to compare contents of files:<%s> and:<%s>";
   private static final Files INSTANCE = new Files();
 

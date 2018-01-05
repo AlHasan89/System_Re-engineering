@@ -12,6 +12,9 @@
  */
 package org.assertj.core.internal;
 
+import org.assertj.core.api.AbstractLongAssert;
+import org.assertj.core.api.LongAssert;
+import org.assertj.core.util.CheckReturnValue;
 import org.assertj.core.util.VisibleForTesting;
 
 /**
@@ -23,6 +26,14 @@ import org.assertj.core.util.VisibleForTesting;
  */
 public class Longs extends Numbers<Long> {
 
+	  public static AbstractLongAssert<?> assertThat(long actual) {
+	    return new LongAssert(actual);
+	  }
+
+	  public static AbstractLongAssert<?> assertThat(Long actual) {
+	    return new LongAssert(actual);
+	  }
+	  
   private static final Longs INSTANCE = new Longs();
 
   /**

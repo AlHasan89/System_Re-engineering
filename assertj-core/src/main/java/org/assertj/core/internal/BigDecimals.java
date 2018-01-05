@@ -17,6 +17,8 @@ import static java.math.BigDecimal.ZERO;
 
 import java.math.BigDecimal;
 
+import org.assertj.core.api.AbstractBigDecimalAssert;
+import org.assertj.core.api.BigDecimalAssert;
 import org.assertj.core.util.VisibleForTesting;
 
 /**
@@ -27,6 +29,10 @@ import org.assertj.core.util.VisibleForTesting;
  * @author Joel Costigliola
  */
 public class BigDecimals extends Numbers<BigDecimal> {
+
+	public static AbstractBigDecimalAssert<?> assertThat(BigDecimal actual) {
+	    return new BigDecimalAssert(actual);
+	  }
 
   private static final BigDecimals INSTANCE = new BigDecimals();
 

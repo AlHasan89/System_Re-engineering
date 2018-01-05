@@ -14,8 +14,10 @@ package org.assertj.core.internal;
 
 import java.util.Comparator;
 
+import org.assertj.core.api.AbstractFloatArrayAssert;
 import org.assertj.core.api.ArraySortedAssert;
 import org.assertj.core.api.AssertionInfo;
+import org.assertj.core.api.FloatArrayAssert;
 import org.assertj.core.data.Index;
 import org.assertj.core.util.VisibleForTesting;
 
@@ -28,6 +30,10 @@ import org.assertj.core.util.VisibleForTesting;
  */
 public class FloatArrays {
 
+	public static AbstractFloatArrayAssert<?> assertThat(float[] actual) {
+	    return new FloatArrayAssert(actual);
+	  }
+	
   private static final FloatArrays INSTANCE = new FloatArrays();
 
   /**

@@ -48,7 +48,9 @@ import java.util.Map;
 import java.util.Set;
 import java.util.SortedSet;
 
+import org.assertj.core.api.AbstractClassAssert;
 import org.assertj.core.api.AssertionInfo;
+import org.assertj.core.api.ClassAssert;
 import org.assertj.core.util.Arrays;
 
 /**
@@ -57,6 +59,10 @@ import org.assertj.core.util.Arrays;
  * @author William Delanoue
  */
 public class Classes {
+	
+	public static AbstractClassAssert<?> assertThat(Class<?> actual) {
+	    return new ClassAssert(actual);
+	  }
 
   private static final Classes INSTANCE = new Classes();
 
